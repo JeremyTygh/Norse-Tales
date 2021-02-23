@@ -1,0 +1,32 @@
+start = story
+
+story = element story { title, body }
+
+title = element title { text }
+
+body = element body { p }
+
+p = element p { mixed{(character | dialogue | action | descriptor | 
+transformation | fig_lang | misconception)*} }
+
+character = element character { text }
+dialogue = element dialogue { speaker, subject, mixed{(character | action | descriptor | 
+transformation | fig_lang | misconception)*} }
+
+speaker = attribute speaker { text }
+
+action = element action { actor, subject, text }
+descriptor = element descriptor { speaker, subject, text }
+
+actor = attribute actor { text }
+subject = attribute subject { text }
+
+transformation = element transformation { form, subject, text }
+
+form = attribute form { text }
+
+fig_lang = element fig_lang {type, relation*, subject, text}
+type = attribute type { text }
+relation = attribute relation { text }
+
+misconception = element misconception { actor, subject, text}
