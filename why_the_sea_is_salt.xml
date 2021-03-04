@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="norseTalesSchema.rnc" type-"application/relax-ng-compact=syntax"?>
 
-
-<tale title="WHY THE SEA IS SALT"> Once on a time, but it was a long, long time ago, there were two
+<story>
+    <title>WHY THE SEA IS SALT</title> 
+    <body>
+    <p>Once on a time, but it was a long, long time ago, there were two
     brothers, one rich and one poor. Now, one Christmas eve, the poor one hadn’t so much as a crumb
     in the house, either of meat or bread, so he went to his brother to ask him for something to
     keep Christmas with, in God’s name. It was not the first time his brother had been forced to
@@ -96,4 +99,6 @@
     when the skipper had got the ship full, he wished to stop the quern, but whichever way he turned
     it, and however much he tried, it was no good; the quern kept grinding on, and the heap of salt
     grew higher and higher, and at last down sank the ship. There lies the quern at the bottom of
-    the sea, and grinds away at this very day, and that’s why the sea is salt. </tale>
+    the sea, and grinds away at this very day, and that’s why the sea is salt.</p>
+    </body>
+</story>

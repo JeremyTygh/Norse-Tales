@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="norseTalesSchema.rnc" type-"application/relax-ng-compact=syntax"?>
 
-<tale title="TAMING THE SHREW"> Once on a time there was a king, and he had a daughter who was such
+<story>
+    <title>TAMING THE SHREW</title> 
+    <body>
+        <p>Once on a time there was a king, and he had a daughter who was such
     a scold, and whose tongue went so fast, there was no stopping it. So he gave out that the man
     who could stop her tongue should have the Princess to wife, and half his kingdom into the
     bargain. Now, three brothers, who heard this, made up their minds to go and try their luck; and
@@ -23,4 +27,6 @@
     Princess, “you must have come here to wear out my tongue with your nonsense.” “No, I have not”,
     said the lad; “but this is worn out”, as he pulled out the shoe-sole. To this the Princess
     hadn’t a word to say, for she had fairly lost her voice with rage. “Now you are mine”, said the
-    lad; and so he got the Princess to wife, and half the kingdom.</tale>
+    lad; and so he got the Princess to wife, and half the kingdom.</p>
+    </body>
+</story>

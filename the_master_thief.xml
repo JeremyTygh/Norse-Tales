@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="norseTalesSchema.rnc" type-"application/relax-ng-compact=syntax"?>
 
-<tale title="THE MASTER THIEF"> Once upon a time there was a poor cottager who had three sons. He
+<story>
+    <title>THE MASTER THIEF</title> 
+    <body>
+        <p>Once upon a time there was a poor cottager who had three sons. He
     had nothing to leave them when he died, and no money with which to put them to any trade, so
     that he did not know what to make of them. At last he said he would give them leave to take to
     anything each liked best, and to go whithersoever they pleased, and he would go with them a bit
@@ -316,4 +320,6 @@
     tell the truth, he was afraid lest the Master Thief should steal the eyes out of his head, and
     that the people would begin to say spiteful things of him if he broke his word. So the Master
     Thief lived well and happily from that time forward. I don’t know whether he stole any more; but
-    if he did, I am quite sure it was only for the sake of a bit of fun. </tale>
+    if he did, I am quite sure it was only for the sake of a bit of fun.</p>
+    </body>
+</story>
