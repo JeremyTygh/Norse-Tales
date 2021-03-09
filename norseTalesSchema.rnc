@@ -1,14 +1,14 @@
 start = story
 story = element story { title, body }
 title = element title { text }
-body = element body { p }
+body = element body { p* }
 #
 # #####
 # mixed pattern used in multiple content models
 # #####
 #
 textual_content =
-    mixed { (character | action | descriptor | transformation | fig_lang | misconception)* }
+    mixed { (character | action | descriptor | transformation | fig_lang | misconception| dialogue)* }
 p = element p { textual_content }
 #
 # #####
