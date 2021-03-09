@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="norseTalesSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <!--  Note: author refers to same character under differnet names: [old widow, mother]  [lad, son] attribute?
     put n/a in subject attribute if it something like snore-->
@@ -126,7 +127,7 @@
         <p>So, as the way was long, the <character>lad</character> turned in this night too to the
                 <character>landlord</character>; but as he could pretty well guess how things stood
             as to the cloth and the ram, he lay down at once on the bench and began to <action
-                actor="lad" subject="n/a">snore</action>, as if he were asleep.</p>
+                actor="lad" subject="environment">snore</action>, as if he were asleep.</p>
 
         <p>Now the <character>landlord</character>, who easily saw that the stick must be worth
             something, <descriptor speaker="narrator" subject="landlord">hunted</descriptor> up one
