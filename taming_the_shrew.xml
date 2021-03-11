@@ -2,31 +2,45 @@
 <?xml-model href="norseTalesSchema.rnc" type-"application/relax-ng-compact=syntax"?>
 
 <story>
-    <title>TAMING THE SHREW</title> 
+    <title>TAMING THE SHREW</title>
     <body>
-        <p>Once on a time there was a king, and he had a daughter who was such
-    a scold, and whose tongue went so fast, there was no stopping it. So he gave out that the man
-    who could stop her tongue should have the Princess to wife, and half his kingdom into the
-    bargain. Now, three brothers, who heard this, made up their minds to go and try their luck; and
-    first of all the two elder went, for they thought they were the cleverest; but they couldn’t
-    cope with her at all, and got well thrashed besides. Then Boots, the youngest, set off, and when
-    he had gone a little way he found an ozier band lying on the road, and he picked it up. When he
-    had gone a little farther he found a piece of a broken plate, and he picked that up too. A
-    little farther on he found a dead magpie, and a little farther on still, a crooked ram’s horn;
-    so he went on a bit and found the fellow to the horn; and at last, just as he was crossing the
-    fields by the king’s palace, where they were pitching out dung, he found a worn-out shoe-sole.
-    All these things he took with him into the palace, and went before the Princess. “Good day”,
-    said he. “Good day”, said she, and made a wry face. “Can I get my magpie cooked here?” he asked.
-    “I’m afraid it will burst”, answered the Princess. “Oh! never fear! for I’ll just tie this ozier
-    band round it”, said the lad, as he pulled it out. “The fat will run out of it”, said the
-    Princess. “Then I’ll hold this under it”, said the lad, and showed her the piece of broken
-    plate. “You are so crooked in your words”, said the Princess, “there’s no knowing where to have
-    you.” “No, I’m not crooked”, said the lad; “but this is”, as he held up one of the horns.
-    “Well!” said the Princess, “I never saw the match of this in all my days.” “Why, here you see
-    the match to it”, said the lad, as he pulled out the other ram’s horn. “I think”, said the
-    Princess, “you must have come here to wear out my tongue with your nonsense.” “No, I have not”,
-    said the lad; “but this is worn out”, as he pulled out the shoe-sole. To this the Princess
-    hadn’t a word to say, for she had fairly lost her voice with rage. “Now you are mine”, said the
-    lad; and so he got the Princess to wife, and half the kingdom.</p>
+        <p>Once on a time there was a <character>king</character>, and he had a
+                <character>daughter</character> who was such <descriptor speaker="narrator"
+                subject="Princess" sign="negative">a scold</descriptor>, and whose<fig_lang
+                type="personification" subject="Princess" sign="negative"> tongue went so fast,
+                there was no stopping it</fig_lang>. So he gave out that the man who could stop her
+            tongue should have the Princess to wife, and half his kingdom into the bargain. Now,
+            three brothers, who heard this, made up their minds to go and try their luck; and first
+            of all the two elder went, for they thought they were the cleverest; but they couldn’t
+            cope with her at all, and got well thrashed besides.</p>
+        <p> Then <character>Boots</character>, the <descriptor speaker="narrator" subject="Boots" sign="neutral">
+            youngest</descriptor>, set off, and when he had gone a little way he found an ozier
+            band lying on the road, and he picked it up. When he had gone a little farther he found
+            a piece of a broken plate, and he picked that up too. A little farther on he found a
+            dead magpie, and a little farther on still, a crooked ram’s horn; so he went on a bit
+            and found the fellow to the horn; and at last, just as he was crossing the fields by the
+            king’s palace, where they were pitching out dung, he found a worn-out shoe-sole. All
+            these things he took with him into the palace, and went before the Princess.</p>
+        <p><dialogue subject="Princess" speaker="Boots"> “Good day”</dialogue>, said he.</p>
+        <p><dialogue subject="Boots" speaker="Princess">
+            “Good day”</dialogue>, said she, and made a wry face.</p> 
+        <p><dialogue subject="Princess" speaker="Boots">“Can I get my magpie cooked here?”</dialogue> he asked.</p>
+        <p><dialogue subject="Boots" speaker="Princess">“I’m afraid it will burst”</dialogue>,answered the Princess.</p>
+        <p> <dialogue subject="Princess" speaker="Boots">“Oh! never fear! for I’ll just tie this ozier band round it”</dialogue>,
+            said the lad, as he pulled it out.</p>
+        <p> <dialogue subject="Boots" speaker="Princess">“The fat will run out of it”</dialogue>, said the Princess.</p>
+        <p><dialogue subject="Princess" speaker="Boots">“Then I’ll hold this under it”</dialogue>, said the lad, and showed her the piece of broken plate.</p>
+        <p><dialogue subject="Boots" speaker="Princess">“You are so <descriptor speaker="Princess" subject="Boots" sign="negative">crooked</descriptor> in your words”</dialogue>
+            , said the Princess, <dialogue speaker="Princess" subject="Boots">“there’s no knowing where to have you.”</dialogue></p>
+        <p> <dialogue speaker="Boots" subject="Princess">“No, I’m not crooked”</dialogue>, said the lad; <dialogue speaker="Boots" subject="Princess">
+            “but this is”</dialogue>, as he held up one of the horns.</p>
+        <p> <dialogue speaker="Princess" subject="Boots">“Well!”</dialogue> said the Princess, <dialogue speaker="Princess" subject="Boots">“I never saw the match of this in all my days.”</dialogue></p>
+        <p><dialogue speaker="Boots" subject="Princess">“Why here you see the match to it”</dialogue>, said the lad, as he pulled out the other ram’s horn.</p>
+        <p><dialogue speaker="Princess" subject="Boots">“I think”</dialogue>, said the Princess, <dialogue speaker="Princess" subject="Boots">“you must have come here to wear out my tongue with your
+            nonsense.”</dialogue></p> 
+        <p><dialogue speaker="Boots" subject="Princess">“No, I have not”</dialogue>, said the lad; <dialogue speaker="Boots" subject="Princess">“but this is worn out”</dialogue>, as he pulled out the
+            shoe-sole. To this the Princess hadn’t a word to say, for she had fairly lost her voice
+            with rage. <dialogue subject="Boots" speaker="Princess">“Now you are mine”</dialogue>, said the lad; and so he got the Princess to <action actor="Boots" subject="Princess" sign="positive">wife</action>, and
+            half the kingdom.</p>
     </body>
 </story>
