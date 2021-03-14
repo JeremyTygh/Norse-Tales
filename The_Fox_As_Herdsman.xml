@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-model href="norseTalesSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title>THE FOX AS HERDSMAN</title>
 
     <body>
-        <p>Once on a time there was a woman who went out to hire a herdsman, and she met a bear.</p>
+        <p>Once on a time there was a <character>woman</character> who went out to hire a herdsman,
+            and she met a <character>bear</character>.</p>
 
-        <p><fig_lang type="personification" subject="bear">“Whither away, Goody?” said <character
-                    type="bear">Bruin</character></fig_lang>.</p>
+        <p><fig_lang type="personification" subject="bear">“Whither away, Goody?” said
+                Bruin</fig_lang>.</p>
 
         <p>
             <dialogue speaker="woman" subject="bear">“Oh, I’m going out to hire a herdsman”,
@@ -15,10 +17,8 @@
         </p>
 
         <p>
-            <fig_lang type="personification" subject="bear">
-                <dialogue speaker="bear" subject="woman">“Why not have me for a herdsman?” said
-                    Bruin.</dialogue>
-            </fig_lang>
+            <dialogue speaker="bear" subject="woman"><fig_lang type="personification" subject="bear"
+                    >“Why not have me for a herdsman?” said Bruin.</fig_lang></dialogue>
         </p>
 
         <p>
@@ -35,13 +35,11 @@
                 soon as she heard him say that, and off she went on her way.</dialogue>
         </p>
 
-        <p>So, when she had gone a bit further, she met a wolf.</p>
+        <p>So, when she had gone a bit further, she met a <character>wolf</character>.</p>
 
         <p>
-            <fig_lang type="personification" subject="wolf">
-                <dialogue speaker="wolf" subject="woman">“Whither away, Goody?” asked the <character
-                        type="wolf">Wolf</character>.</dialogue>
-            </fig_lang>
+            <dialogue speaker="wolf" subject="woman"><fig_lang type="personification" subject="wolf"
+                    >“Whither away, Goody?” asked the Wolf.</fig_lang></dialogue>
         </p>
 
         <p>
@@ -50,8 +48,8 @@
         </p>
 
         <p>
-            <fig_lang type="personification" subject="wolf"><dialogue speaker="wolf" subject="woman">“Why not have me for a herdsman?” said the
-                Wolf.</dialogue></fig_lang>
+            <dialogue speaker="wolf" subject="woman"><fig_lang type="personification" subject="wolf"
+                    >“Why not have me for a herdsman?” said the Wolf.</fig_lang></dialogue>
         </p>
 
         <p>
@@ -68,44 +66,49 @@
                 me.”</dialogue>
         </p>
 
-        <p>Well, after she had gone a while longer, she met a fox.</p>
+        <p>Well, after she had gone a while longer, she met a <character>fox</character>.</p>
 
         <p>
-            <fig_lang type="personification" subject="fox"><dialogue speaker="fox" subject="woman">“Whither away, Goody?” asked the
-                Fox.</dialogue></fig_lang>
+            <dialogue speaker="fox" subject="woman"><fig_lang type="personification" subject="fox"
+                    >“Whither away, Goody?” asked the Fox.</fig_lang></dialogue>
         </p>
 
-        <p><dialogue speaker="woman" subject="fox">“Oh, I’m just going out to hire a herdsman”, said the woman.</dialogue></p>
+        <p><dialogue speaker="woman" subject="fox">“Oh, I’m just going out to hire a herdsman”, said
+                the woman.</dialogue></p>
 
         <p>
-            <fig_lang type="personification" subject="fox"><dialogue speaker="fox" subject="woman">“Why not have me for your herdsman?”
-                asked the Fox.</dialogue></fig_lang>
+            <dialogue speaker="fox" subject="woman"><fig_lang type="personification" subject="fox"
+                    >“Why not have me for your herdsman?” asked the Fox.</fig_lang></dialogue>
         </p>
 
-        <p><dialogue speaker="woman" subject="fox">“Well, why not?” said she; “if you only knew how to call the flock; let me hear?”</dialogue></p>
+        <p><dialogue speaker="woman" subject="fox">“Well, why not?” said she; “if you only knew how
+                to call the flock; let me hear?”</dialogue></p>
 
-        <p><dialogue speaker="fox" subject="woman">“DIL-DAL-HOLOM”, sung out the Fox, in such a fine clear voice.</dialogue></p>
+        <p><dialogue speaker="fox" subject="woman">“DIL-DAL-HOLOM”, sung out the Fox, in such a fine
+                clear voice.</dialogue></p>
 
-        <p><dialogue speaker="woman" subject="fox">“Yes; I’ll have you for my herdsman”, said the woman; and so she set the Fox to herd her
-            flock.</dialogue></p>
+        <p><dialogue speaker="woman" subject="fox">“Yes; I’ll have you for my herdsman”, said the
+                woman; and so she set the Fox to herd her flock.</dialogue></p>
 
-        <p>The first day the Fox was herdsman he <action actor="fox" subject="woman"><textual_content character="fox is duplicitous">ate up all the
-                woman’s goats; the next day he made an end of all her sheep; and the third day he
-                ate up all her kine.</textual_content></action> So, when he came home at even, the woman asked what he
-            had done with all her flocks?</p>
+        <p>The first day the Fox was herdsman he <action actor="fox" subject="woman" sign="negative"
+                >ate up all the woman’s goats; the next day he made an end of all her sheep; and the
+                third day he ate up all her kine.</action> So, when he came home at even, the woman
+            asked what he had done with all her flocks?</p>
 
         <p>
-            <fig_lang type="pesonification" subject="fox"><dialogue speaker="fox" subject="woman">“Oh!” said the Fox, “their skulls are in
-                the stream, and their bodies in the holt.”</dialogue></fig_lang>
+            <dialogue speaker="fox" subject="woman"><fig_lang type="pesonification" subject="fox"
+                    >“Oh!” said the Fox, “their skulls are in the stream, and their bodies in the
+                    holt.”</fig_lang></dialogue>
         </p>
 
         <p>Now, the Goody stood and churned when the fox said this, but she thought she might as
             well step out and see after her flock; and while she was away <action actor="fox"
-                subject="cream">the Fox crept into the churn and ate up the cream.</action> So when
-            the Goody came back and saw that, she fell into such a rage, that <descriptor
-                speaker="storyteller" subject="fox"><action actor="woman" subject="fox">she snatched
-                    up the little morsel of the cream that was left, and threw it at the fox as he
-                    ran off,</action> so that he got a dab of it on the end of his tail, and that’s
-                the reason why the fox has a white tip to his brush.</descriptor></p>
+                subject="cream" sign="negative">the Fox crept into the churn and ate up the
+                cream.</action> So when the Goody came back and saw that, she fell into such a rage,
+            that <descriptor speaker="storyteller" subject="fox" sign="negative"><action
+                    actor="woman" subject="fox" sign="negative">she snatched up the little morsel of
+                    the cream that was left, and threw it at the fox as he ran off,</action> so that
+                he got a dab of it on the end of his tail, and that’s the reason why the fox has a
+                white tip to his brush.</descriptor></p>
     </body>
 </story>

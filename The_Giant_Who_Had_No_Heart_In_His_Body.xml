@@ -3,24 +3,25 @@
     <title>THE GIANT WHO HAD NO HEART IN HIS BODY</title>
 
     <body>
-        <p>Once on a time there was a king who had seven sons, and he loved them so much that he
-            could never bear to be without them all at once, but one must always be with him. Now,
-            when they were grown up, six were to set off to woo, but as for the <descriptor
-                speaker="Narrator" subject="Boots">youngest</descriptor>, his father kept him at
-            home, and the others were to bring back a princess for him to the palace. So the king
-            gave the six the finest clothes you ever set eyes on, so fine that the light gleamed
-            from them a long way off, and each had his horse, which cost many, many hundred dollars,
-            and so they set off. Now, when they had been to many palaces, and seen many princesses,
-            at last they came to a king who had six daughters; such lovely king’s daughters they had
-            never seen, and so they fell to wooing them, each one, and when they had got them for
-            sweethearts, they set off home again, but they quite forgot that they were to bring back
-            with them a sweetheart for <character description="youngest prince/Boots"
-                >Boots</character>, their brother, who stayed at home, for they were over head and
-            ears in love with their own sweethearts.</p>
+        <p>Once on a time there was a <character>king</character>
+            <descriptor speaker="Narrator" subject="King">who had seven sons, and he loved them so
+                much that he could never bear to be without them all at once, but one must always be
+                with him.</descriptor> Now, when they were grown up, six were to set off to woo, but
+            as for the <descriptor speaker="Narrator" subject="Boots">youngest</descriptor>, his
+            father kept him at home, and the others were to bring back a princess for him to the
+            palace. So the king gave the six the finest clothes you ever set eyes on, so fine that
+            the light gleamed from them a long way off, and each had his horse, which cost many,
+            many hundred dollars, and so they set off. Now, when they had been to many palaces, and
+            seen many princesses, at last they came to a king who had six daughters; such lovely
+            king’s daughters they had never seen, and so they fell to wooing them, each one, and
+            when they had got them for sweethearts, they set off home again, but they quite forgot
+            that they were to bring back with them a sweetheart for <character>Boots</character>,
+            their brother, who stayed at home, for they were over head and ears in love with their
+            own sweethearts.</p>
 
         <p>But when they had gone a good bit on their way, they passed close by a steep hill-side,
-            like a wall, where the giant’s house was, and there the <character type="Giant"
-                >giant</character> came out, and set his eyes upon them, and <action actor="giant"
+            like a wall, where the giant’s house was, and there the <character>giant</character>
+            came out, and set his eyes upon them, and <action actor="giant"
                 subject="princes and princesses">turned them all into stone, princes and princesses
                 and all.</action> Now the king waited and waited for his six sons, but the more he
             waited, the longer they stayed away; so he fell into great trouble, and said he should
@@ -325,7 +326,7 @@
             Princess.</p>
 
         <p><dialogue speaker="Giant" subject="Princess">“And, pray, what’s the meaning of all this
-            tom-foolery?” asked the Giant.</dialogue></p>
+                tom-foolery?” asked the Giant.</dialogue></p>
 
         <p>
             <dialogue speaker="Princess" subject="Giant">“Oh, I’m so fond of you, I couldn’t help
@@ -352,7 +353,8 @@
                 that, ’twould be such a pleasure to know where it really lies.”</dialogue>
         </p>
 
-        <p>Then the poor <character type="Giant">Giant</character> could hold out no longer, but was forced to say:</p>
+        <p>Then the poor <character type="Giant">Giant</character> could hold out no longer, but was
+            forced to say:</p>
 
         <p>
             <dialogue speaker="Giant" subject="Princess">“Far, far away in a lake lies an island; on
@@ -361,7 +363,8 @@
                 darling!”</dialogue>
         </p>
 
-        <p>In the morning early, while it was still grey dawn, the <character type="Giant">Giant</character> strode off to the wood.</p>
+        <p>In the morning early, while it was still grey dawn, the <character type="Giant"
+                >Giant</character> strode off to the wood.</p>
 
         <p>“Yes! now I must set off too”, said Boots; “if I only knew how to find the way.” He took
             a long, long farewell of the Princess, and when he got out of the Giant’s door, there
@@ -385,11 +388,12 @@
         <p><action actor="Raven" textual_content="helping Boots retrieve the key">So the Prince
                 called on the raven, and in a trice the raven came, and flew up and fetched the
                 keys, and so the Prince got into the church</action>. But when he came to the well,
-            there lay the duck, and swam about backwards and forwards, just as the <character type="Giant">Giant</character> had said.
-            So the Prince stood and coaxed it and coaxed it, till it came to him, and he grasped it
-            in his hand; but just as he lifted it up from the water the duck dropped the egg into
-            the well, and then <character type="Boots">Boots</character> was beside himself to know
-            how to get it out again.</p>
+            there lay the duck, and swam about backwards and forwards, just as the <character
+                type="Giant">Giant</character> had said. So the Prince stood and coaxed it and
+            coaxed it, till it came to him, and he grasped it in his hand; but just as he lifted it
+            up from the water the duck dropped the egg into the well, and then <character
+                type="Boots">Boots</character> was beside himself to know how to get it out
+            again.</p>
 
         <p><dialogue speaker="Wolf" subject="Boots">“Well, now you must call on the salmon to be
                 sure”, said the Wolf</dialogue>; and the king’s son called on the salmon, <action
@@ -401,33 +405,35 @@
 
         <p><dialogue speaker="Wolf" subject="Boots">“Squeeze it again”, said the Wolf</dialogue>;
                 <action actor="Boots" textual_content="squeezing Giant's heart">and when the Prince
-                did so</action>, the <character type="Giant">Giant</character> screamed still more piteously, and <dialogue
-                speaker="Giant" subject="Boots">begged and prayed so prettily to be spared, saying
-                he would do all that the Prince wished if he would only not squeeze his heart in
-                two.</dialogue></p>
+                did so</action>, the <character type="Giant">Giant</character> screamed still more
+            piteously, and <dialogue speaker="Giant" subject="Boots">begged and prayed so prettily
+                to be spared, saying he would do all that the Prince wished if he would only not
+                squeeze his heart in two.</dialogue></p>
 
         <p><dialogue speaker="Wolf" subject="Boots">“Tell him, if he will restore to life again your
                 six brothers and their brides, whom he has turned to stone, you will spare his
-                life”, said the Wolf.</dialogue> Yes, the <character type="Giant">Giant</character> was ready to do that, and <action
-                actor="Giant" textual_content="return princes and princesses back to being human">he
-                turned the six brothers into king’s sons again, and their brides into king’s
+                life”, said the Wolf.</dialogue> Yes, the <character type="Giant">Giant</character>
+            was ready to do that, and <action actor="Giant"
+                textual_content="return princes and princesses back to being human">he turned the
+                six brothers into king’s sons again, and their brides into king’s
                 daughters.</action></p>
 
         <p>
             <dialogue speaker="Wolf" subject="Boots">“Now, squeeze the egg in two”, said the
                 Wolf.</dialogue>
-            <action actor="Boots" textual_content="Boots kills the Giant"> So Boots squeezed the egg to pieces, and the
-                Giant burst at once.</action>
+            <action actor="Boots" textual_content="Boots kills the Giant"> So Boots squeezed the egg
+                to pieces, and the Giant burst at once.</action>
         </p>
 
-        <p>Now, when he had made an end of the <character type="Giant">Giant</character>, <character type="Boots">Boots</character> rode
-            back again on the wolf to the Giant’s house, and there stood all his six brothers alive
-            and merry, with their brides. Then <character type="Boots">Boots</character> went into
-            the hill-side after his bride, and so they all set off home again to their father’s
-            house. And you may fancy how glad the old king was when he saw all his seven sons come
-            back, each with his bride—<dialogue speaker="King" subject="everyone">“But the loveliest
-                bride of all is the bride of Boots, after all”, said the king, “and he shall sit
-                uppermost at the table, with her by his side.”</dialogue></p>
+        <p>Now, when he had made an end of the <character type="Giant">Giant</character>, <character
+                type="Boots">Boots</character> rode back again on the wolf to the Giant’s house, and
+            there stood all his six brothers alive and merry, with their brides. Then <character
+                type="Boots">Boots</character> went into the hill-side after his bride, and so they
+            all set off home again to their father’s house. And you may fancy how glad the old king
+            was when he saw all his seven sons come back, each with his bride—<dialogue
+                speaker="King" subject="everyone">“But the loveliest bride of all is the bride of
+                Boots, after all”, said the king, “and he shall sit uppermost at the table, with her
+                by his side.”</dialogue></p>
 
         <p>So he sent out, and called a great wedding-feast, and the mirth was both loud and long,
             and if they have not done feasting, why, they are still at it.</p>

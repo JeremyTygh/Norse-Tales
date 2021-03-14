@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="norseTalesSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <story>
     <title>TATTERHOOD</title>
     <body>
-        <p>Once on a time there was a <character type="King and Queen">king and a queen</character>
-            who had no children, and that gave the queen much grief; she scarce had one happy hour.
-            She was always bewailing and bemoaning herself, and saying how dull and lonesome it was
-            in the palace.</p>
+        <p>Once on a time there was a <character>king and a queen</character>
+            <descriptor speaker="Narrator" subject="King and Queen" sign="neutral">who had no
+                children</descriptor>, and that gave the queen much grief; she scarce had one happy
+            hour. She was always bewailing and bemoaning herself, and saying how dull and lonesome
+            it was in the palace.</p>
 
         <p>
             <dialogue speaker="Queen" subject="herself">“If we had children there’d be life enough”,
@@ -16,14 +18,13 @@
             vilest hut; and wherever she came she heard the Goodies scolding the bairns, and saying
             how they had done that and that wrong. All this the queen heard, and thought it would be
             so nice to do as other women did. At last the king and queen took into their palace a
-            stranger <character type="lassie/young girl">lassie</character> to rear up, that they
-            might have her always with them, to love her if she did well, and scold her if she did
-            wrong, like their own child.</p>
+            stranger <character>lassie</character> to rear up, that they might have her always with
+            them, to love her if she did well, and scold her if she did wrong, like their own
+            child.</p>
 
-        <p>So one day the little <character type="lassie">lassie</character> whom they had taken as
-            their own, ran down into the palace yard, and was playing with a gold apple. Just then
-            an <character type="old beggar wife/witch?">old beggar wife</character> came by, who had
-            a <character type="little girl" description="beggar wife's daughter">little
+        <p>So one day the little <character>lassie</character> whom they had taken as their own, ran
+            down into the palace yard, and was playing with a gold apple. Just then an
+                <character>old beggar wife</character> came by, who had a <character>little
                 girl</character> with her, and it wasn’t long before the little lassie and the
             beggar’s bairn were great friends, and began to play together, and to toss the gold
             apple about between them. When the Queen saw this, as she sat at a window in the palace,
@@ -92,17 +93,15 @@
             looked under the bed next morning, there stood two flowers; one was ugly and foul, and
             had black leaves; but the other was so bright, and fair, and lovely, she had never seen
             its like; so she ate it up at once. But the pretty flower tasted so sweet, that she
-            couldn’t help herself. <textual_content
-                action="the Queen did not follow the beggar wife's instructions">She ate the other
-                up too</textual_content>, for, she thought, <dialogue speaker="Queen"
-                subject="herself">“it can’t hurt or help one much either way, I’ll be
-                bound”.</dialogue></p>
+            couldn’t help herself. She ate the other up too, for, she thought, <dialogue
+                speaker="Queen" subject="herself">“it can’t hurt or help one much either way, I’ll
+                be bound”.</dialogue></p>
 
         <p>Well, sure enough, after a while the Queen was brought to bed. First of all, she had a
-                <descriptor speaker="narrator" subject="Tatterhood"><character person="Tatterhood"
-                    >girl who had a wooden spoon in her hand</character>, and rode upon a goat;
-                loathly and ugly she was, and the very moment she came into the world</descriptor>,
-            she bawled out <dialogue speaker="Tatterhood" subject="Queen">“Mamma”</dialogue>.</p>
+                <descriptor speaker="narrator" subject="Tatterhood" sign="negative">girl who had a
+                wooden spoon in her hand, and rode upon a goat; loathly and ugly she was, and the
+                very moment she came into the world</descriptor>, she bawled out <dialogue
+                speaker="Tatterhood" subject="Queen">“Mamma”</dialogue>.</p>
 
         <p>
             <dialogue speaker="Queen" subject="Tatterhood">“If I’m your mamma”, said the Queen, “God
@@ -115,16 +114,15 @@
                 looking.”</dialogue>
         </p>
 
-        <p>So, after a while, the Queen had <character person="younger twin">another
-                girl</character>, <descriptor speaker="narrator" subject="younger twin">who was so
-                fair and sweet, no one had ever set eyes on such a lovely child</descriptor>, and
-            with her you may fancy the Queen was very well pleased. The <descriptor
-                speaker="narrator" subject="Tatterhood/elder twin">elder twin they called
-                “Tatterhood”, because she was always so ugly and ragged, and because she had a hood
-                which hung about her ears in tatters</descriptor>. The Queen could scarce bear to
-            look at her, and the nurses tried to shut her up in a room by herself, but it was all no
-            good; where the younger twin was, there she must also be, and no one could ever keep
-            them apart.</p>
+        <p>So, after a while, the Queen had <character>another girl</character>, <descriptor
+                speaker="narrator" subject="younger twin" sign="neutral">who was so fair and sweet,
+                no one had ever set eyes on such a lovely child</descriptor>, and with her you may
+            fancy the Queen was very well pleased. The <descriptor speaker="narrator"
+                subject="Tatterhood/elder twin" sign="neutral">elder twin they called “Tatterhood”,
+                because she was always so ugly and ragged, and because she had a hood which hung
+                about her ears in tatters</descriptor>. The Queen could scarce bear to look at her,
+            and the nurses tried to shut her up in a room by herself, but it was all no good; where
+            the younger twin was, there she must also be, and no one could ever keep them apart.</p>
 
         <p>Well, one Christmas eve, when they were half grown up, there rose such a frightful noise
             and clatter in the gallery outside the Queen’s bower. So Tatterhood asked what it was
@@ -142,19 +140,18 @@
             would go out to drive the witches off; but <dialogue speaker="Tatterhood"
                 subject="Queen">she begged the Queen to mind and keep all the doors close shut, so
                 that not one of them came so much as the least bit ajar.</dialogue> Having said
-            this, <action actor="Tatterhood" textual_content="chasing off trolls and witches">off
-                she went with her wooden spoon, and began to hunt and sweep away the hags</action>;
-            and all this while there was such a pother out in the gallery, the like of it was never
+            this, <action actor="Tatterhood" subject="trolls and witches" sign="positive">off she
+                went with her wooden spoon, and began to hunt and sweep away the hags</action>; and
+            all this while there was such a pother out in the gallery, the like of it was never
             heard. The whole Palace creaked and groaned as if every joint and beam were going to be
             torn out of its place. Now, how it was, I’m sure I can’t tell; but somehow or other one
             door did get the least bit ajar, <action actor="witch" subject="younger twin"
-                textual_content="younger twin is attacked by a witch and her head replaced with a calf"
-                >then her twin sister just peeped out to see how things were going with Tatterhood,
-                and put her head a tiny bit through the opening. But, POP! up came an old witch, and
-                whipped off her head, and stuck a calf’s head on her shoulders instead; and so the
-                Princess ran back into the room on all-fours, and began to “moo” like a
-                calf.</action> When Tatterhood came back and saw her sister, she scolded them all
-            round, and was very angry because they hadn’t kept better watch, and asked them what
+                sign="negative">then her twin sister just peeped out to see how things were going
+                with Tatterhood, and put her head a tiny bit through the opening. But, POP! up came
+                an old witch, and whipped off her head, and stuck a calf’s head on her shoulders
+                instead; and so the Princess ran back into the room on all-fours, and began to “moo”
+                like a calf.</action> When Tatterhood came back and saw her sister, she scolded them
+            all round, and was very angry because they hadn’t kept better watch, and asked them what
             they thought of their heedlessness now, when her sister was turned into a calf.</p>
 
         <p>
@@ -168,30 +165,28 @@
 
         <p>Then Tatterhood sailed off, and steered her ship right under the land where the witches
             dwelt, and when she came to the landing-place, she told her sister to stay quite still
-            on board the ship; <action actor="Tatterhood"
-                textual_content="retrieving younger twin's head from the witches">but she herself
-                rode on her goat up to the witches’ castle. When she got there, one of the windows
-                in the gallery was open, and there she saw her sister’s head hung up on the window
-                frame; so she leapt her goat through the window into the gallery, snapped up the
-                head, and set off with it. After her came the witches to try to get the head again,
-                and they flocked about her as thick as a swarm of bees or a nest of ants; but the
-                goat snorted, and puffed, and butted with his horns, and Tatterhood beat and banged
-                them about with her wooden spoon; and so the pack of witches had to give it
+            on board the ship; <action actor="Tatterhood" subject="witches" sign="positive">but she
+                herself rode on her goat up to the witches’ castle. When she got there, one of the
+                windows in the gallery was open, and there she saw her sister’s head hung up on the
+                window frame; so she leapt her goat through the window into the gallery, snapped up
+                the head, and set off with it. After her came the witches to try to get the head
+                again, and they flocked about her as thick as a swarm of bees or a nest of ants; but
+                the goat snorted, and puffed, and butted with his horns, and Tatterhood beat and
+                banged them about with her wooden spoon; and so the pack of witches had to give it
                 up.</action>
-            <action actor="Tatterhood" subject="younger twin"
-                textual_content="returning younger twin's head to her body">So Tatterhood got back
+            <action actor="Tatterhood" subject="younger twin" sign="positive">So Tatterhood got back
                 to her ship, took the calf’s head off her sister, and put her own on again, and then
                 she became a girl as she had been before.</action> After that she sailed a long,
             long way, to a strange king’s realm.</p>
 
-        <p>Now the <character person="foreign king">king</character> of that land was a widower, and
-            had an only son. So when he saw the strange sail, he sent messengers down to the strand
-            to find out whence it came, and who owned it; but when the king’s men came down there,
-            they saw never a living soul on board but Tatterhood, and there she was, riding round
-            and round the deck on her goat at full speed, till her elf locks streamed again in the
-            wind. The folk from the palace were all amazed at this sight, and asked, were there not
-            more on board? Yes, there were; she had a sister with her, said Tatterhood. Her, too,
-            they wanted to see, but Tatterhood said “No”:</p>
+        <p>Now the <character>king</character> of that land was a widower, and had an only son. So
+            when he saw the strange sail, he sent messengers down to the strand to find out whence
+            it came, and who owned it; but when the king’s men came down there, they saw never a
+            living soul on board but Tatterhood, and there she was, riding round and round the deck
+            on her goat at full speed, till her elf locks streamed again in the wind. The folk from
+            the palace were all amazed at this sight, and asked, were there not more on board? Yes,
+            there were; she had a sister with her, said Tatterhood. Her, too, they wanted to see,
+            but Tatterhood said “No”:</p>
 
         <p><dialogue speaker="Tatterhood" subject="foreign king's men">“No one shall see her, unless
                 the king comes himself”, she said;</dialogue> and so she began to gallop about on
@@ -204,21 +199,19 @@
             them both back with him to the Palace, and wanted to have the sister for his queen; but
             Tatterhood said <dialogue speaker="Tatterhood" subject="King">“No”; the king couldn’t
                 have her in any way, unless the king’s son chose to have Tatterhood.</dialogue> That
-            you may fancy the <character person="Prince" description="foreign king's son"
-                >prince</character> was very loath to do, such an ugly hussy as Tatterhood was; but
-            at last the king and all the others in the palace talked him over, and he yielded,
-            giving his word to take her for his queen; but it went sore against the grain, and he
-            was a doleful man.</p>
+            you may fancy the <character>prince</character> was very loath to do, such an ugly hussy
+            as Tatterhood was; but at last the king and all the others in the palace talked him
+            over, and he yielded, giving his word to take her for his queen; but it went sore
+            against the grain, and he was a doleful man.</p>
 
         <p>Now they set about the wedding, both with brewing and baking; and when all was ready,
-            they were to go to church; but the <character person="Prince">prince</character> thought
-            it the weariest churching he had ever had in all his life. First, the king drove off
-            with his bride, and she was so lovely and so grand, all the people stopped to look after
-            her all along the road, and they stared at her till she was out of sight. After them
-            came the prince on horseback by the side of Tatterhood, who trotted along on her goat
-            with her wooden spoon in her fist, and to look at him, it was more like going to a
-            burial than a wedding, and that his own; so sorrowful he seemed, and with never a word
-            to say.</p>
+            they were to go to church; but the <character>prince</character> thought it the weariest
+            churching he had ever had in all his life. First, the king drove off with his bride, and
+            she was so lovely and so grand, all the people stopped to look after her all along the
+            road, and they stared at her till she was out of sight. After them came the prince on
+            horseback by the side of Tatterhood, who trotted along on her goat with her wooden spoon
+            in her fist, and to look at him, it was more like going to a burial than a wedding, and
+            that his own; so sorrowful he seemed, and with never a word to say.</p>
 
         <p>
             <dialogue speaker="Tatterhood" subject="Prince">“Why don’t you talk?” asked Tatterhood,
@@ -243,9 +236,9 @@
         <p>
             <dialogue speaker="Tatterhood" subject="Prince">“Is it an ugly goat? why, it’s the
                 grandest horse bride ever rode on”, answered Tatterhood;</dialogue>
-            <descriptor speaker="narrator" textual_content="ugly goat now seen as a beautiful horse"
-                >and in a trice the goat became a horse, and that the finest the prince had ever set
-                eyes on.</descriptor>
+            <misconception actor="Prince" subject="Tatterhood's goat" sign="positive">and in a trice
+                the goat became a horse, and that the finest the prince had ever set eyes
+                on.</misconception>
         </p>
 
         <p>Then they rode on again a bit, but the prince was just as woeful as before, and couldn’t
@@ -265,9 +258,9 @@
         <p>
             <dialogue speaker="Tatterhood" subject="Prince">“Is it an ugly spoon? why, it’s the
                 loveliest silver wand bride ever bore”, said Tatterhood;</dialogue>
-            <descriptor speaker="narrator" textual_content="wooden spoon becomes a silver wand"> and
-                in a trice it became a silver wand, so dazzling bright, the sunbeams glistened from
-                it.</descriptor>
+            <misconception actor="Prince" subject="Tatterhood" sign="positive"> and in a trice it
+                became a silver wand, so dazzling bright, the sunbeams glistened from
+                it.</misconception>
         </p>
 
         <p>So they rode on another bit, but the Prince was just as sorrowful, and said never a word.
@@ -282,8 +275,8 @@
         <p>
             <dialogue speaker="Tatterhood" subject="Prince">“Is it an ugly hood? why, it’s the
                 brightest golden crown bride ever wore”, answered Tatterhood,</dialogue>
-            <descriptor speaker="narrator" textual_content="hood becomes a crown"> and it became a
-                crown on the spot.</descriptor>
+            <misconception actor="Prince" subject="Tatterhood" sign="positive"> and it became a
+                crown on the spot.</misconception>
         </p>
 
         <p>Now, they rode on a long while again, and the Prince was so woeful, that he sat without
@@ -296,11 +289,11 @@
         </p>
 
         <p><dialogue speaker="Tatterhood" subject="Prince">“I ugly”, said the bride; “you think my
-                sister pretty, but I am ten times prettier”;</dialogue> and lo!<descriptor
-                speaker="narrator" textual_content="Tatterhood is not seen as a beautiful woman">
-                when the Prince looked at her, she was so lovely, he thought there never was so
-                lovely a woman in all the world.</descriptor> After that, I shouldn’t wonder if the
-            Prince found his tongue, and no longer rode along hanging down his head.</p>
+                sister pretty, but I am ten times prettier”;</dialogue> and lo!<misconception
+                actor="Prince" subject="Tatterhood" sign="positive"> when the Prince looked at her,
+                she was so lovely, he thought there never was so lovely a woman in all the
+                world.</misconception> After that, I shouldn’t wonder if the Prince found his
+            tongue, and no longer rode along hanging down his head.</p>
 
         <p>So they drank the bridal cup both deep and long, and, after that, both Prince and King
             set out with their brides to the Princess’s father’s palace, and there they had another
