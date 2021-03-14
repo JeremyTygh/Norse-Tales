@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--For descriptor, maybe include some way to include reader's perspective? (e.g. beginning when hen sets out on her way == stoic) -->
+<?xml-model href="norseTalesSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<story>
+
+    <title>THE COCK AND HEN THAT WENT TO THE DOVREFELL</title>
+    <body>
+        <p>Once on a time there was a <character>Hen</character> that had <action actor="Hen"
+                subject="environment" sign="positive">flown</action> up, and <action actor="Hen"
+                subject="oak-tree" sign="positive">perched</action> on an oak-tree for the night.
+            When the night came, she <action actor="Hen" subject="self" sign="positive"
+                >dreamed</action> that unless she got to the Dovrefell, the world would come to an
+            end. So that very minute she <action actor="Hen" subject="environment" sign="positive"
+                >jumped</action> down, and <action actor="Hen" subject="self" sign="positive">set
+                out on her way</action>. When she had walked a bit she met a
+                <character>Cock</character>.</p>
+
+        <p><dialogue speaker="Hen" subject="Cock">"Good day,
+                <character>Cocky-Locky</character>"</dialogue>, said the Hen. <dialogue
+                speaker="Cock" subject="Hen">"Good day,
+            <character>Henny-Penny</character>"</dialogue>, said the Cock, <dialogue speaker="Cock"
+                subject="Hen">"whither away so early."</dialogue>
+            <dialogue speaker="Hen" subject="Cock">"Oh, I’m going to the Dovrefell, that the world
+                mayn’t come to an end"</dialogue>, said the Hen. <dialogue speaker="Cock"
+                subject="Hen">"Who told you that, <character>Henny-Penny</character>"</dialogue>, said
+            the Cock. <dialogue speaker="Hen" subject="Cock">"I <action actor="Hen" subject="self"
+                    sign="positive">sat</action> in the oak and <action actor="Hen" subject="self"
+                    sign="positive">dreamt</action> it last night"</dialogue>, said the Hen.
+                <dialogue speaker="Cock" subject="Hen">"I’ll go with you"</dialogue>, said the Cock.
+            Well! they walked on a good bit, and then they met a <character>Duck</character>.
+                <dialogue speaker="Cock" subject="Duck">"Good day,
+                <character>Ducky-Lucky</character>"</dialogue>, said the Cock. <dialogue
+                speaker="Duck" subject="Cock">"Good day,
+                <character>Cocky-Locky</character>"</dialogue>, said the Duck, <dialogue
+                speaker="Duck" subject="Cock">"whither away so early?"</dialogue>
+            <dialogue speaker="Cock" subject="Duck">"Oh, I’m going to the Dovrefell, that the world
+                mayn’t come to an end"</dialogue>, said the Cock. <dialogue speaker="Duck"
+                subject="Cock">"Who told you that, <character>Cocky-Locky</character>?"</dialogue>
+            <dialogue speaker="Cock" subject="Duck">"Henny-Penny"</dialogue>, said the Cock. <dialogue
+                speaker="Duck" subject="Hen">"Who told you that,
+                <character>Henny-Penny</character>?"</dialogue> said the Duck. <dialogue
+                speaker="Hen" subject="Duck">"I <action actor="Hen" subject="self" sign="positive"
+                    >sat</action> in the oak and <action actor="Hen" subject="self" sign="positive"
+                    >dreamt</action> it last night"</dialogue>, said the Hen. <dialogue
+                speaker="Duck" subject="Hen">"I’ll go with you"</dialogue>, said the Duck. So they
+            went off together, and after a bit they met a <character>Goose</character>. <dialogue
+                speaker="Duck" subject="Goose">"Good day,
+                <character>Goosey-Poosey</character>"</dialogue>”, said the Duck. <dialogue
+                speaker="Goose" subject="Duck">"Good day,
+                <character>Ducky-Lucky</character>"</dialogue>, said the Goose, <dialogue
+                speaker="Goose" subject="Duck">"whither away so early?"</dialogue>
+            <dialogue speaker="Duck" subject="Goose">"I’m going to the Dovrefell, that the world
+                mayn’t come to an end"</dialogue>, said the Duck. <dialogue speaker="Goose"
+                subject="Duck">"Who told you that, <character>Ducky-Lucky</character>?"</dialogue>
+            asked the Goose. <dialogue speaker="Duck" subject="Goose"
+                    >"<character>Cocky-Locky.</character>"</dialogue>
+            <dialogue speaker="Goose" subject="Cock">"Who told you that,
+                    <character>Cocky-Locky</character>?"</dialogue>
+            <dialogue speaker="Cock" subject="Goose">"<character>Henny-Penny</character>."</dialogue>”
+                <dialogue speaker="Goose" subject="Hen">"How you do know that,
+                    <character>Henny-Penny</character>?"</dialogue> said the Goose. <dialogue
+                speaker="Hen" subject="Goose">"I <action actor="Hen" subject="self" sign = "positive">sat</action> in
+                the oak and <action actor="Hen" subject="self" sign="positive">dreamt</action> it
+                last night, <character>Goosey-Poosey</character>"</dialogue>, said the Hen. <dialogue
+                speaker="Goose" subject="Hen">"I’ll go with you"</dialogue>, said the Goose. Now when
+            they had all walked along for a bit, a <character>Fox</character> met them. <dialogue
+                speaker="Goose" subject="Fox">"Good day,
+                <character>Foxsy-Cocksy</character>"</dialogue>, said the Goose. <dialogue
+                speaker="Fox" subject="Goose">"Good day,
+                <character>Goosey-Poosey</character>."</dialogue>
+            <dialogue speaker="Goose" subject="Fox">"Whither away,
+                <character>Foxy-Cocksy</character>?"</dialogue>
+            <dialogue speaker="Fox" subject="Goose">"Whither away yourself,
+                    <character>Goosey-Poosey</character>?"</dialogue>
+            <dialogue speaker="Goose" subject="Fox">"I’m going to the Dovrefell that the world mayn’t
+                come to an end"</dialogue>, said the Goose. <dialogue speaker="Fox" subject="Goose"
+                >"Who told you that, <character>Goosey-Poosey</character>?"</dialogue> asked the Fox.
+                <dialogue speaker="Goose" subject="Fox"
+                >"<character>Ducky-Lucky</character>."</dialogue>
+            <dialogue speaker="Fox" subject="Duck">"Who told you that,
+                    <character>Ducky-Lucky</character>?"</dialogue>
+            <dialogue speaker="Duck" subject="Fox">"<character>Cocky-Locky</character>."</dialogue>
+            <dialogue speaker="Fox" subject="Cock">"Who told you that,
+                    <character>Cocky-Locky</character>?"</dialogue>
+            <dialogue speaker="Cock" subject="Fox">"<character>Henny-Penny</character>."</dialogue>
+            <dialogue speaker="Fox" subject="Hen">"How do you know that,
+                    <character>Henny-Penny</character>?"</dialogue>
+            <dialogue speaker="Hen" subject="Fox">"I <action actor="Hen" subject="self" sign = "positive">sat</action>
+                in the oak and <action actor="Hen" subject="self" sign = "positive">dreamt</action> last night, that
+                if we don’t get to the Dovrefell, the world will come to an end"</dialogue>, said the
+            Hen. </p>
+
+        <p><dialogue speaker="Fox" subject="Hen">"Stuff and nonsense"</dialogue>, said the Fox;
+                <dialogue speaker="Fox" subject="Hen">"the world won’t come to an end if you don’t
+                get thither. No! come home with me to my earth. That’s far better, for it’s
+                    <descriptor speaker="Fox" subject="Fox's earth" sign="positive"
+                    >warm</descriptor> and <descriptor speaker="Fox" subject="Fox's earth"
+                    sign="positive">jolly</descriptor> there."</dialogue></p>
+
+        <p>Well, they went home with the <character>Fox</character> to his earth, and when they got
+            in, the <character>Fox</character>
+            <action actor="Fox" subject="fuel" sign="negative">laid</action> on lots of fuel, so
+            that they all got very sleepy.</p>
+
+        <p>The <character>Duck</character> and the <character>Goose</character>, they <action
+                actor="Duck" subject="self" sign="positive">settled</action> themselves down in a
+            corner, but the <character>Cock</character> and <character>Hen</character>
+            <action actor="Hen" subject="self" sign="positive">flew</action> up on a post. So when
+            the <character>Goose</character> and <character>Duck</character> were well asleep, the
+                <character>Fox</character>, <action actor="Fox" subject="Goose" sign="negative"
+                >took</action> the <character>Goose</character> and laid him on the embers, and
+                <action actor="Fox" subject="Goose" sign="negative">roasted</action> him. The
+                <character>Hen</character>
+            <action actor="Hen" subject="roast" sign="positive">smelt</action> the strong roast
+            meat, and <action actor="Hen" subject="self" sign="positive">sprang</action> up to a
+            higher peg, and said, half asleep: <dialogue speaker="Hen" subject="self">"Faugh, what a
+                nasty smell! What a nasty smell!"</dialogue></p>
+
+        <p><dialogue speaker="Fox" subject="Hen">"Oh, stuff"</dialogue>, said the Fox; <dialogue
+                speaker="Fox" subject="Hen">"it’s only the smoke driven down the chimney; go to sleep
+                again, and hold your tongue."</dialogue> So the <character>Hen</character> went off
+            to sleep again.</p>
+
+        <p>Now the <character>Fox</character> had hardly got the <character>Goose</character> well
+            down his throat, before he did the very same with the <character>Duck</character>. He
+            took and laid him on the embers, and <action actor="Fox" subject="Duck" sign="negative"
+                >roasted</action> him for a dainty bit. Then the <character>hen</character> woke up
+            again, and <action actor="Hen" subject="self" sign="positive">sprung</action> up to a
+            higher peg still. <dialogue speaker="Hen" subject="self">"Faugh, what a nasty smell! What
+                a nasty smell!"</dialogue></p>
+
+        <p>She said again, and then she got her eyes open, and came to see how the
+                <character>Fox</character> had <action actor="Fox" subject="birds" sign="negative"
+                >eaten</action> both the twain, <character>goose</character> and
+                <character>duck</character>; so she <action actor="Hen" subject="self"
+                sign="positive">flew</action> up to the highest peg of all, and perched there, and
+                <action actor="Hen" subject="chimney" sign="positive">peeped</action> up through the
+            chimney.</p>
+
+        <p><dialogue speaker="Hen" subject="Fox">"Nay, nay; just see what a lovely lot of geese
+                flying yonder"</dialogue>, she said to the Fox.</p>
+
+        <p>Out ran <character>Reynard</character> to <action actor="Fox" subject="geese"
+                sign="negative">fetch</action> a fat roast. But while he was gone, the
+                <character>Hen</character>
+            <action actor="Hen" subject="Cock" sign="positive">woke up</action> the
+                <character>Cock</character>, and <action actor="Hen" subject="Fox" sign="positive"
+                >told</action> him how it had gone with <character>Goosey-Poosey</character> and
+                <character>Ducky-Lucky</character>; and so <character>Cocky-Lucky</character> and
+                <character>Henny-Penny</character>
+            <action actor="Hen" subject="self" sign="positive">flew</action> out through the
+            chimney, and if they hadn’t got to the Dovrefell, it surely would have been all over
+            with the world.</p>
+
+    </body>
+
+</story>
