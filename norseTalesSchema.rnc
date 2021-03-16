@@ -15,8 +15,9 @@ p = element p { textual_content }
 # elements and attributes
 # #####
 #
-character = element character {who?, text }
+character = element character {who?, species?, text }
 who= attribute who {text}
+species= attribute species{text}
 dialogue = element dialogue { speaker, subject, textual_content }
 speaker = attribute speaker { text }
 action = element action { actor, subject, sign, textual_content, text }
