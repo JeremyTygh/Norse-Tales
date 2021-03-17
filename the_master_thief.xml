@@ -4,168 +4,223 @@
 <story>
     <title>THE MASTER THIEF</title>
     <body>
-        <p>Once upon a time there was a poor cottager who had three sons. He had nothing to leave
-            them when he died, and no money with which to put them to any trade, so that he did not
-            know what to make of them. At last he said he would give them leave to take to anything
-            each liked best, and to go whithersoever they pleased, and he would go with them a bit
-            of the way; and so he did. He went with them till they came to a place where three roads
-            met, and there each of them chose a road, and their father bade them good-bye, and went
-            back home. I have never heard tell what became of the two elder; but as for the
-            youngest, he went both far and long, as you shall hear. So it fell out one night as he
-            was going through a great wood that such bad weather overtook him. It blew, and sleeted,
-            and drove so that he could scarce keep his eyes open; and in a trice, before he knew how
-            it was, he got bewildered, and could not find either road or path. But as he went on and
-            on, at last he saw a glimmering of light far far off in the wood. So he thought he would
-            try and get to the light; and after a time he did reach it. There it was in a large
-            house, and the fire was blazing so brightly inside, that he could tell the folk had not
-            yet gone to bed; so he went in and saw an <character who="Old Dame">old dame</character>
-            bustling about and minding the house. “Good evening!” said <character who="The Youth"
-                >the youth</character>. “Good evening!” said the <character who="Old Dame">old
-                dame</character>. “Hutetu! it’s such foul weather out of doors to-night”, said he.
-            “So it is”, said she. “Can I get leave to have a bed and shelter here to-night?” asked
-                <character who="The Youth">the youth</character>. “You’ll get no good by sleeping
-            here”, said the <character who="Old Dame">old dame</character>; “for if the folk come
-            home and find you here, they’ll kill both me and you.” “What sort of folk, then, are
-            they who live here?” asked <character who="The Youth">the youth</character>. “Oh,
-            robbers! And a bad lot of them too”, said the <character who="Old Dame">old
-                dame</character>. “They stole me away when I was little, and have kept me as their
-            housekeeper ever since.” “Well, for all that, I think I’ll just go to bed”, said
-                <character who="The Youth">the youth</character>. “Come what may, I’ll not stir out
-            at night in such weather.” “Very well”, said the <character who="Old Dame">old
-                dame</character>; “but if you stay, it will be the worse for you.” With that
-                <character who="The Youth">the youth</character> got into a bed which stood there,
-            but he dared not go to sleep, and very soon after in came the robbers; so the <character
-                who="Old Dame">old dame</character> told them how a stranger fellow had come in whom
-            she had not been able to get out of the house again. “Did you see if he had any money?”
-            said the robbers. “Such a one as he money!” said the <character who="Old Dame">old
-                dame</character>, “the tramper! Why, if he had clothes to his back, it was as much
-            as he had.” Then the robbers began to talk among themselves what they should do with
-            him; if they should kill him outright, or what else they should do. Meantime <character
-                who="The Youth">the youth</character> got up and began to talk to them, and to ask
-            if they didn’t want a servant, for it might be that he would be glad to enter their
-            service. “Oh”, said they, “if you have a mind to follow the trade that we follow, you
-            can very well get a place here.” “It’s all one to me what trade I follow”, said
-                <character who="The Youth">the youth</character>; “for when I left home, father gave
-            me leave to take to any trade I chose.” “Well, have you a mind to steal?” asked the
-            robbers. “I don’t care”, said <character who="The Youth">the youth</character>, for he
-            thought it would not take long to learn that trade. Now there lived a man a little way
-            off who had three oxen. One of these he was to take to the town to sell, and the robbers
-            had heard what he was going to do, so they said to <character who="The Youth">the
-                youth</character>, if he were good to steal the ox from the man by the way without
-            his knowing it, and without doing him any harm, they would give him leave to be their
-            serving-man. Well! <character who="The Youth">the youth</character> set off, and took
-            with him a pretty shoe, with a silver buckle on it, which lay about the house; and he
-            put the shoe in the road along which the man was going with his ox; and when he had done
-            that, he went into the wood and hid himself under a bush. So when the man came by he saw
-            the shoe at once. “That’s a nice shoe”, said he. “If I only had the fellow to it, I’d
-            take it home with me, and perhaps I’d put my <character who="Old Dame">old
-                dame</character> in a good humour for once.” For you must know he had an old wife,
-            so cross and snappish, it was not long between each time that she boxed his ears. But
-            then he bethought him that he could do nothing with the odd shoe unless he had the
-            fellow to it; so he went on his way and let the shoe lie on the road. Then <character
-                who="The Youth">the youth</character> took up the shoe, and made all the haste he
-            could to get before the man by a short cut through the wood, and laid it down before him
-            in the road again. When the man came along with his ox, he got quite angry with himself
-            for being so dull as to leave the fellow to the shoe lying in the road instead of taking
-            it with him; so he tied the ox to the fence, and said to himself, “I may just as well
-            run back and pick up the other, and then I’ll have a pair of good shoes for my
-                <character who="Old Dame">old dame</character>, and so, perhaps, I’ll get a kind
-            word from her for once.” So he set off, and hunted and hunted up and down for the shoe,
-            but no shoe did he find; and at length he had to go back with the one he had. But,
-            meanwhile <character who="The Youth">the youth</character> had taken the ox and gone off
-            with it; and when the man came and saw his ox gone, he began to cry and bewail, for he
-            was afraid his <character who="Old Dame">old dame</character> would kill him outright
-            when she came to know that the ox was lost. But just then it came across his mind that
-            he would go home and take the second ox, and drive it to the town, and not let his
+        <p>Once upon a time there was a <character who="Cottager">poor cottager</character> who had
+            three sons. He had nothing to leave them when he died, and no money with which to put
+            them to any trade, so that he did not know what to make of them. At last he said he
+            would give them leave to take to anything each liked best, and to go whithersoever they
+            pleased, and he would go with them a bit of the way; and so he did. He went with them
+            till they came to a place where three roads met, and there each of them chose a road,
+            and their father bade them good-bye, and went back home. I have never heard tell what
+            became of the two elder; but as for <character who="The Youth">the youngest</character>,
+            he went both far and long, as you shall hear.</p>
+        <p>So it fell out one night as he was going through a great wood that such bad weather
+            overtook him. It blew, and sleeted, and drove so that he could scarce keep his eyes
+            open; and in a trice, before he knew how it was, he got bewildered, and could not find
+            either road or path. But as he went on and on, at last he saw a glimmering of light far
+            far off in the wood. So he thought he would try and get to the light; and after a time
+            he did reach it. There it was in a large house, and the fire was blazing so brightly
+            inside, that he could tell the folk had not yet gone to bed; so he went in and saw an
+                <character who="Old Dame">old dame</character> bustling about and minding the
+            house.</p>
+        <p><dialogue speaker="The Youth" subject="Old Dame">“Good evening!”</dialogue> said
+                <character who="The Youth">the youth</character>.</p>
+        <p><dialogue speaker="Old Dame" subject="The Youth">“Good evening!</dialogue>” said the
+                <character who="Old Dame">old dame</character>.</p>
+        <p><dialogue subject="Old Dame" speaker="The Youth">“Hutetu! it’s such foul weather out of
+                doors to-night”</dialogue>, said he. </p>
+        <p><dialogue subject="The Youth" speaker="Old Dame">“So it is”</dialogue>, said she.</p>
+        <p><dialogue subject="Old Dame" speaker="The Youth">“Can I get leave to have a bed and
+                shelter here to-night?”</dialogue> asked <character who="The Youth">the
+                youth</character>.</p>
+        <p><dialogue subject="The Youth" speaker="Old Dame">“You’ll get no good by sleeping
+                here”</dialogue>, said the <character who="Old Dame">old dame</character>; <dialogue
+                subject="The Youth" speaker="Old Dame">“for if the folk come home and find you here,
+                they’ll kill both me and you.”</dialogue></p>
+        <p><dialogue subject="Old Dame" speaker="The Youth">“What sort of folk, then, are they who
+                live here?”</dialogue> asked <character who="The Youth">the youth</character>.</p>
+        <p><dialogue speaker="Old Dame" subject="The Youth">“Oh, robbers! And a bad lot of them
+                too”</dialogue>, said the <character who="Old Dame">old dame</character>. <dialogue
+                speaker="Old Dame" subject="The Youth">“They stole me away when I was little, and
+                have kept me as their housekeeper ever since.”</dialogue></p>
+        <p><dialogue speaker="The Youth" subject="Old Dame">“Well, for all that, I think I’ll just
+                go to bed”</dialogue>, said <character who="The Youth">the youth</character>.
+                <dialogue speaker="The Youth" subject="Old Dame">“Come what may, I’ll not stir out
+                at night in such weather.”</dialogue></p>
+        <p><dialogue speaker="Old Dame" subject="The Youth">“Very well”</dialogue>, said the
+                <character who="Old Dame">old dame</character>; <dialogue speaker="Old Dame"
+                subject="The Youth">“but if you stay, it will be the worse for you.”</dialogue></p>
+        <p>With that <character who="The Youth">the youth</character> got into a bed which stood
+            there, but he dared not go to sleep, and very soon after in came <character
+                who="Robbers">the robbers</character>; so the <character who="Old Dame">old
+                dame</character> told them how a stranger fellow had come in whom she had not been
+            able to get out of the house again.</p>
+        <p><dialogue subject="Old Dame" speaker="Robbers">“Did you see if he had any
+                money?”</dialogue> said <character who="Robbers">the robbers</character>.</p>
+        <p><dialogue speaker="Old Dame" subject="Robbers">“Such a one as he money!”</dialogue> said
+            the <character who="Old Dame">old dame</character>, <dialogue subject="Robbers"
+                speaker="Old Dame">“<descriptor speaker="Old Dame" subject="The Youth"
+                    sign="Negative">the tramper</descriptor>! Why, if he had clothes to his back, it
+                was as much as he had.”</dialogue></p>
+        <p>Then <character who="Robbers">the robbers</character> began to talk among themselves what
+            they should do with him; if they should kill him outright, or what else they should do.
+            Meantime <character who="The Youth">the youth</character> got up and began to talk to
+            them, and to ask if they didn’t want a servant, for it might be that <action
+                subject="Robbers" actor="The Youth" sign="Positive">he would be glad to enter their
+                service</action>.</p>
+        <p><dialogue speaker="Robbers" subject="The Youth">“Oh”</dialogue>, said they, <dialogue
+                speaker="Robbers" subject="The Youth">“if you have a mind to follow the trade that
+                we follow, you can very well get a place here.”</dialogue></p>
+        <p><dialogue speaker="The Youth" subject="Robbers">“It’s all one to me what trade I
+                follow”</dialogue>, said <character who="The Youth">the youth</character>; <dialogue
+                subject="Robbers" speaker="The Youth">“for when I left home, father gave me leave to
+                take to any trade I chose.”</dialogue></p>
+        <p><dialogue speaker="Robbers" subject="The Youth">“Well, have you a mind to
+                steal?”</dialogue> asked the robbers.</p>
+        <p><dialogue speaker="The Youth" subject="Robbers">“I don’t care”</dialogue>, said
+                <character who="The Youth">the youth</character>, for he thought it would not take
+            long to learn that trade.</p>
+        <p>Now there lived<character who="Rancher"> a man a little way off who had three
+                oxen</character>. One of these he was to take to the town to sell, and <character
+                who="Robbers">the robbers</character> had heard what he was going to do, so they
+            said to <character who="The Youth">the youth</character>, if he were good to steal the
+            ox from the man by the way without his knowing it, and without doing him any harm, they
+            would give him leave to be their serving-man.</p>
+        <p>Well! <character who="The Youth">the youth</character> set off, and <action
+                subject="Robbers" actor="The Youth" sign="Negative">took</action> with him a pretty
+            shoe, with a silver buckle on it, which lay about the house; and he put the shoe in the
+            road along which <character who="Rancher">the man</character> was going with his ox; and
+            when he had done that, he went into the wood and hid himself under a bush. So when the
+            man came by he saw the shoe at once.</p>
+        <p><dialogue speaker="Rancher" subject="Self">“That’s a nice shoe”</dialogue>, said he.
+                <dialogue speaker="Rancher" subject="Self">“If I only had the fellow to it, I’d take
+                it home with me, and perhaps I’d put my <character who="Rancher's Wife">old
+                    dame</character> in a good humour for once.”</dialogue> For you must know he had
+            an old wife, so <descriptor subject="Rancher's Wife" speaker="Narrator" sign="Negative"
+                >cross and snappish</descriptor>, it was not long between each time that she boxed
+            his ears. But then he bethought him that he could do nothing with the odd shoe unless he
+            had the fellow to it; so he went on his way and let the shoe lie on the road.</p>
+        <p>Then <character who="The Youth">the youth</character> took up the shoe, and made all the
+            haste he could to get before the man by a short cut through the wood, and laid it down
+            before him in the road again. When the man came along with his ox, <action
+                actor="Rancher" subject="Self" sign="Negative">he got quite angry with
+                himself</action> for being so <descriptor speaker="Self" subject="Rancher"
+                sign="Negative">dull</descriptor> as to leave the fellow to the shoe lying in the
+            road instead of taking it with him; so he tied the ox to the fence, and said to himself,
+                <dialogue speaker="Rancher" subject="Self">“I may just as well run back and pick up
+                the other, and then I’ll have a pair of good shoes for my <character
+                    who="Rancher's Wife">old dame</character>, and so, perhaps, I’ll get a kind word
+                from her for once.”</dialogue></p>
+        <p>So he set off, and hunted and hunted up and down for the shoe, but no shoe did he find;
+            and at length he had to go back with the one he had. But, meanwhile <character
+                who="The Youth">the youth</character> had <action actor="The Youth"
+                subject="Rancher" sign="Negative">taken the ox</action> and gone off with it; and
+            when the man came and saw his ox gone, he began to cry and bewail, for he was afraid his
+                <character who="Rancher's Wife">old dame</character> would kill him outright when
+            she came to know that the ox was lost. But just then it came across his mind that he
+            would go home and take the second ox, and drive it to the town, and not let his
                 <character who="Old Dame">old dame</character> know anything about the matter. So he
             did this, and went home and took the ox without his dame’s knowing it, and set off with
-            it to the town. But the robbers knew all about it, and they said to <character
-                who="The Youth">the youth</character>, if he could get this ox too, without the
-            man’s knowing it, and without his doing him any harm, he should be as good as any one of
-            them. If that were all, <character who="The Youth">the youth</character> said, he did
-            not think it a very hard thing. This time he took with him a rope, and hung himself up
-            under the arm-pits to a tree right in the man’s way. So the man came along with his ox,
-            and when he saw such a sight hanging there he began to feel a little queer. “Well”, said
-            he, “whatever heavy thoughts you had who have hanged yourself up there, it can’t be
-            helped; you may hang for what I care! I can’t breathe life into you again”; and with
-            that he went on his way with his ox. Down slipped the youth from the tree, and ran by a
-            footpath, and got before the man, and hung himself up right in his way again. “Bless
-            me!” said the man, “were you really so heavy at heart that you hanged yourself up
-            there—or is it only a piece of witchcraft that I see before me? Aye, aye! you may hang
-            for all I care, whether you are a ghost or whatever you are.” So he passed on with his
-            ox. Now <character who="The Youth">the youth</character> did just as he had done twice
+            it to the town. But <character who="Robbers">the robbers</character> knew all about it,
+            and they said to <character who="The Youth">the youth</character>, if he could get this
+            ox too, without the man’s knowing it, and without his doing him any harm, he should be
+            as good as any one of them. If that were all, <character who="The Youth">the
+                youth</character> said, he did not think it a very hard thing.</p>
+        <p>This time he took with him a rope, and hung himself up under the arm-pits to a tree right
+            in the man’s way. So the man came along with his ox, and when he saw such a sight
+            hanging there he began to feel a little queer.</p>
+        <p><dialogue speaker="Rancher" subject="The Youth">“Well”</dialogue>, said he, <dialogue
+                speaker="Rancher" subject="The Youth">“whatever heavy thoughts you had who have
+                hanged yourself up there, it can’t be helped; you may hang for what I care! I can’t
+                breathe life into you again”</dialogue>; and with that he went on his way with his
+            ox. Down slipped the youth from the tree, and ran by a footpath, and got before the man,
+            and hung himself up right in his way again.</p>
+        <p><dialogue speaker="Rancher" subject="The Youth">“Bless me!”</dialogue> said the man,
+                <dialogue speaker="Rancher" subject="The Youth">“were you really so heavy at heart
+                that you hanged yourself up there—or is it only a piece of witchcraft that I see
+                before me? Aye, aye! you may hang for all I care, whether you are a ghost or
+                whatever you are.”</dialogue> So he passed on with his ox.</p>
+        <p>Now <character who="The Youth">the youth</character> did just as he had done twice
             before; he jumped down from the tree, ran through the wood by a footpath, and hung
             himself up right in the man’s way again. But when the man saw this sight for the third
-            time, he said to himself: “Well! this is an ugly business! Is it likely now that they
-            should have been so heavy at heart as to hang themselves, all these three? No! I cannot
-            think it is anything else than a piece of witchcraft that I see. But now I’ll soon know
-            for certain; if the other two are still hanging there, it must be really so; but if they
-            are not, then it can be nothing but witchcraft that I see.” So he tied up his ox, and
-            ran back to see if the others were still really hanging there. But while he went and
-            peered up into all the trees, <character who="The Youth">the youth</character> jumped
-            down and took his ox and ran off with it. When the man came back and found his ox gone,
-            he was in a sad plight, and, as any one might know without being told, he began to cry
-            and bemoan; but at last he came to take it easier, and so he thought: “There’s no other
-            help for it than to go home and take the third ox without my dame’s knowing it, and to
-            try and drive a good bargain with it, so that I may get a good sum of money for it.” So
-            he went home and set off with the ox, and his <character who="Old Dame">old
-                dame</character> knew never a word about the matter. But the robbers, they knew all
-            about it, and they said to <character who="The Youth">the youth</character>, that if he
-            could steal this ox as he had stolen the other two, then he should be master over the
-            whole band. Well, <character who="The Youth">the youth</character> set off, and ran into
-            the wood; and as the man came by with his ox he set up a dreadful bellowing, just like a
-            great ox in the wood. When the man heard that, you can’t think how glad he was, for it
-            seemed to him that he knew the voice of his big bullock, and he thought that now he
-            should find both of them again; so he tied up the third ox, and ran off from the road to
-            look for them in the wood; but meantime <character who="The Youth">the youth</character>
-            went off with the third ox. Now, when the man came back and found he had lost this ox
-            too, he was so wild that there was no end to his grief. He cried and roared and beat his
-            breast, and, to tell the truth, it was many days before he dared go home; for he was
-            afraid lest his <character who="Old Dame">old dame</character> should kill him outright
-            on the spot. As for the robbers, they were not very well pleased either, when they had
-            to own that <character who="The Youth">the youth</character> was master over the whole
-            band. So one day they thought they would try their hands at something which he was not
-            man enough to do; and they set off all together, every man Jack of them, and left him
-            alone at home. Now, the first thing that he did when they were all well clear of the
-            house, was to drive the oxen out to the road, so that they might run back to the man
-            from whom he had stolen them; and right glad he was to see them, as you may fancy. Next
-            he took all the horses which the robbers had, and loaded them with the best things he
-            could lay his hands on-gold and silver, and clothes and other fine things; and then he
-            bade the <character who="Old Dame">old dame</character> to greet the robbers when they
-            came back, and to thank them for him, and to say that now he was setting off on his
-            travels, and they would have hard work to find him again; and with that, off he started.
-            After a good bit he came to the road along which he was going when he fell among the
-            robbers, and when he got near home, and could see his father’s cottage, he put on a
-            uniform which he had found among the clothes he had taken from the robbers, and which
-            was made just like a general’s. So he drove up to the door as if he were any other great
-            man. After that he went in and asked if he could have a lodging? No; that he couldn’t at
-            any price. “How ever should I be able”, said the man, “to make room in my house for such
-            a fine gentleman—I who scarce have a rag to lie upon, and miserable rags too?” “You
-            always were a stingy old hunks”, said <character who="The Youth">the youth</character>,
-            “and so you are still, when you won’t take your own son in.” “What, you my son!” said
-            the man. “Don’t you know me again?” said <character who="The Youth">the
-                youth</character>. Well, after a little while he did know him again. “But what have
-            you been turning your hand to, that you have made yourself so great a man in such
-            haste?” asked the man. “Oh! I’ll soon tell you”, said <character who="The Youth">the
-                youth</character>. “You said I might take to any trade I chose, and so I bound
-            myself apprentice to a pack of thieves and robbers, and now I’ve served my time out, and
-            am become a <character who="Master Thief">Master Thief</character>.” Now there lived a
-                <character who="Squire">Squire</character> close by to his father’s cottage, and he
-            had such a great house, and such heaps of money, he could not tell how much he had. He
-            had a daughter too, and a smart and pretty girl she was. So the <character
-                who="Master Thief">Master Thief</character> set his heart upon having her to wife,
-            and he told his father to go to the <character who="Squire">Squire</character> and ask
-            for his daughter for him. “If he asks by what trade I get my living, you can say I’m a
-                <character who="Master Thief">Master Thief</character>.” “I think you’ve lost your
-            wits”, said the man, “for you can’t be in your right mind when you think of such stuff.”
-            No! he had not lost his wits, his father must and should go to the <character
-                who="Squire">Squire</character>, and ask for his daughter. “Nay, but I tell you, I
-            daren’t go to the <character who="Squire">Squire</character> and be your spokesman; he
-            who is so rich, and has so much money”, said the man. Yes, there was no help for it,
-            said the <character who="Master Thief">Master Thief</character>; he should go whether he
-            would or no; and if he did not go by fair means, he would soon make him go by foul. But
-            the man was still loath to go; so he stepped after him, and rubbed him down with a good
-            birch cudgel, and kept on till the man came crying and sobbing inside the <character
+            time, he said to himself:</p>
+        <p><dialogue speaker="Rancher" subject="The Youth">“Well! this is an ugly business! Is it
+                likely now that they should have been so heavy at heart as to hang themselves, all
+                these three? No! I cannot think it is anything else than a piece of witchcraft that
+                I see. But now I’ll soon know for certain; if the other two are still hanging there,
+                it must be really so; but if they are not, then it can be nothing but witchcraft
+                that I see.”</dialogue></p>
+        <p>So he tied up his ox, and ran back to see if the others were still really hanging there.
+            But while he went and peered up into all the trees, <character who="The Youth">the
+                youth</character> jumped down and <action subject="Rancher" actor="The Youth"
+                sign="Negative">took his ox</action> and ran off with it. When the man came back and
+            found his ox gone, he was in a sad plight, and, as any one might know without being
+            told, he began to cry and bemoan; but at last he came to take it easier, and so he
+            thought:</p>
+        <p><dialogue speaker="Rancher" subject="Self">“There’s no other help for it than to go home
+                and take the third ox without my dame’s knowing it, and to try and drive a good
+                bargain with it, so that I may get a good sum of money for it.”</dialogue></p>
+        <p>So he went home and set off with the ox, and his <character who="Rancher's Wife">old
+                dame</character> knew never a word about the matter. But <character who="Robbers"
+                >the robbers</character>, they knew all about it, and they said to <character
+                who="The Youth">the youth</character>, that if he could steal this ox as he had
+            stolen the other two, then he should be master over the whole band. Well, <character
+                who="The Youth">the youth</character> set off, and ran into the wood; and as the man
+            came by with his ox he set up a dreadful bellowing, just like a great ox in the wood.
+            When the man heard that, you can’t think how glad he was, for it seemed to him that he
+            knew the voice of his big bullock, and he thought that now he should find both of them
+            again; so he tied up the third ox, and ran off from the road to look for them in the
+            wood; but meantime <character who="The Youth">the youth</character><action
+                subject="Rancher" actor="The Youth" sign="Negative"> went off with the third
+                ox</action>. Now, when the man came back and found he had lost this ox too, he was
+            so wild that there was no end to his grief. He cried and roared and beat his breast,
+            and, to tell the truth, it was many days before he dared go home; for he was afraid lest
+            his <character who="Rancher's Wife">old dame</character> should kill him outright on the spot.</p>
+            <p>As for <character who="Robbers">the robbers</character>, they were not very well pleased
+            either, when they had to own that <character who="The Youth">the youth</character> was
+            master over the whole band. So one day they thought they would try their hands at
+            something which he was not man enough to do; and they set off all together, every man
+            Jack of them, and left him alone at home. Now, the first thing that he did when they
+            were all well clear of the house, was to drive the oxen out to the road, so that they
+            might run back to the man from whom he had stolen them; and right glad he was to see
+            them, as you may fancy. Next he took all the horses which <character who="Robbers">the
+                robbers</character> had, and loaded them with the best things he could lay his hands
+            on-gold and silver, and clothes and other fine things; and then he bade the <character
+                who="Old Dame">old dame</character> to greet <character who="Robbers">the
+                robbers</character> when they came back, and to thank them for him, and to say that
+            now he was setting off on his travels, and they would have hard work to find him again;
+            and with that, off he started. After a good bit he came to the road along which he was
+            going when he fell among the robbers, and when he got near home, and could see his
+            father’s cottage, he put on a uniform which he had found among the clothes he had taken
+            from <character who="Robbers">the robbers</character>, and which was made just like a
+            general’s. So he drove up to the door as if he were any other great man. After that he
+            went in and asked if he could have a lodging? No; that he couldn’t at any price. “How
+            ever should I be able”, said the man, “to make room in my house for such a fine
+            gentleman—I who scarce have a rag to lie upon, and miserable rags too?” “You always were
+            a stingy old hunks”, said <character who="The Youth">the youth</character>, “and so you
+            are still, when you won’t take your own son in.” “What, you my son!” said the man.
+            “Don’t you know me again?” said <character who="The Youth">the youth</character>. Well,
+            after a little while he did know him again. “But what have you been turning your hand
+            to, that you have made yourself so great a man in such haste?” asked the man. “Oh! I’ll
+            soon tell you”, said <character who="The Youth">the youth</character>. “You said I might
+            take to any trade I chose, and so I bound myself apprentice to a pack of thieves and
+            robbers, and now I’ve served my time out, and am become a <character who="Master Thief"
+                >Master Thief</character>.” Now there lived a <character who="Squire"
+                >Squire</character> close by to his father’s cottage, and he had such a great house,
+            and such heaps of money, he could not tell how much he had. He had a daughter too, and a
+            smart and pretty girl she was. So the <character who="Master Thief">Master
+                Thief</character> set his heart upon having her to wife, and he told his father to
+            go to the <character who="Squire">Squire</character> and ask for his daughter for him.
+            “If he asks by what trade I get my living, you can say I’m a <character
+                who="Master Thief">Master Thief</character>.” “I think you’ve lost your wits”, said
+            the man, “for you can’t be in your right mind when you think of such stuff.” No! he had
+            not lost his wits, his father must and should go to the <character who="Squire"
+                >Squire</character>, and ask for his daughter. “Nay, but I tell you, I daren’t go to
+            the <character who="Squire">Squire</character> and be your spokesman; he who is so rich,
+            and has so much money”, said the man. Yes, there was no help for it, said the <character
+                who="Master Thief">Master Thief</character>; he should go whether he would or no;
+            and if he did not go by fair means, he would soon make him go by foul. But the man was
+            still loath to go; so he stepped after him, and rubbed him down with a good birch
+            cudgel, and kept on till the man came crying and sobbing inside the <character
                 who="Squire">Squire</character>’s door. “How now, my man! what ails you?” said the
                 <character who="Squire">Squire</character>. So he told him the whole story; how he
             had three sons who set off one day, and how he had given them leave to go whithersoever
