@@ -1,0 +1,88 @@
+
+body {
+   display: flex;
+   min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  display: flex;
+}
+
+article {
+  flex: 1;
+  padding: 10px;
+  background: rgb(80, 132, 166);
+}
+
+nav {
+  order: -1
+  /* This is for properly ordering elements. */
+}  
+
+
+* {
+  box-sizing: border-box;
+  /* the "*" indicates *all* elements! */
+}
+
+nav
+ {
+  background: rgb(128, 128, 128);
+  padding: 0px;
+  
+}
+
+.horizontal {
+    width: 100vw;
+}
+
+.vertical {
+    width: 20vw;
+}
+
+.lih
+{
+    border-style: solid;
+    border-color: white;
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+header
+ {
+  background: rgba(111,113,115,0.31);
+  height: 20vh;
+  padding: 10px;
+}
+
+
+footer {
+  background: rgba(0,0,0,0.18);
+  height: 5vh;
+  padding: 10px;
+}
+
+h1 {
+    color: rgb(80, 132, 175);
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    color: white;
+}
+
+h2 {
+    color: rgb(255,250,250);
+}
+ 
