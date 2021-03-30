@@ -1,0 +1,99 @@
+
+body {
+   display: flex;
+   min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  display: flex;
+}
+
+article {
+  flex: 1;
+  padding: 10px;
+  background: rgb(50, 86, 117);
+}
+
+nav {
+  order: -1
+  /* This is for properly ordering elements. */
+}  
+
+
+* {
+  box-sizing: border-box;
+  /* the "*" indicates *all* elements! */
+}
+
+nav
+ {
+ left: 0px;
+  background: rgb(128, 128, 128);
+  padding: 0px;
+  
+}
+
+.horizontal {
+    width: 100vw;
+}
+
+.vertical {
+    width: 20vw;
+}
+
+.lih
+{
+    border-style: solid;
+    border-color: rgba(255,255,255,.3);
+    background-color: rgba(100,128,130,.6);
+    float: left;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 24px;
+    
+}
+
+
+a 
+{
+    color: white;
+}
+
+header
+ {
+  background: rgba(100,128,130,.3);
+  height: 15vh;
+  padding: 10px;
+}
+
+
+footer {
+  background: rgba(0,0,0,0.18);
+  height: 5vh;
+  padding: 10px;
+}
+
+h1 {
+    color: rgb(50, 86, 117);
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    color: white;
+}
+
+h2 {
+    color: rgb(255,250,250);
+    font-weight: normal;
+}
+ 
