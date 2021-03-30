@@ -1,0 +1,122 @@
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+}
+
+main {
+  flex: 1;
+  display: flex;
+}
+
+article {
+  flex: 1;
+  padding: 10px;
+  background: #E0D3AF;
+  border-style: solid;
+  border-color: rgb(81, 102, 94);
+}
+
+nav {
+  order: -1
+  /* This is for properly ordering elements. */
+}  
+
+
+* {
+  box-sizing: border-box;
+  /* the "*" indicates *all* elements! */
+}
+
+nav
+ {
+  background: rgba(128, 128, 128, 0.8);
+  padding: 0px;
+  
+}
+
+.horizontal {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.vertical {
+    width: 20vw;
+    background-image: url(bookCover.jpg);
+    background-size: cover;
+    border-style: solid;
+    border-color: rgb(81, 102, 94);
+    padding: 5px;
+}
+
+.checkboxes {
+    background-color: rgba(128, 128, 128, .8);
+    color: white;
+    margin: 5px;
+}
+
+.lih
+{
+    float: left; 
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.lih:hover {
+    background-color: #000;
+    opacity: 0.5;
+}
+
+header
+ {
+  background-image: url(bookCover.jpg);
+  background-size: cover;
+  height: 20vh;
+  padding: 10px;
+}
+
+
+footer {
+  background-image: url(bookCover.jpg);
+  background-size: cover;
+  
+  height: 5vh;
+  padding: 10px;
+}
+
+.dropdown {
+    
+    position: relative;
+    text-align: center;
+    margin: 5px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgba(249, 249, 249, 0.8);
+  padding: 12px 16px;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+li {
+    list-style-type: none;
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+span {
+    color: white;
+}
