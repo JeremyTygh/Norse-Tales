@@ -1,0 +1,44 @@
+
+body {
+   display: flex;
+   min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  display: flex;
+}
+
+article {
+  flex: 1;
+  background:white;
+}
+
+nav {
+  order: -1
+  /* This is for properly ordering elements. */
+}  
+
+
+* {
+  box-sizing: border-box;
+  /* the "*" indicates *all* elements! */
+}
+
+nav
+ {
+  background: rgb(128, 128, 128);
+  padding: 0px;
+}
+main{
+    background:black;
+}
+p{
+    background:wheat;
+    display:flex;
+    color:maroon;
+    flex-direction:column;
+
+    
+}
