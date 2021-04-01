@@ -1,0 +1,1801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tales>
+    <story>
+        <title>THE FOX AS HERDSMAN</title>
+        <body>
+            <p>Once on a time there was a <character who="woman">woman</character> who went out to hire
+                a herdsman, and she met a <character who="bear">bear</character>.</p>
+            <p><fig_lang type="personification" subject="bear">“Whither away, Goody?” said <character
+                who="bear">Bruin</character></fig_lang>.</p>
+            <p><dialogue speaker="woman" subject="bear">“Oh, I’m going out to hire a herdsman”,
+                answered the <character who="woman">woman</character>.</dialogue>
+            </p>
+            <p><dialogue speaker="bear" subject="woman"><fig_lang type="personification" subject="bear"
+                >“Why not have me for a herdsman?” said <character who="bear"
+                    >Bruin</character>.</fig_lang></dialogue>
+            </p>
+            <p><dialogue speaker="woman" subject="bear">“Well, why not?” said the <character
+                who="woman">woman</character>. “If you only knew how to call the flock; just let
+                me hear?”</dialogue>
+            </p>
+            <p><dialogue speaker="bear" subject="woman">“OW, OW!” growled the <character who="bear">bear</character>.</dialogue>
+            </p>
+            <p><dialogue speaker="woman" subject="bear">“No, no! I won’t have you”, said the <character who="woman">woman</character>,</dialogue> as
+                soon as she heard him say that, and off she went on her way.
+            </p>
+            <p>So, when she had gone a bit further, she met a <character who="wolf">wolf</character>.</p>
+            <p><dialogue speaker="wolf" subject="woman"><fig_lang type="personification" subject="wolf"
+                >“Whither away, Goody?” asked the <character who="wolf">Wolf</character>.</fig_lang></dialogue>
+            </p>
+            <p><dialogue speaker="woman" subject="wolf">“Oh!” said she, “I’m going out to hire a
+                herdsman.”</dialogue>
+            </p>
+            <p><dialogue speaker="wolf" subject="woman"><fig_lang type="personification" subject="wolf"
+                >“Why not have me for a herdsman?” said the Wolf.</fig_lang></dialogue>
+            </p>
+            <p><dialogue speaker="woman" subject="wolf">“Well, why not? if you can only call the flock;
+                let me hear?” said she.</dialogue>
+            </p>
+            <p><dialogue speaker="wolf" subject="woman">“UH, UH!” said the <character who="wolf">Wolf</character>.</dialogue>
+            </p>
+            <p><dialogue speaker="woman" subject="wolf">“No, no!” said the <character who="woman">woman</character>; “you’ll never do for
+                me.”</dialogue>
+            </p>
+            <p>Well, after she had gone a while longer, she met a <character who="fox">fox</character>.</p>
+            <p><dialogue speaker="fox" subject="woman"><fig_lang type="personification" subject="fox"
+                >“Whither away, Goody?” asked the <character who="fox">Fox</character>.</fig_lang></dialogue>
+            </p>
+            <p><dialogue speaker="woman" subject="fox">“Oh, I’m just going out to hire a herdsman”, said
+                the <character who="woman">woman</character>.</dialogue></p>
+            <p><dialogue speaker="fox" subject="woman"><fig_lang type="personification" subject="fox"
+                >“Why not have me for your herdsman?” asked the <character who="fox">Fox</character>.</fig_lang></dialogue>
+            </p>
+            <p><dialogue speaker="woman" subject="fox">“Well, why not?” said she; “if you only knew how
+                to call the flock; let me hear?”</dialogue></p>
+            <p><dialogue speaker="fox" subject="woman">“DIL-DAL-HOLOM”, sung out the <character who="fox">Fox</character>, in such a fine
+                clear voice.</dialogue></p>
+            <p><dialogue speaker="woman" subject="fox">“Yes; I’ll have you for my herdsman”, said the
+                woman; and so she set the Fox to herd her flock.</dialogue></p>
+            <p>The first day the <character who="fox">Fox</character> was herdsman he <action actor="fox" subject="woman" sign="negative"
+                >ate up all the woman’s goats; the next day he made an end of all her sheep; and the
+                third day he ate up all her kine.</action> So, when he came home at even, the woman
+                asked what he had done with all her flocks?</p>
+            <p><dialogue speaker="fox" subject="woman"><fig_lang type="pesonification" subject="fox"
+                >“Oh!” said the <character who="fox">Fox</character>, “their skulls are in the stream, and their bodies in the
+                holt.”</fig_lang></dialogue>
+            </p>
+            <p>Now, <character who="woman">the Goody</character> stood and churned when the fox said this, but she thought she might as
+                well step out and see after her flock; and while she was away <action actor="fox"
+                    subject="cream" sign="negative">the Fox crept into the churn and ate up the
+                    cream.</action> So when the Goody came back and saw that, she fell into such a rage,
+                that <descriptor speaker="narrator" subject="fox" sign="negative"><action
+                    actor="woman" subject="fox" sign="negative">she snatched up the little morsel of
+                    the cream that was left, and threw it at the fox as he ran off,</action> so that
+                    he got a dab of it on the end of his tail, and that’s the reason why the fox has a
+                    white tip to his brush.</descriptor></p>
+        </body>
+    </story>
+    <story>
+    <title>THE GIANT WHO HAD NO HEART IN HIS BODY</title>
+    <body>
+        <p>Once on a time there was a <character who="King">king</character>
+            <descriptor speaker="Narrator" subject="King" sign="neutral">who had seven sons, and he
+                loved them so much that he could never bear to be without them all at once, but one
+                must always be with him.</descriptor> Now, when they were grown up, <character
+                who="Princes">six</character> were to set off to woo, but as for the <descriptor
+                speaker="Narrator" subject="Boots" sign="neutral">youngest</descriptor>, his father
+            kept him at home, and the others were to bring back a princess for him to the palace.
+                <action actor="King" subject="princes" sign="positive">So the king gave the six the
+                finest clothes you ever set eyes on, so fine that the light gleamed from them a long
+                way off, and each had his horse, which cost many, many hundred dollars, and so they
+                set off.</action><descriptor subject="princes" sign="neutral" speaker="Narrator">
+                Now, when they had been to many palaces, and seen many princesses, at last they came
+                to a king who had <character who="princesses">six daughters</character>; such lovely
+                king’s daughters they had never seen, and so they fell to wooing them, each one, and
+                when they had got them for sweethearts, they set off home again</descriptor>,
+                <action subject="Boots" sign="negative" actor="princes">but they quite forgot that
+                they were to bring back with them a sweetheart for <character who="Boots"
+                    >Boots</character>, their brother, who stayed at home, for they were over head
+                and ears in love with their own sweethearts.</action></p>
+        <p>But when they had gone a good bit on their way, they passed close by a steep hill-side,
+            like a wall, where the giant’s house was, and there the <character who="Giant"
+                >giant</character> came out, and set his eyes upon them, and <action actor="Giant"
+                subject="princes and princesses" sign="negative">turned them all into stone, princes
+                and princesses and all.</action>
+            <descriptor subject="King" sign="negative" speaker="narrator">Now the king waited and
+                waited for his six sons, but the more he waited, the longer they stayed away; so he
+                fell into great trouble, and said he should never know what it was to be glad
+                again.</descriptor></p>
+        <p><dialogue speaker="King" subject="Boots">“And if I had not you left”, he said to
+                    <character who="Boots">Boots</character>, “I would live no longer, so full of
+                sorrow am I for the loss of your brothers.”</dialogue>
+        </p>
+        <p><dialogue speaker="Boots" subject="King">“Well, but now I’ve been thinking to ask your
+                leave to set out and find them again; that’s what I’m thinking of”, said <character
+                    who="Boots">Boots</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="King" subject="Boots">“Nay, nay!” said his father; “that leave you
+                shall never get, for then you would stay away too.”</dialogue>
+        </p>
+        <p>But <character who="Boots">Boots</character> had set his heart upon it; go he would; and
+            he begged and prayed so long that the <character who="King">king</character> was forced
+            to let him go. <descriptor subject="King" sign="negative" speaker="narrator">Now, you
+                must know the king had no other horse to give <character who="Boots"
+                    >Boots</character> but an old broken-down jade, for his six other sons and their
+                train had carried off all his horses;</descriptor> but <character who="Boots"
+                >Boots</character> did not care a pin for that, he sprang up on his
+            sorry-old-steed.</p>
+        <p><dialogue speaker="Boots" subject="King">“Farewell, father”, said he; “I’ll come back,
+                never fear, and like enough I shall bring my six brothers back with me”; and with
+                that he rode off.</dialogue>
+        </p>
+        <p>So, when he had ridden a while, he came to a <character who="Raven">Raven</character>,
+                <descriptor subject="Raven" sign="neutral" speaker="narrator">which lay in the road
+                and flapped its wings, and was not able to get out of the way, it was so
+                starved.</descriptor></p>
+        <p><fig_lang type="personification" subject="Raven">“Oh, dear friend”, said the <character
+                    who="Raven">Raven</character>, “give me a little food, and I’ll help you again
+                at your utmost need.”</fig_lang>
+        </p>
+        <p><dialogue speaker="Boots" subject="Raven">“I haven’t much food”, said the <character
+                    who="Boots">Prince</character>, “and I don’t see how you’ll ever be able to help
+                me much; but still I can spare you a little. I see you want it.”</dialogue>
+        </p>
+        <p><action actor="Boots" subject="Raven" sign="positive">So he gave the <character
+                    who="Raven">raven</character> some of the food he had brought with him.</action>
+        </p>
+        <p>Now, when he had gone a bit further, he came to a brook, and in the brook lay a
+                <character who="Salmon">great Salmon</character>, <descriptor subject="Salmon"
+                sign="neutral" speaker="narrator">which had got upon a dry place and dashed itself
+                about, and could not get into the water again.</descriptor></p>
+        <p><dialogue speaker="Salmon" subject="Boots"><fig_lang type="personification"
+                    subject="Salmon">“Oh, dear friend”, said the <character who="Salmon"
+                        >Salmon</character> to the <character who="Boots">Prince</character>; “shove
+                    me out into the water again, and I’ll help you again at your utmost
+                    need.”</fig_lang></dialogue>
+        </p>
+        <p><dialogue speaker="Boots" subject="Salmon">“Well!” said the <character who="Boots"
+                    >Prince</character>, “the help you’ll give me will not be great, I daresay, but
+                it’s a pity you should lie there and choke”</dialogue>; and with that <action
+                actor="Boots" subject="Salmon" sign="positive">he shot the fish out into the stream
+                again.</action></p>
+        <p>After that he went a long, long way, and there met him a <character who="Wolf"
+                >Wolf</character>, which was so famished that it lay and crawled along the road on
+            its belly.</p>
+        <p><dialogue speaker="Wolf" subject="Boots"><fig_lang type="personification" subject="Wolf"
+                    >“Dear friend, do let me have your horse”, said the <character who="Wolf"
+                        >Wolf</character>; “I’m so hungry the wind whistles through my ribs; I’ve
+                    had nothing to eat these two years.”</fig_lang></dialogue>
+        </p>
+        <p><dialogue speaker="Boots" subject="Wolf">“No”, said <character who="Boots"
+                    >Boots</character>, “this will never do; “first I came to a <character
+                    who="Raven">raven</character>, and I was forced to give him my food; next I came
+                to a <character who="Salmon">salmon</character>, and him I had to help into the
+                water again; and now you will have my horse. It can’t be done, that it can’t, for
+                then I should have nothing to ride on.”</dialogue>
+        </p>
+        <p><dialogue speaker="Wolf" subject="Boots">“Nay, dear friend, but you can help me”, said
+                    <character who="Wolf">Graylegs the wolf</character>; “you can ride upon my back,
+                and I’ll help you again in your utmost need.”</dialogue>
+        </p>
+        <p><dialogue speaker="Wolf" subject="Boots">“Well! the help I shall get from you will not
+                be great, I’ll be bound”, said the <character who="Boots">Prince</character>; “but
+                you may take my horse, since you are in such need.”</dialogue>
+        </p>
+        <p><action actor="Wolf" subject="Boots" sign="postive">So when the <character who="Wolf"
+                    >wolf</character> had eaten the horse, <character who="Boots">Boots</character>
+                took the bit and put it into the wolf’s jaw, and laid the saddle on his back;
+                    <descriptor subject="Wolf" sign="positive" speaker="narrator">and now the
+                        <character who="Wolf">wolf</character> was so strong, after what he had got
+                    inside, that he set off with the <character who="Boots">Prince</character> like
+                    nothing. So fast he had never ridden before.</descriptor></action>
+        </p>
+        <p><dialogue speaker="Wolf" subject="Boots">“When we have gone a bit farther”, <character
+                    who="Wolf">said Graylegs</character>; “I’ll show you the Giant’s
+                house.”</dialogue>
+        </p>
+        <p>So after a while they came to it.</p>
+        <p><dialogue speaker="Wolf" subject="Boots"><descriptor subject="Giant's House"
+                    sign="negative" speaker="Wolf">“See, here is the Giant’s house”, said the
+                        <character who="Wolf">Wolf</character>; “and see, here are your six
+                    brothers, whom the <character who="Giant">Giant</character> has turned into
+                    stone; and see here are their six brides, and away yonder is the door, and in at
+                    that door you must go.”</descriptor></dialogue>
+        </p>
+        <p><dialogue speaker="Boots" subject="Wolf">“Nay, but I daren’t go in”, said the <character
+                    who="Boots">Prince</character>; “he’ll take my life.”</dialogue>
+        </p>
+        <p><dialogue speaker="Wolf" subject="Boots">“No! no!” said the <character who="Wolf"
+                    >Wolf</character>; “when you get in you’ll find a Princess, and she’ll tell you
+                what to do to make an end of the <character who="Giant">Giant</character>. Only mind
+                and do as she bids you.”</dialogue>
+        </p>
+        <p>Well! <character who="Boots">Boots</character> went in, but, truth to say, he was very
+            much afraid. When he came in the <character who="Giant">Giant</character> was away, but
+            in one of the rooms sat the <character who="Princess">Princess</character>, just as the
+                <character who="Wolf">wolf</character> had said, <descriptor speaker="Boots"
+                subject="Princess" sign="positive">and so lovely a princess <character who="Boots"
+                    >Boots</character> had never yet set eyes on.</descriptor></p>
+        <p><dialogue speaker="Princess" subject="Boots">“Oh! heaven help you! whence have you
+                come?” said the <character who="Princess">Princess</character>, as she saw him; “it
+                will surely be your death. No one can make an end of the Giant who lives here, for
+                he has no heart in his body.”</dialogue>
+        </p>
+        <p><dialogue speaker="Boots" subject="Princess">“Well! well!” said <character who="Boots"
+                    >Boots</character>; “but now that I am here, I may as well try what I can do
+                with him; and I will see if I can’t free my brothers, who are standing turned to
+                stone out of doors; and you, too, I will try to save, that I will.”</dialogue>
+        </p>
+        <p><dialogue speaker="Princess" subject="Boots">“Well, if you must, you must”, said the
+                    <character who="Princess">Princess</character>; “and so let us see if we can’t
+                hit on a plan. Just creep under the bed yonder, and mind and listen to what he and I
+                talk about. But, pray, do lie as still as a mouse.”</dialogue>
+        </p>
+        <p><action actor="Boots" subject="bed" sign="neutral">So he crept under the bed, and he had
+                scarce got well underneath it,</action> before the <character who="Giant"
+                >Giant</character> came.</p>
+        <p><dialogue speaker="Giant" subject="Princess">“Ha!” roared the <character who="Giant"
+                    >Giant</character>, “what a smell of Christian blood there is in the
+                house!”</dialogue>
+        </p>
+        <p><dialogue speaker="Princess" subject="Giant">“Yes, I know there is”, said the <character
+                    who="Princess">Princess</character>, “for there came a magpie flying with a
+                man’s bone, and let it fall down the chimney. I made all the haste I could to get it
+                out, but all one can do, the smell doesn’t go off so soon.”</dialogue>
+        </p>
+        <p>So the <character who="Giant">Giant</character> said no more about it, and when night
+            came, they went to bed. After they had lain awhile, the <character who="Princess"
+                >Princess</character> said:</p>
+        <p><dialogue speaker="Princess" subject="Giant">“There is one thing I’d be so glad to ask
+                you about, if I only dared.”</dialogue>
+        </p>
+        <p><dialogue speaker="Giant" subject="Princess">“What thing is that?” asked the <character
+                    who="Giant">Giant</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Princess" subject="Giant">“Only where it is you keep your heart,
+                since you don’t carry it about you”, said the <character who="Princess"
+                    >Princess</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Giant" subject="Princess">“Ah! that’s a thing you’ve no business to
+                ask about; but if you must know, it lies under the door-sill”, said the <character
+                    who="Giant">Giant</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Boots" subject="Boots">“Ho! ho!” said <character who="Boots"
+                    >Boots</character> to himself under the bed, “then we’ll soon see if we can’t
+                find it.”</dialogue>
+        </p>
+        <p>Next morning the <character who="Giant">Giant</character> got up cruelly early, and
+            strode off to the wood; but he was hardly out of the house before <action
+                actor="Boots and Princess" subject="Giant's heart" sign="neutral"><character
+                    who="Boots">Boots</character> and the <character who="Princess"
+                    >Princess</character> set to work to look under the door-sill for his heart; but
+                the more they dug, and the more they hunted, the more they couldn’t find
+                it.</action></p>
+        <p><dialogue speaker="Princess" subject="Boots">“He has baulked us this time”, said the
+                    <character who="Princess">Princess</character>, “but we’ll try him once
+                more.”</dialogue>
+        </p>
+        <p><action actor="Princess" subject="flowers" sign="positive">So she picked all the
+                prettiest flowers she could find, and strewed them over the door-sill, which they
+                had laid in its right place again</action>; and when the time came for the
+                <character who="Giant">Giant</character> to come home again,<action actor="Boots"
+                subject="bed" sign="neutral">
+                <character who="Boots">Boots</character> crept under the bed.</action> Just as he
+            was well under, back came the <character who="Giant">Giant</character>.</p>
+        <p>Snuff—snuff, went the Giant’s nose. <dialogue speaker="Giant" subject="Princess">“My eyes
+                and limbs, what a smell of Christian blood there is in here”, said
+            he.</dialogue></p>
+        <p><dialogue speaker="Princess" subject="Giant">“I know there is”, said the <character
+                    who="Princess">Princess</character>, “for there came a magpie flying with a
+                man’s bone in his bill, and let it fall down the chimney. I made as much haste as I
+                could to get it out, but I daresay it’s that you smell.”</dialogue>
+        </p>
+        <p>So the <character who="Giant">Giant</character> held his peace, and said no more about
+            it. A little while after, he asked who it was that had strewed flowers about the
+            door-sill.</p>
+        <p><dialogue speaker="Princess" subject="Giant">“Oh, I, of course”, said the <character
+                    who="Princess">Princess</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Giant" subject="Princess">“And, pray, what’s the meaning of all
+                this?” said the <character who="Giant">Giant</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Princess" subject="Giant">“Ah!” said the Princess, “I’m so fond of
+                you that I couldn’t help strewing them, when I knew that your heart lay under
+                there.”</dialogue>
+        </p>
+        <p><dialogue speaker="Giant" subject="Princess">“You don’t say so”, said the <character
+                    who="Giant">Giant</character>; “but after all it doesn’t lie there at
+                all.”</dialogue>
+        </p>
+        <p>So when they went to bed again in the evening, the <character who="Princess"
+                >Princess</character> asked the <character who="Giant">Giant</character> again where
+            his heart was, for she said she would so like to know.</p>
+        <p><dialogue speaker="Giant" subject="Princess">“Well”, said the <character who="Giant"
+                    >Giant</character>, “if you must know, it lies away yonder in the cupboard
+                against the wall.”</dialogue>
+        </p>
+        <p><dialogue speaker="Boots and Princess" subject="themselves">“So, so!” thought <character
+                    who="Boots">Boots</character> and the <character who="Princess"
+                    >Princess</character>; “then we’ll soon try to find it.”</dialogue>
+        </p>
+        <p>Next morning the <character who="Giant">Giant</character> was away early, and strode off
+            to the wood, and so soon as he was gone <action actor="Boots and Princess"
+                subject="Giant's heart" sign="neutral"><character who="Boots">Boots</character> and
+                the <character who="Princess">Princess</character> were in the cupboard hunting for
+                his heart, but the more they sought for it, the less they found it.</action></p>
+        <p><dialogue speaker="Princess" subject="Boots">“Well”, said the <character who="Princess"
+                    >Princess</character>, “we’ll just try him once more.”</dialogue>
+        </p>
+        <p><action actor="Princess" subject="decorating cupboard" sign="positive">So she decked out
+                the cupboard with flowers and garlands, and when the time came for the Giant to come
+                home, <action actor="Boots" subject="bed" sign="neutral"><character who="Boots"
+                        >Boots</character> crept under the bed again.</action></action>
+        </p>
+        <p>Then back came the <character who="Giant">Giant</character>.</p>
+        <p>Snuff-snuff! <dialogue speaker="Giant" subject="Princess">“My eyes and limbs, what a
+                smell of Christian blood there is in here!”</dialogue></p>
+        <p><dialogue speaker="Princess" subject="Giant">“I know there is”, said the <character
+                    who="Princess">Princess</character>; “for a little while since there came a
+                magpie flying with a man’s bone in his bill, and let it fall down the chimney. I
+                made all the haste I could to get it out of the house again; but after all my pains,
+                I daresay it’s that you smell.”</dialogue>
+        </p>
+        <p>When the <character who="Giant">Giant</character> heard that, he said no more about it;
+            but a little while after, he saw how the cupboard was all decked about with flowers and
+            garlands; so he asked who it was that had done that? Who could it be but the <character
+                who="Princess">Princess</character>.</p>
+        <p><dialogue speaker="Giant" subject="Princess">“And, pray, what’s the meaning of all this
+                tom-foolery?” asked the <character who="Giant">Giant</character>.</dialogue></p>
+        <p><dialogue speaker="Princess" subject="Giant">“Oh, I’m so fond of you, I couldn’t help
+                doing it when I knew that your heart lay there”, said the <character who="Princess"
+                    >Princess</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Giant" subject="Princess">“How can you be so silly as to believe any
+                such thing?” said the <character who="Giant">Giant</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Princess" subject="Giant">“Oh yes; how can I help believing it, when
+                you say it”, said the <character who="Princess">Princess</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Giant" subject="Princess">“You’re a goose”, said the <character
+                    who="Giant">Giant</character>; “where my heart is, you will never
+                come.”</dialogue>
+        </p>
+        <p><dialogue speaker="Princess" subject="Giant">“Well”, said the <character who="Princess"
+                    >Princess</character>;” but for all that, ’twould be such a pleasure to know
+                where it really lies.”</dialogue>
+        </p>
+        <p>Then the poor <character who="Giant">Giant</character> could hold out no longer, but was
+            forced to say:</p>
+        <p><dialogue speaker="Giant" subject="Princess">“Far, far away in a lake lies an island; on
+                that island stands a church; in that church is a well; in that well swims a duck; in
+                that duck there is an egg, and in that egg there lies my heart,—you
+                darling!”</dialogue>
+        </p>
+        <p>In the morning early, while it was still grey dawn, the <character who="Giant"
+                >Giant</character> strode off to the wood.</p>
+        <p><dialogue subject="Princess" speaker="Boots">“Yes! now I must set off too”, said
+                    <character who="Boots">Boots</character>; “if I only knew how to find the
+                way.”</dialogue> He took a long, long farewell of the <character who="Princess"
+                >Princess</character>, <action actor="Wolf" subject="Boots" sign="positive">and when
+                he got out of the Giant’s door, there stood the <character who="Wolf"
+                    >Wolf</character> waiting for him. So <character who="Boots">Boots</character>
+                told him all that had happened inside the house, and said now he wished to ride to
+                the well in the church, if he only knew the way. So the <character who="Wolf"
+                    >Wolf</character> bade him jump on his back, he’d soon find the way; and away
+                they went, till the wind whistled after them, over hedge and field, over hill and
+                dale. After they had travelled many, many days, they came at last to the lake. Then
+                the <character who="Boots">Prince</character> did not know how to get over it, but
+                the <character who="Wolf">Wolf</character> bade him only not be afraid, but stick
+                on, and so he jumped into the lake with the <character who="Boots"
+                    >Prince</character> on his back, and swam over to the island. So they came to
+                the church</action>; <descriptor subject="key" sign="negative" speaker="Boots"/>but
+            the church keys hung high, high up on the top of the tower, and at first the <character
+                who="Boots">Prince</character> did not know how to get them down.</p>
+        <p><dialogue speaker="Wolf" subject="Boots">“You must call on the <character who="Raven"
+                    >raven</character>”, said the <character who="Wolf">Wolf</character>.</dialogue>
+        </p>
+        <p><action actor="Raven" subject="Boots" sign="positive">So the <character who="Boots"
+                    >Prince</character> called on the <character who="Raven">raven</character>, and
+                in a trice the <character who="Raven">raven</character> came, and flew up and
+                fetched the keys, and so the <character who="Boots">Prince</character> got into the
+                church</action>. But when he came to the well, there lay the duck, and swam about
+            backwards and forwards, just as the <character who="Giant">Giant</character> had said.
+                <action actor="Boots" subject="egg" sign="negative">So the <character who="Boots"
+                    >Prince</character> stood and coaxed it and coaxed it, till it came to him, and
+                he grasped it in his hand; but just as he lifted it up from the water the duck
+                dropped the egg into the well, and then <character who="Boots">Boots</character> was
+                beside himself to know how to get it out again.</action></p>
+        <p><dialogue speaker="Wolf" subject="Boots">“Well, now you must call on the <character
+                    who="Salmon">salmon</character> to be sure”, said the <character who="Wolf"
+                    >Wolf</character></dialogue>; and the <character who="Boots">king’s
+                son</character> called on the <character who="Salmon">salmon</character>, <action
+                actor="Salmon" subject="Boots" sign="positive">and the <character who="Salmon"
+                    >salmon</character> came and fetched up the egg from the bottom of the
+                well.</action></p>
+        <p>Then the <character who="Wolf">Wolf</character> told him to <action actor="Boots"
+                subject="Giant" sign="positive">squeeze the egg, and as soon as ever he squeezed it
+                the <character who="Giant">Giant</character> screamed out.</action></p>
+        <p><dialogue speaker="Wolf" subject="Boots">“Squeeze it again”, said the <character
+                    who="Wolf">Wolf</character></dialogue>; <action actor="Boots" subject="Giant"
+                sign="positive">and when the <character who="Boots">Prince</character> did so, the
+                    <character who="Giant">Giant</character> screamed still more piteously,</action>
+            and <descriptor speaker="Giant" subject="Boots" sign="neutral">begged and prayed so
+                prettily to be spared, saying he would do all that the <character who="Boots"
+                    >Prince</character> wished if he would only not squeeze his heart in
+                two.</descriptor></p>
+        <p><dialogue speaker="Wolf" subject="Boots">“Tell him, if he will restore to life again your
+                six brothers and their brides, whom he has turned to stone, you will spare his
+                life”, said the <character who="Wolf">Wolf</character>.</dialogue> Yes, the
+                <character who="Giant">Giant</character> was ready to do that, and <action
+                actor="Giant" subject="princes and princesses" sign="positive">he turned the six
+                brothers into king’s sons again, and their brides into king’s
+            daughters.</action></p>
+        <p><dialogue speaker="Wolf" subject="Boots">“Now, squeeze the egg in two”, said the
+                    <character who="Wolf">Wolf</character>.</dialogue>
+            <action actor="Boots" subject="Giant" sign="positive"> So <character who="Boots"
+                    >Boots</character> squeezed the egg to pieces, <descriptor subject="Giant"
+                    sign="positive" speaker="narrator">and the <character who="Giant"
+                        >Giant</character> burst at once.</descriptor></action>
+        </p>
+        <p>Now, when he had made an end of the <character who="Giant">Giant</character>, <descriptor
+                subject="Boots, Princess, princes, and princess" sign="neutral" speaker="narrator"
+                    ><character who="Boots">Boots</character> rode back again on the <character
+                    who="Wolf">wolf</character> to the Giant’s house, and there stood all his six
+                brothers alive and merry, with their brides. Then <character who="Boots"
+                    >Boots</character> went into the hill-side after his bride, and so they all set
+                off home again to their father’s house.</descriptor>
+            <descriptor subject="King" sign="positive" speaker="narrator">And you may fancy how glad
+                the old king was when he saw all his seven sons come back, each with his
+                bride—</descriptor><dialogue speaker="King" subject="everyone"><descriptor
+                    subject="Princess" sign="positive" speaker="King">“But the loveliest bride of
+                    all is the <character who="Princess">bride of Boots</character>, after all”,
+                    said the <character who="King">king</character>,</descriptor><descriptor
+                    subject="Boots" sign="positive" speaker="King"> “and he shall sit uppermost at
+                    the table, with her by his side.”</descriptor></dialogue></p>
+        <p><action actor="King" subject="wedding" sign="positive"/>So he sent out, and called a
+            great wedding-feast, and the mirth was both loud and long, and if they have not done
+            feasting, why, they are still at it.</p>
+    </body>
+</story>
+    <story>
+        <title>TAMING THE SHREW</title>
+        <body>
+            <p>Once on a time there was a <character>king</character>, and he had a
+                <character>daughter</character> who was such <descriptor speaker="narrator"
+                    subject="Princess" sign="negative">a scold</descriptor>, and whose<fig_lang
+                        type="personification" subject="Princess" sign="negative"> tongue went so fast,
+                        there was no stopping it</fig_lang>. So he gave out that the man who could stop her
+                tongue should have the Princess to wife, and half his kingdom into the bargain. Now,
+                three brothers, who heard this, made up their minds to go and try their luck; and first
+                of all the two elder went, for they thought they were the cleverest; but they couldn’t
+                cope with her at all, and got well thrashed besides.</p>
+            <p> Then <character>Boots</character>, the <descriptor speaker="narrator" subject="Boots" sign="neutral">
+                youngest</descriptor>, set off, and when he had gone a little way he found an ozier
+                band lying on the road, and he picked it up. When he had gone a little farther he found
+                a piece of a broken plate, and he picked that up too. A little farther on he found a
+                dead magpie, and a little farther on still, a crooked ram’s horn; so he went on a bit
+                and found the fellow to the horn; and at last, just as he was crossing the fields by the
+                king’s palace, where they were pitching out dung, he found a worn-out shoe-sole. All
+                these things he took with him into the palace, and went before the Princess.</p>
+            <p><dialogue subject="Princess" speaker="Boots"> “Good day”</dialogue>, said he.</p>
+            <p><dialogue subject="Boots" speaker="Princess">
+                “Good day”</dialogue>, said she, and made a wry face.</p> 
+            <p><dialogue subject="Princess" speaker="Boots">“Can I get my magpie cooked here?”</dialogue> he asked.</p>
+            <p><dialogue subject="Boots" speaker="Princess">“I’m afraid it will burst”</dialogue>,answered the Princess.</p>
+            <p> <dialogue subject="Princess" speaker="Boots">“Oh! never fear! for I’ll just tie this ozier band round it”</dialogue>,
+                said the lad, as he pulled it out.</p>
+            <p> <dialogue subject="Boots" speaker="Princess">“The fat will run out of it”</dialogue>, said the Princess.</p>
+            <p><dialogue subject="Princess" speaker="Boots">“Then I’ll hold this under it”</dialogue>, said the lad, and showed her the piece of broken plate.</p>
+            <p><dialogue subject="Boots" speaker="Princess">“You are so <descriptor speaker="Princess" subject="Boots" sign="negative">crooked</descriptor> in your words”</dialogue>
+                , said the Princess, <dialogue speaker="Princess" subject="Boots">“there’s no knowing where to have you.”</dialogue></p>
+            <p> <dialogue speaker="Boots" subject="Princess">“No, I’m not crooked”</dialogue>, said the lad; <dialogue speaker="Boots" subject="Princess">
+                “but this is”</dialogue>, as he held up one of the horns.</p>
+            <p> <dialogue speaker="Princess" subject="Boots">“Well!”</dialogue> said the Princess, <dialogue speaker="Princess" subject="Boots">“I never saw the match of this in all my days.”</dialogue></p>
+            <p><dialogue speaker="Boots" subject="Princess">“Why here you see the match to it”</dialogue>, said the lad, as he pulled out the other ram’s horn.</p>
+            <p><dialogue speaker="Princess" subject="Boots">“I think”</dialogue>, said the Princess, <dialogue speaker="Princess" subject="Boots">“you must have come here to wear out my tongue with your
+                nonsense.”</dialogue></p> 
+            <p><dialogue speaker="Boots" subject="Princess">“No, I have not”</dialogue>, said the lad; <dialogue speaker="Boots" subject="Princess">“but this is worn out”</dialogue>, as he pulled out the
+                shoe-sole. To this the Princess hadn’t a word to say, for she had fairly lost her voice
+                with rage. <dialogue subject="Boots" speaker="Princess">“Now you are mine”</dialogue>, said the lad; and so he got the Princess to <action actor="Boots" subject="Princess" sign="positive">wife</action>, and
+                half the kingdom.</p>
+        </body>
+    </story>
+    <story>
+    <title>TATTERHOOD</title>
+    <body>
+        <p>Once on a time there was a <character who="King Queen">king and a queen</character>
+            <descriptor speaker="Narrator" subject="King Queen" sign="neutral">who had no
+                children</descriptor>, <descriptor subject="Queen" sign="negative"
+                speaker="narrator">and that gave the queen much grief; she scarce had one happy
+                hour. She was always bewailing and bemoaning herself, and saying how dull and
+                lonesome it was in the palace.</descriptor></p>
+        <p><dialogue speaker="Queen" subject="herself">“If we had children there’d be life enough”,
+                she said.</dialogue>
+        </p>
+        <p>Wherever she went in all her realm she found God’s blessing in children, even in the
+            vilest hut; and wherever she came she heard the Goodies scolding the bairns, and saying
+            how they had done that and that wrong. All this the queen heard, and thought it would be
+            so nice to do as other women did. <action actor="King Queen" subject="adopted daughter"
+                sign="positive">At last the <character who="King Queen">king and queen</character>
+                took into their palace a stranger <character who="adopted daughter"
+                    >lassie</character> to rear up, that they might have her always with them, to
+                love her if she did well, and scold her if she did wrong, like their own
+                child.</action></p>
+        <p>So one day the <character who="adopted daughter">little lassie</character> whom they had
+            taken as their own, ran down into the palace yard, and was playing with a gold apple.
+            Just then an <character who="old beggar wife">old beggar wife</character> came by, who
+            had a <character who="beggar wife's daughter">little girl</character> with her, and it
+            wasn’t long before the <character who="adopted daughter">little lassie</character> and
+            the <character who="beggar wife's daughter">beggar’s bairn</character> were great
+            friends, and began to play together, and to toss the gold apple about between them.
+                <action actor="Queen" subject="adopted daughter" sign="neutral">When the <character
+                    who="Queen">Queen</character> saw this, as she sat at a window in the palace,
+                she tapped on the pane for her foster-daughter to come up.</action> She went at
+            once, but the beggar-girl went up too; and as they went into the Queen’s bower, each
+            held the other by the hand. <action actor="Queen" subject="adopted daughter"
+                sign="negative">Then the <character who="Queen">Queen</character> began to scold the
+                little lady, and to say:</action></p>
+        <p><dialogue speaker="Queen" subject="adopted daughter">“You ought to be above running
+                about and playing with a <descriptor subject="beggar wife's daughter"
+                    sign="negative" speaker="Queen">tattered</descriptor> beggar’s brat.”</dialogue>
+        </p>
+        <p>And so she wanted to drive the lassie downstairs.</p>
+        <p><dialogue speaker="beggar wife's daughter" subject="Queen">“If the <character who="Queen"
+                    >Queen</character> only knew my mother’s power, she’d not drive me out”, said
+                the <character who="beggar wife's daughter">little lassie</character></dialogue>;
+            and when the <character who="Queen">Queen</character> asked what she meant more plainly,
+                <dialogue subject="Queen" speaker="beggar wife's daughter">she told her how her
+                mother could get her children if she chose.</dialogue> The <character who="Queen"
+                >Queen</character> wouldn’t believe it, but the <character
+                who="beggar wife's daughter">lassie</character> held her own, and said every word of
+            it was true, and bade the <character who="Queen">Queen</character> only to try and make
+            her mother do it. <action actor="Queen" subject="beggar wife's daughter" sign="neutral"
+                >So the <character who="Queen">Queen</character> sent the <character
+                    who="beggar wife's daughter">lassie</character> down to fetch up her
+                mother.</action></p>
+        <p><dialogue speaker="Queen" subject="old beggar wife">“Do you know what your daughter
+                says?” asked the <character who="Queen">Queen</character></dialogue> of the old
+            woman, as soon as ever she came into the room.</p>
+        <p><dialogue speaker="old beggar wife" subject="Queen">No</dialogue>; the beggar wife knew
+            nothing about it.</p>
+        <p><dialogue speaker="Queen" subject="old beggar wife">“Well, she says you can get me
+                children if you will”, answered the <character who="Queen"
+                >Queen</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="old beggar wife" subject="Queen">“Queens shouldn’t listen to beggar
+                lassies’ silly stories”, said the old wife</dialogue>, and strode out of the
+            room.</p>
+        <p>Then the <character who="Queen">Queen</character> got angry, and wanted again to drive
+            out the <character who="beggar wife's daughter">little lassie</character>; but she
+            declared it was true every word that she had said.</p>
+        <p><dialogue speaker="little girl" subject="Queen">“Let the <character who="Queen"
+                    >Queen</character> only give my mother a drop to drink,” said the <character
+                    who="beggar wife's daughter">lassie</character>; “when she gets merry she’ll
+                soon find out a way to help you.”</dialogue>
+        </p>
+        <p><action actor="Queen" subject="old beggar wife" sign="positive">The <character
+                    who="Queen">Queen</character> was ready to try this; so the <character
+                    who="old beggar wife">beggar wife</character> was fetched up again once more,
+                and treated both with wine and mead as much as she chose; and so it was not long
+                before her tongue began to wag. Then the <character who="Queen">Queen</character>
+                came out again with the same question she had asked before.</action></p>
+        <p><dialogue speaker="old beggar wife" subject="Queen">“One way to help you perhaps I
+                know”, said the beggar wife. “Your Majesty must make them bring in two pails of
+                water some evening before you go to bed. In each of them you must wash yourself, and
+                afterwards throw away the water under the bed. When you look under the bed next
+                morning, <descriptor subject="flowers" sign="neutral" speaker="old beggar wife">two
+                    flowers will have sprung up, one fair and one ugly.</descriptor> The fair one
+                you must eat, the ugly one you must let stand; but mind you don’t forget the
+                last.”</dialogue>
+        </p>
+        <p>That was what the <character who="old beggar wife">beggar wife</character> said.</p>
+        <p><action actor="Queen" subject="flowers" sign="neutral">Yes; the <character who="Queen"
+                    >Queen</character> did what the beggar wife advised her to do; she had the water
+                brought up in two pails, washed herself in them, and emptied them under the bed; and
+                lo! when she looked under the bed next morning, there stood two flowers; <descriptor
+                    subject="ugly flower" sign="negative" speaker="Queen">one was ugly and foul, and
+                    had black leaves;</descriptor>
+                <descriptor subject="pretty flower" sign="positive" speaker="Queen">but the other
+                    was so bright, and fair, and lovely, she had never seen its like;</descriptor>
+                so she ate it up at once. <action actor="Queen" subject="ugly flower"
+                    sign="negative">But the pretty flower tasted so sweet, that she couldn’t help
+                    herself. She ate the other up too,</action> for, she thought,</action>
+            <dialogue speaker="Queen" subject="herself">“it can’t hurt or help one much either way,
+                I’ll be bound”.</dialogue></p>
+        <p>Well, sure enough, after a while the <character who="Queen">Queen</character> was brought
+            to bed. <descriptor subject="Queen" sign="positive" speaker="narrator">First of all, she
+                had a <descriptor speaker="narrator" subject="Tatterhood" sign="negative"
+                    >girl</descriptor> who had a wooden spoon in her hand, and rode upon a goat;
+                loathly and ugly she was, and the very moment she came into the world</descriptor>,
+            she bawled out <dialogue speaker="Tatterhood" subject="Queen">“Mamma”</dialogue>.</p>
+        <p><dialogue speaker="Queen" subject="Tatterhood"><descriptor subject="Tatterhood"
+                    sign="negative" speaker="Queen">“If I’m your mamma”, said the <character
+                        who="Queen">Queen</character>, “God give me grace to mend my
+                    ways.”</descriptor></dialogue>
+        </p>
+        <p><dialogue speaker="Tatterhood" subject="Queen">“Oh, don’t be sorry”, said the girl, who
+                rode on the goat, “for one will soon come after me who is better
+                looking.”</dialogue>
+        </p>
+        <p>So, after a while, <descriptor subject="Queen" sign="positive" speaker="narrator">the
+                    <character who="Queen">Queen</character> had <character>another
+                girl</character></descriptor>, <descriptor speaker="narrator" subject="younger twin"
+                sign="neutral">who was so fair and sweet, no one had ever set eyes on such a lovely
+                child</descriptor>, and with her you may fancy the <character who="Queen"
+                >Queen</character> was very well pleased. The <descriptor speaker="narrator"
+                subject="Tatterhood" sign="neutral"><descriptor subject="Tatterhood" sign="neutral"
+                    speaker="narrator">elder twin</descriptor> they called “<character
+                    who="Tatterhood">Tatterhood</character>”, because she was always so ugly and
+                ragged, and because she had a hood which hung about her ears in
+            tatters</descriptor>. <descriptor subject="Tatterhood" sign="negative" speaker="Queen"
+                >The <character who="Queen">Queen</character> could scarce bear to look at her, and
+                the nurses tried to shut her up in a room by herself, <descriptor
+                    subject="younger twin and Tatterhood" sign="neutral" speaker="narrator">but it
+                    was all no good; where the younger twin was, there she must also be, and no one
+                    could ever keep them apart.</descriptor></descriptor></p>
+        <p><descriptor subject="Christmas eve" sign="negative" speaker="narrator">Well, one
+                Christmas eve, <descriptor subject="Tatterhood and younger twin" sign="" speaker=""
+                    >when they were half grown up</descriptor>, there rose such a frightful noise
+                and clatter in the gallery outside the Queen’s bower.</descriptor>
+            <dialogue subject="Queen" speaker="Tatterhood">So <character who="Tatterhood"
+                    >Tatterhood</character> asked what it was that dashed and crashed so out in the
+                passage.</dialogue></p>
+        <p><dialogue speaker="Queen" subject="Tatterhood">“Oh!” said the Queen, “it isn’t worth
+                asking about.”</dialogue>
+        </p>
+        <p>But <character who="Tatterhood">Tatterhood</character> wouldn’t give over till she found
+            out all about it and <dialogue subject="Tatterhood" speaker="Queen">so the <character
+                    who="Queen">Queen</character> told her it was a pack of Trolls and witches who
+                had come there to keep Christmas.</dialogue>
+            <dialogue subject="Queen" speaker="Tatterhood">So <character who="Tatterhood"
+                    >Tatterhood</character> said she’d just go out and drive them away;</dialogue>
+            and in spite of all they could say, and however much they begged and prayed her to let
+            the Trolls alone, she must and would go out to drive the witches off; but <dialogue
+                speaker="Tatterhood" subject="Queen">she begged the <character who="Queen"
+                    >Queen</character> to mind and keep all the doors close shut, so that not one of
+                them came so much as the least bit ajar.</dialogue> Having said this, <action
+                actor="Tatterhood" subject="trolls and witches" sign="positive">off she went with
+                her wooden spoon, and began to hunt and sweep away the hags</action>; <descriptor
+                subject="palace" sign="negative" speaker="narrator">and all this while there was
+                such a pother out in the gallery, the like of it was never heard. The whole Palace
+                creaked and groaned as if every joint and beam were going to be torn out of its
+                place. Now, how it was, I’m sure I can’t tell; but somehow or other one door did get
+                the least bit ajar,</descriptor>
+            <action actor="witch" subject="younger twin" sign="negative">then <character
+                    who="younger twin">her twin sister</character> just peeped out to see how things
+                were going with <character who="Tatterhood">Tatterhood</character>, and put her head
+                a tiny bit through the opening. But, POP! up came an old witch, and whipped off her
+                head, and stuck a calf’s head on her shoulders instead; and <descriptor
+                    subject="younger twin" sign="negative" speaker="narrator">so the <character
+                        who="younger twin">Princess</character> ran back into the room on all-fours,
+                    and began to “moo” like a calf.</descriptor></action> When <character
+                who="Tatterhood">Tatterhood</character> came back and saw her sister, she scolded
+            them all round, and was very angry because they hadn’t kept better watch, and asked them
+            what they thought of their heedlessness now, when her sister was turned into a calf.</p>
+        <p><dialogue speaker="Tatterhood" subject="everyone">“But still I’ll see if I can’t set her
+                free”, she said.</dialogue>
+        </p>
+        <p><descriptor subject="Tatterhood" sign="positive" speaker="narrator">Then she asked the King for a ship in full trim, and well fitted with stores; but captain
+            and sailors she wouldn’t have. No; she would sail away with her sister all alone; and as
+            there was no holding her back, at last they let her have her own way.</descriptor></p>
+        <p><action actor="Tatterhood" subject="ship" sign="positive">Then <character
+                    who="Tatterhood">Tatterhood</character> sailed off, and steered her ship right
+                under the land where the witches dwelt, and when she came to the landing-place, she
+                told her sister to stay quite still on board the ship;</action>
+            <action actor="Tatterhood" subject="witches" sign="positive">but she herself rode on her
+                goat up to the witches’ castle. When she got there, one of the windows in the
+                gallery was open, and there she saw her sister’s head hung up on the window frame;
+                so she leapt her goat through the window into the gallery, snapped up the head, and
+                set off with it. After her came the witches to try to get the head again, and they
+                flocked about her as thick as a swarm of bees or a nest of ants; but the goat
+                snorted, and puffed, and butted with his horns, and <character who="Tatterhood"
+                    >Tatterhood</character> beat and banged them about with her wooden spoon; and so
+                the pack of witches had to give it up.</action>
+            <action actor="Tatterhood" subject="younger twin" sign="positive">So <character
+                    who="Tatterhood">Tatterhood</character> got back to her ship, took the calf’s
+                head off her sister, and put her own on again, and then she became a girl as she had
+                been before.</action> After that she sailed a long, long way, to a strange king’s
+            realm.</p>
+        <p>Now the <character who="foreign king">king</character> of that land <descriptor
+                subject="foreign king" sign="neutral" speaker="narrator">was a widower, and had an
+                only son.</descriptor>
+            <action actor="foreign king" subject="foreign king's men" sign="neutral">So when he saw
+                the strange sail, he sent <character who="foreign king's men">messengers</character>
+                down to the strand to find out whence it came, and who owned it; but when the
+                    <character who="foreign king's men">king’s men</character> came down there,
+                    <descriptor subject="Tatterhood" sign="positive" speaker="foreign king's men"
+                    >they saw never a living soul on board but <character who="Tatterhood"
+                        >Tatterhood</character>, and there she was, riding round and round the deck
+                    on her goat at full speed, till her elf locks streamed again in the
+                    wind.</descriptor></action> The folk from the palace were all amazed at this
+            sight, <dialogue subject="Tatterhood" speaker="foreign king's men">and asked, were there
+                not more on board?</dialogue>
+            <dialogue subject="foreign king's men" speaker="Tatterhood">Yes, there were; she had a
+                sister with her, said Tatterhood.</dialogue> Her, too, they wanted to see, <dialogue
+                subject="foreign king's men" speaker="Tatterhood">but <character who="Tatterhood"
+                    >Tatterhood</character> said “No”:</dialogue></p>
+        <p><dialogue speaker="Tatterhood" subject="foreign king's men">“No one shall see her, unless
+                the king comes himself”, she said;</dialogue> and so <descriptor
+                subject="Tatterhood" sign="neutral" speaker="narrator">she began to gallop about on
+                her goat till the deck thundered again.</descriptor></p>
+        <p><action actor="foreign king's men" subject="foreign king" sign="neutral">So when the
+                servants got back to the palace, and told what they had seen and heard down at the
+                ship,</action>
+            <action actor="foreign king" subject="ship" sign="neutral">the <character
+                    who="foreign king">king</character> was for setting out at once, that he might
+                see the lassie that rode on the goat. When he got down, <character who="Tatterhood"
+                    >Tatterhood</character> led out her sister, and she was so fair and gentle, the
+                    <descriptor subject="younger twin" sign="positive" speaker="foreign king"
+                        ><character who="foreign king">king</character> fell over head and ears in
+                    love with her as he stood. He brought them both back with him to the Palace, and
+                    wanted to have the sister for his queen;</descriptor></action> but <character
+                who="Tatterhood">Tatterhood</character> said <dialogue speaker="Tatterhood"
+                subject="King">“No”; the <character who="foreign king">king</character> couldn’t
+                have her in any way, unless the <character who="Prince">king’s son</character> chose
+                to have <character who="Tatterhood">Tatterhood</character>.</dialogue> That you may
+            fancy the <descriptor subject="Prince" sign="negative" speaker="narrator"><character
+                    who="Prince">prince</character> was very loath to do,</descriptor>
+            <descriptor subject="Tatterhood" sign="negative" speaker="Prince">such an ugly hussy as
+                    <character who="Tatterhood">Tatterhood</character> was;</descriptor> but at last
+            the <character who="foreign king">king</character> and all the others in the palace
+            talked him over, and he yielded, giving his word to take her for his queen; but it went
+            sore against the grain, and he was a doleful man.</p>
+        <p>Now they set about the wedding, both with brewing and baking; and when all was ready,
+            they were to go to church; but the <character who="Prince">prince</character> thought it
+            the weariest churching he had ever had in all his life. <descriptor
+                subject="foreign king and younger twin" sign="positive" speaker="narrator">First,
+                the <character who="foreign king">king</character> drove off with his bride, and she
+                was so lovely and so grand, all the people stopped to look after her all along the
+                road, and they stared at her till she was out of sight.</descriptor>
+            <descriptor subject="Tatterhood Prince" sign="negative" speaker="narrator">After them
+                came the <character who="Prince">prince</character> on horseback by the side of
+                    <character who="Tatterhood">Tatterhood</character>, who trotted along on her
+                goat with her wooden spoon in her fist, and to look at him, it was more like going
+                to a burial than a wedding, and that his own; so sorrowful he seemed, and with never
+                a word to say.</descriptor></p>
+        <p><dialogue speaker="Tatterhood" subject="Prince">“Why don’t you talk?” asked <character
+                    who="Tatterhood">Tatterhood</character>, when they had ridden a bit.</dialogue>
+        </p>
+        <p><dialogue speaker="Prince" subject="Tatterhood">“Why, what should I talk about?”
+                answered the <character who="Prince">prince</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Tatterhood" subject="Prince">“Well, you might at least ask me why I
+                ride upon this ugly goat”, said <character who="Tatterhood"
+                >Tatterhood</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Prince" subject="Tatterhood">“Why do you ride on that <descriptor
+                    subject="goat" sign="negative" speaker="Prince">ugly goat</descriptor>?” asked
+                the <character who="Prince">prince</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Tatterhood" subject="Prince">“Is it an ugly goat? why, it’s the
+                grandest horse bride ever rode on”, answered <character who="Tatterhood"
+                    >Tatterhood</character>;</dialogue>
+            <misconception actor="Prince" subject="goat" sign="positive">and in a trice the goat
+                became a horse, and that the finest the <character who="Prince">prince</character>
+                had ever set eyes on.</misconception>
+        </p>
+        <p>Then they rode on again a bit, <descriptor subject="Prince" sign="negative"
+                speaker="narrator">but the <character who="Prince">prince</character> was just as
+                woeful as before, and couldn’t get a word out.</descriptor>
+            <dialogue subject="Prince" speaker="Tatterhood">So <character who="Tatterhood"
+                    >Tatterhood</character> asked him again why he didn’t talk,</dialogue> and when
+                <dialogue subject="Tatterhood" speaker="Prince">the Prince answered he didn’t know
+                what to talk about,</dialogue> she said:</p>
+        <p><dialogue speaker="Tatterhood" subject="Prince">“You can at least ask me why I ride with
+                this ugly spoon in my fist.”</dialogue>
+        </p>
+        <p><dialogue speaker="Prince" subject="Tatterhood">“Why do you ride with that <descriptor
+                    subject="wand" sign="negative" speaker="Prince"/>ugly spoon? “asked the
+                    <character who="Prince">prince</character>.</dialogue>
+        </p>
+        <p><dialogue speaker="Tatterhood" subject="Prince">“Is it an ugly spoon? why, it’s the
+                loveliest silver wand bride ever bore”, said <character who="Tatterhood"
+                    >Tatterhood</character>;</dialogue>
+            <misconception actor="Prince" subject="wand" sign="positive"> and in a trice it became a
+                silver wand, so dazzling bright, the sunbeams glistened from it.</misconception>
+        </p>
+        <p>So they rode on another bit, <descriptor subject="Prince" sign="negative"
+                speaker="narrator">but the Prince was just as sorrowful, and said never a
+                word.</descriptor> In a little while, <dialogue subject="Prince"
+                speaker="Tatterhood"><character who="Tatterhood">Tatterhood</character> asked him
+                again why he didn’t talk, and bade him ask why she wore that ugly grey hood on her
+                head.</dialogue></p>
+        <p><dialogue speaker="Prince" subject="Tatterhood">“Why do you wear that <descriptor
+                    subject="hood" sign="negative" speaker="Prince">ugly grey hood on your
+                    head</descriptor>?” asked the Prince.</dialogue>
+        </p>
+        <p><dialogue speaker="Tatterhood" subject="Prince">“Is it an ugly hood? why, it’s the
+                brightest golden crown bride ever wore”, answered <character who="Tatterhood"
+                    >Tatterhood</character>,</dialogue>
+            <misconception actor="Prince" subject="hood" sign="positive"> and it became a crown on
+                the spot.</misconception>
+        </p>
+        <p>Now, they rode on a long while again, <descriptor subject="Prince" sign="negative"
+                speaker="narrator">and the Prince was so woeful, that he sat without sound or speech
+                just as before.</descriptor>
+            <dialogue subject="Prince" speaker="Tatterhood">So his bride asked him again why he
+                didn’t talk, and bade him ask now, why her face was so ugly and
+                ashen-grey?</dialogue></p>
+        <p><dialogue speaker="Prince" subject="Tatterhood">“Ah!” asked the Prince, “why is
+                    <descriptor subject="Tatterhood" sign="negative" speaker="Prince">your face so
+                    ugly and ashen-grey</descriptor>?”</dialogue>
+        </p>
+        <p><dialogue speaker="Tatterhood" subject="Prince">“I ugly”, said the bride; “you think my
+                sister pretty, but I am ten times prettier”;</dialogue> and lo!<misconception
+                actor="Prince" subject="Tatterhood" sign="positive"> when the Prince looked at her,
+                she was so lovely, he thought there never was so lovely a woman in all the
+                world.</misconception> After that, I shouldn’t wonder if the Prince found his
+            tongue, <descriptor subject="Prince" sign="positive" speaker="narrator">and no longer
+                rode along hanging down his head.</descriptor></p>
+        <p>So they drank the bridal cup both deep and long, and, after that, both <character
+                who="Prince">Prince</character> and King set out with their brides to the Princess’s
+            father’s palace, and there they had another bridal feast, and drank anew, both deep and
+            long. There was no end to the fun; and, if you make haste and run to the King’s palace,
+            I dare say you’ll find there’s still a drop of the bridal ale left for you.</p>
+    </body>
+</story>
+    <story>
+    <title>THE MASTER THIEF</title>
+    <body>
+        <p>Once upon a time there was a <character who="Cottager">poor cottager</character> who had
+            three sons. He had nothing to leave them when he died, and no money with which to put
+            them to any trade, so that he did not know what to make of them. At last he said he
+            would give them leave to take to anything each liked best, and to go whithersoever they
+            pleased, and he would go with them a bit of the way; and so he did. He went with them
+            till they came to a place where three roads met, and there each of them chose a road,
+            and their father bade them good-bye, and went back home. I have never heard tell what
+            became of the two elder; but as for <character who="The Youth">the youngest</character>,
+            he went both far and long, as you shall hear.</p>
+        <p>So it fell out one night as he was going through a great wood that such bad weather
+            overtook him. It blew, and sleeted, and drove so that he could scarce keep his eyes
+            open; and in a trice, before he knew how it was, he got bewildered, and could not find
+            either road or path. But as he went on and on, at last he saw a glimmering of light far
+            far off in the wood. So he thought he would try and get to the light; and after a time
+            he did reach it. There it was in a large house, and the fire was blazing so brightly
+            inside, that he could tell the folk had not yet gone to bed; so he went in and saw an
+                <character who="Old Dame">old dame</character> bustling about and minding the
+            house.</p>
+        <p><dialogue speaker="The Youth" subject="Old Dame">“Good evening!”</dialogue> said
+                <character who="The Youth">the youth</character>.</p>
+        <p><dialogue speaker="Old Dame" subject="The Youth">“Good evening!</dialogue>” said the
+                <character who="Old Dame">old dame</character>.</p>
+        <p><dialogue subject="Old Dame" speaker="The Youth">“Hutetu! it’s such foul weather out of
+                doors to-night”</dialogue>, said he. </p>
+        <p><dialogue subject="The Youth" speaker="Old Dame">“So it is”</dialogue>, said she.</p>
+        <p><dialogue subject="Old Dame" speaker="The Youth">“Can I get leave to have a bed and
+                shelter here to-night?”</dialogue> asked <character who="The Youth">the
+                youth</character>.</p>
+        <p><dialogue subject="The Youth" speaker="Old Dame">“You’ll get no good by sleeping
+                here”</dialogue>, said the <character who="Old Dame">old dame</character>; <dialogue
+                subject="The Youth" speaker="Old Dame">“for if the folk come home and find you here,
+                they’ll kill both me and you.”</dialogue></p>
+        <p><dialogue subject="Old Dame" speaker="The Youth">“What sort of folk, then, are they who
+                live here?”</dialogue> asked <character who="The Youth">the youth</character>.</p>
+        <p><dialogue speaker="Old Dame" subject="The Youth">“Oh, robbers! And a bad lot of them
+                too”</dialogue>, said the <character who="Old Dame">old dame</character>. <dialogue
+                speaker="Old Dame" subject="The Youth">“They stole me away when I was little, and
+                have kept me as their housekeeper ever since.”</dialogue></p>
+        <p><dialogue speaker="The Youth" subject="Old Dame">“Well, for all that, I think I’ll just
+                go to bed”</dialogue>, said <character who="The Youth">the youth</character>.
+                <dialogue speaker="The Youth" subject="Old Dame">“Come what may, I’ll not stir out
+                at night in such weather.”</dialogue></p>
+        <p><dialogue speaker="Old Dame" subject="The Youth">“Very well”</dialogue>, said the
+                <character who="Old Dame">old dame</character>; <dialogue speaker="Old Dame"
+                subject="The Youth">“but if you stay, it will be the worse for you.”</dialogue></p>
+        <p>With that <character who="The Youth">the youth</character> got into a bed which stood
+            there, but he dared not go to sleep, and very soon after in came <character
+                who="Robbers">the robbers</character>; so the <character who="Old Dame">old
+                dame</character> told them how a stranger fellow had come in whom she had not been
+            able to get out of the house again.</p>
+        <p><dialogue subject="Old Dame" speaker="Robbers">“Did you see if he had any
+                money?”</dialogue> said <character who="Robbers">the robbers</character>.</p>
+        <p><dialogue speaker="Old Dame" subject="Robbers">“Such a one as he money!”</dialogue> said
+            the <character who="Old Dame">old dame</character>, <dialogue subject="Robbers"
+                speaker="Old Dame">“<descriptor speaker="Old Dame" subject="The Youth"
+                    sign="Negative">the tramper</descriptor>! Why, if he had clothes to his back, it
+                was as much as he had.”</dialogue></p>
+        <p>Then <character who="Robbers">the robbers</character> began to talk among themselves what
+            they should do with him; if they should kill him outright, or what else they should do.
+            Meantime <character who="The Youth">the youth</character> got up and began to talk to
+            them, and to ask if they didn’t want a servant, for it might be that <action
+                subject="Robbers" actor="The Youth" sign="Positive">he would be glad to enter their
+                service</action>.</p>
+        <p><dialogue speaker="Robbers" subject="The Youth">“Oh”</dialogue>, said they, <dialogue
+                speaker="Robbers" subject="The Youth">“if you have a mind to follow the trade that
+                we follow, you can very well get a place here.”</dialogue></p>
+        <p><dialogue speaker="The Youth" subject="Robbers">“It’s all one to me what trade I
+                follow”</dialogue>, said <character who="The Youth">the youth</character>; <dialogue
+                subject="Robbers" speaker="The Youth">“for when I left home, father gave me leave to
+                take to any trade I chose.”</dialogue></p>
+        <p><dialogue speaker="Robbers" subject="The Youth">“Well, have you a mind to
+                steal?”</dialogue> asked the robbers.</p>
+        <p><dialogue speaker="The Youth" subject="Robbers">“I don’t care”</dialogue>, said
+                <character who="The Youth">the youth</character>, for he thought it would not take
+            long to learn that trade.</p>
+        <p>Now there lived<character who="Rancher"> a man a little way off who had three
+                oxen</character>. One of these he was to take to the town to sell, and <character
+                who="Robbers">the robbers</character> had heard what he was going to do, so they
+            said to <character who="The Youth">the youth</character>, if he were good to steal the
+            ox from the man by the way without his knowing it, and without doing him any harm, they
+            would give him leave to be their serving-man.</p>
+        <p>Well! <character who="The Youth">the youth</character> set off, and <action
+                subject="Robbers" actor="The Youth" sign="Negative">took</action> with him a pretty
+            shoe, with a silver buckle on it, which lay about the house; and he put the shoe in the
+            road along which <character who="Rancher">the man</character> was going with his ox; and
+            when he had done that, he went into the wood and hid himself under a bush. So when the
+            man came by he saw the shoe at once.</p>
+        <p><dialogue speaker="Rancher" subject="Self">“That’s a nice shoe”</dialogue>, said he.
+                <dialogue speaker="Rancher" subject="Self">“If I only had the fellow to it, I’d take
+                it home with me, and perhaps I’d put my <character who="Rancher's Wife">old
+                    dame</character> in a good humour for once.”</dialogue> For you must know he had
+            an old wife, so <descriptor subject="Rancher's Wife" speaker="Narrator" sign="Negative"
+                >cross and snappish</descriptor>, it was not long between each time that she boxed
+            his ears. But then he bethought him that he could do nothing with the odd shoe unless he
+            had the fellow to it; so he went on his way and let the shoe lie on the road.</p>
+        <p>Then <character who="The Youth">the youth</character> took up the shoe, and made all the
+            haste he could to get before the man by a short cut through the wood, and laid it down
+            before him in the road again. When the man came along with his ox, <action
+                actor="Rancher" subject="Self" sign="Negative">he got quite angry with
+                himself</action> for being so <descriptor speaker="Self" subject="Rancher"
+                sign="Negative">dull</descriptor> as to leave the fellow to the shoe lying in the
+            road instead of taking it with him; so he tied the ox to the fence, and said to himself,
+                <dialogue speaker="Rancher" subject="Self">“I may just as well run back and pick up
+                the other, and then I’ll have a pair of good shoes for my <character
+                    who="Rancher's Wife">old dame</character>, and so, perhaps, I’ll get a kind word
+                from her for once.”</dialogue></p>
+        <p>So he set off, and hunted and hunted up and down for the shoe, but no shoe did he find;
+            and at length he had to go back with the one he had. But, meanwhile <character
+                who="The Youth">the youth</character> had <action actor="The Youth"
+                subject="Rancher" sign="Negative">taken the ox</action> and gone off with it; and
+            when the man came and saw his ox gone, he began to cry and bewail, for he was afraid his
+                <character who="Rancher's Wife">old dame</character> would kill him outright when
+            she came to know that the ox was lost. But just then it came across his mind that he
+            would go home and take the second ox, and drive it to the town, and not let his
+                <character who="Old Dame">old dame</character> know anything about the matter. So he
+            did this, and went home and took the ox without his dame’s knowing it, and set off with
+            it to the town. But <character who="Robbers">the robbers</character> knew all about it,
+            and they said to <character who="The Youth">the youth</character>, if he could get this
+            ox too, without the man’s knowing it, and without his doing him any harm, he should be
+            as good as any one of them. If that were all, <character who="The Youth">the
+                youth</character> said, he did not think it a very hard thing.</p>
+        <p>This time he took with him a rope, and hung himself up under the arm-pits to a tree right
+            in the man’s way. So the man came along with his ox, and when he saw such a sight
+            hanging there he began to feel a little queer.</p>
+        <p><dialogue speaker="Rancher" subject="The Youth">“Well”</dialogue>, said he, <dialogue
+                speaker="Rancher" subject="The Youth">“whatever heavy thoughts you had who have
+                hanged yourself up there, it can’t be helped; you may hang for what I care! I can’t
+                breathe life into you again”</dialogue>; and with that he went on his way with his
+            ox. Down slipped the youth from the tree, and ran by a footpath, and got before the man,
+            and hung himself up right in his way again.</p>
+        <p><dialogue speaker="Rancher" subject="The Youth">“Bless me!”</dialogue> said the man,
+                <dialogue speaker="Rancher" subject="The Youth">“were you really so heavy at heart
+                that you hanged yourself up there—or is it only a piece of witchcraft that I see
+                before me? Aye, aye! you may hang for all I care, whether you are a ghost or
+                whatever you are.”</dialogue> So he passed on with his ox.</p>
+        <p>Now <character who="The Youth">the youth</character> did just as he had done twice
+            before; he jumped down from the tree, ran through the wood by a footpath, and hung
+            himself up right in the man’s way again. But when the man saw this sight for the third
+            time, he said to himself:</p>
+        <p><dialogue speaker="Rancher" subject="The Youth">“Well! this is an ugly business! Is it
+                likely now that they should have been so heavy at heart as to hang themselves, all
+                these three? No! I cannot think it is anything else than a piece of witchcraft that
+                I see. But now I’ll soon know for certain; if the other two are still hanging there,
+                it must be really so; but if they are not, then it can be nothing but witchcraft
+                that I see.”</dialogue></p>
+        <p>So he tied up his ox, and ran back to see if the others were still really hanging there.
+            But while he went and peered up into all the trees, <character who="The Youth">the
+                youth</character> jumped down and <action subject="Rancher" actor="The Youth"
+                sign="Negative">took his ox</action> and ran off with it. When the man came back and
+            found his ox gone, he was in a sad plight, and, as any one might know without being
+            told, he began to cry and bemoan; but at last he came to take it easier, and so he
+            thought:</p>
+        <p><dialogue speaker="Rancher" subject="Self">“There’s no other help for it than to go home
+                and take the third ox without my dame’s knowing it, and to try and drive a good
+                bargain with it, so that I may get a good sum of money for it.”</dialogue></p>
+        <p>So he went home and set off with the ox, and his <character who="Rancher's Wife">old
+                dame</character> knew never a word about the matter. But <character who="Robbers"
+                >the robbers</character>, they knew all about it, and they said to <character
+                who="The Youth">the youth</character>, that if he could steal this ox as he had
+            stolen the other two, then he should be master over the whole band. Well, <character
+                who="The Youth">the youth</character> set off, and ran into the wood; and as the man
+            came by with his ox he set up a dreadful bellowing, just like a great ox in the wood.
+            When the man heard that, you can’t think how glad he was, for it seemed to him that he
+            knew the voice of his big bullock, and he thought that now he should find both of them
+            again; so he tied up the third ox, and ran off from the road to look for them in the
+            wood; but meantime <character who="The Youth">the youth</character><action
+                subject="Rancher" actor="The Youth" sign="Negative"> went off with the third
+                ox</action>. Now, when the man came back and found he had lost this ox too, he was
+            so wild that there was no end to his grief. He cried and roared and beat his breast,
+            and, to tell the truth, it was many days before he dared go home; for he was afraid lest
+            his <character who="Rancher's Wife">old dame</character> should kill him outright on the spot.</p>
+            <p>As for <character who="Robbers">the robbers</character>, they were not very well pleased
+            either, when they had to own that <character who="The Youth">the youth</character> was
+            master over the whole band. So one day they thought they would try their hands at
+            something which he was not man enough to do; and they set off all together, every man
+            Jack of them, and left him alone at home. Now, the first thing that he did when they
+            were all well clear of the house, was to drive the oxen out to the road, so that they
+            might run back to the man from whom he had stolen them; and right glad he was to see
+            them, as you may fancy. Next he took all the horses which <character who="Robbers">the
+                robbers</character> had, and loaded them with the best things he could lay his hands
+            on-gold and silver, and clothes and other fine things; and then he bade the <character
+                who="Old Dame">old dame</character> to greet <character who="Robbers">the
+                robbers</character> when they came back, and to thank them for him, and to say that
+            now he was setting off on his travels, and they would have hard work to find him again;
+            and with that, off he started.</p> 
+            <p>After a good bit he came to the road along which he was
+            going when he fell among the robbers, and when he got near home, and could see his
+            father’s cottage, he put on a uniform which he had found among the clothes he had taken
+            from <character who="Robbers">the robbers</character>, and which was made just like a
+            general’s. So he drove up to the door as if he were any other great man. After that he
+            went in and asked if he could have a lodging? No; that he couldn’t at any price.</p>
+            <p>“How ever should I be able”, said the man, “to make room in my house for such a fine
+            gentleman—I who scarce have a rag to lie upon, and miserable rags too?”</p> 
+            <p>“You always were a stingy old hunks”, said <character who="The Youth">the youth</character>, “and so you
+            are still, when you won’t take your own son in.”</p>
+            <p>“What, you my son!” said the man.</p> 
+            <p>“Don’t you know me again?” said <character who="The Youth">the youth</character>. Well,
+            after a little while he did know him again.</p>
+            <p>“But what have you been turning your hand to, that you have made yourself so great a man in such haste?” asked the man.</p>
+            <p>“Oh! I’ll soon tell you”, said <character who="The Youth">the youth</character>. “You said I might
+            take to any trade I chose, and so I bound myself apprentice to a pack of thieves and
+            robbers, and now I’ve served my time out, and am become a <character who="Master Thief"
+                >Master Thief</character>.”</p>
+            <p>Now there lived a <character who="Squire">Squire</character> close by to his father’s cottage, and he had such a great house,
+            and such heaps of money, he could not tell how much he had. He had a daughter too, and a
+            smart and pretty girl she was. So the <character who="Master Thief">Master
+                Thief</character> set his heart upon having her to wife, and he told his father to
+            go to the <character who="Squire">Squire</character> and ask for his daughter for him.</p>
+            <p>“If he asks by what trade I get my living, you can say I’m a <character
+                who="Master Thief">Master Thief</character>.”</p>
+            <p>“I think you’ve lost your wits”, said the man, “for you can’t be in your right mind when you think of such stuff.”</p>
+            <p>No! he had not lost his wits, his father must and should go to the <character who="Squire"
+                >Squire</character>, and ask for his daughter.</p>
+            <p>“Nay, but I tell you, I daren’t go to the <character who="Squire">Squire</character> and be your spokesman; he who is so rich,
+            and has so much money”, said the man.</p>
+            <p>Yes, there was no help for it, said the <character
+                who="Master Thief">Master Thief</character>; he should go whether he would or no;
+            and if he did not go by fair means, he would soon make him go by foul. But the man was
+            still loath to go; so he stepped after him, and rubbed him down with a good birch
+            cudgel, and kept on till the man came crying and sobbing inside the <character
+                who="Squire">Squire</character>’s door.</p>
+            <p>“How now, my man! what ails you?” said the <character who="Squire">Squire</character>. So he told him the whole story; how he
+            had three sons who set off one day, and how he had given them leave to go whithersoever
+            they would, and to follow whatever calling they chose. “And here now is the youngest
+            come home, and has thrashed me till he has made me come to you and ask for your daughter
+            for him to wife; and he bids me say, besides, that he’s a Master Thief.” And so he fell
+            to crying and sobbing again.</p>
+            <p>“Never mind, my man”, said the <character who="Squire">Squire</character>, laughing; “just go back and tell him from me, he must prove his
+            skill first. If he can steal the roast from the spit in the kitchen on Sunday, while all
+            the household are looking after it, he shall have my daughter. Just go and tell him
+            that.”</p>
+            <p>So he went back and told <character who="The Youth">the youth</character>, who
+            thought it would be an easy job. So he set about and caught three hares alive, and put
+            them into a bag, and dressed himself in some old rags, until he looked so poor and
+            filthy that it made one’s heart bleed to see; and then he stole into the passage at the
+            back-door of the <character who="Squire">Squire</character>’s house on the Sunday
+            forenoon, with his bag, just like any other beggar-boy. But the <character who="Squire"
+                >Squire</character> himself and all his household were in the kitchen watching the
+            roast. Just as they were doing this, <character who="The Youth">the youth</character>
+            let one hare go, and it set off and ran round and round the yard in front of the house.</p>
+            <p>“Oh, just look at that hare!” said the folk in the kitchen, and were all for running out
+            to catch it.</p> 
+            <p>Yes, the <character who="Squire">Squire</character> saw it running too.
+            “Oh, let it run”, said he; “there’s no use in thinking to catch a hare on the spring.”</p>
+            <p>A little while after, <character who="The Youth">the youth</character> let the second hare
+            go, and they saw it in the kitchen, and thought it was the same they had seen before,
+            and still wanted to run out and catch it; but the <character who="Squire"
+                >Squire</character> said again it was no use. It was not long before <character
+                who="The Youth">the youth</character> let the third hare go, and it set off and ran
+            round and round the yard as the others before it. Now, they saw it from the kitchen, and
+            still thought it was the same hare that kept on running about, and were all eager to be
+            out after it.</p>
+            <p>“Well, it is a fine hare”, said the <character who="Squire">Squire</character>; “come let’s see if we can’t lay our hands on it.”</p>
+            <p>So out he ran, and the rest with him—away they all went, the hare before, and they after; so that
+            it was rare fun to see. But meantime <character who="The Youth">the youth</character>
+            took the roast and ran off with it; and where the <character who="Squire"
+                >Squire</character> got a roast for his dinner that day I don’t know; but one thing
+            I know, and that is, that he had no roast hare, though he ran after it till he was both
+            warm and weary.</p>
+            <p>Now it chanced that the Priest came to dinner that day, and when the
+                <character who="Squire">Squire</character> told him what a trick the <character
+                who="Master Thief">Master Thief</character> had played him, he made such game of him
+            that there was no end of it.</p>
+            <p>“For my part”, said the Priest, “I can’t think how it could
+            ever happen to me to be made such a fool of by a fellow like that.”</p>
+            <p>“Very well—only keep a sharp look-out”, said the <character who="Squire">Squire</character>; “maybe he’ll
+            come to see you before you know a word of it.” But the Priest stuck to his text—that he
+            did, and made game of the <character who="Squire">Squire</character> because he had been
+            so taken in.</p>
+            <p>Later in the afternoon came the <character who="Master Thief">Master
+                Thief</character>, and wanted to have the <character who="Squire"
+            >Squire</character>’s daughter, as he had given his word. But the <character
+                who="Squire">Squire</character> began to talk him over, and said, “Oh, you must
+            first prove your skill a little more; for what you did to-day was no great thing, after
+            all. Couldn’t you now play off a good trick on the Priest, who is sitting in there, and
+            making game of me for letting such a fellow as you twist me round his thumb.”</p>
+            <p>“Well, as for that, it wouldn’t be hard”, said the <character who="Master Thief">Master
+                Thief</character>. So he dressed himself up like a bird, threw a great white sheet
+            over his body, took the wings of a goose and tied them to his back, and so climbed up
+            into a great maple which stood in the Priest’s garden. And when the Priest came home in
+            the evening, <character who="The Youth">the youth</character> began to bawl out:</p>
+            <p>“Father Laurence! Father Laurence!”—for that was the Priest’s name.</p>
+            <p>“Who is that calling me?” said the Priest.</p>
+            <p>“I am an angel”, said the Master Thief, “sent from God to let you know
+            that you shall be taken up alive into heaven for your piety’s sake. Next Monday night
+            you must hold yourself ready for the journey, for I shall come then to fetch you in a
+            sack; and all your gold and your silver, and all that you have of this world’s goods,
+            you must lay together in a heap in your dining-room.”</p>
+            <p>Well, Father Laurence fell on his knees before the angel, and thanked him; and the very next day he preached a farewell
+            sermon, and gave it out how there had come down an angel unto the big maple in his
+            garden, who had told him that he was to be taken up alive into heaven for his piety’s
+            sake; and he preached and made such a touching discourse, that all who were at church
+            wept, both young and old.</p>
+            <p>So the next Monday night came the <character
+                who="Master Thief">Master Thief</character> like an angel again, and the Priest fell
+            on his knees and thanked him before he was put into the sack; but when he had got him
+            well in, the Master Thief drew and dragged him over stocks and stones.</p>
+            <p>“OW! OW!” groaned the Priest inside the sack, “wherever are we going?”</p>
+            <p>“This is the narrow way which leadeth unto the kingdom of heaven”, said the <character who="Master Thief">Master
+                Thief</character>, who went on dragging him along till he had nearly broken every
+            bone in his body. At last he tumbled him into a goose-house that belonged to the
+                <character who="Squire">Squire</character>, and the geese began pecking and pinching
+            him with their bills, so that he was more dead than alive.</p>
+            <p>“Now you are in the flames of purgatory, to be cleansed and purified for life everlasting”, said the Master Thief; and
+            with that he went his way, and took all the gold which the Priest had laid together in
+            his dining-room. The next morning, when the goose-girl came to let the geese out, she
+            heard how the Priest lay in the sack, and bemoaned himself in the goose-house.</p>
+            <p>“In heaven’s name, who’s there, and what ails you?” she cried.</p>
+            <p>“Oh!” said the Priest, “if you are an angel from heaven, do let me out, and let me return again to earth, for it is
+            worse here than in hell. The little fiends keep on pinching me with tongs.”</p>
+            <p>“Heaven help us, I am no angel at all”, said the girl, as she helped the Priest out of the sack; “I
+            only look after the <character who="Squire">Squire</character>’s geese, and like enough
+            they are the little fiends which have pinched your reverence.”</p>
+            <p>“Oh!” groaned the Priest, “this is all that <character who="Master Thief">Master Thief</character>’s doing. Ah! my
+            gold and my silver, and my fine clothes.” And he beat his breast, and hobbled home at
+            such a rate that the girl thought he had lost his wits all at once.</p>
+            <p>Now when the <character who="Squire">Squire</character> came to hear how it had gone with the
+            Priest, and how he had been along the narrow way, and into purgatory, he laughed till he
+            well-nigh split his sides. But when the <character who="Master Thief">Master
+                Thief</character> came and asked for his daughter as he had promised, the <character
+                who="Squire">Squire</character> put him off again, and said:</p>
+            <p>“You must do one masterpiece better still, that I may see plainly what you are fit for. Now, I have
+            twelve horses in my stable, and on them I will put twelve grooms, one on each. If you
+            are so good a thief as to steal the horses from under them, I’ll see what I can do for
+            you.”</p>
+            <p>“Very well, I daresay I can do it”, said the <character who="Master Thief">Master
+                Thief</character>; “but shall I really have your daughter if I can?”</p>
+            <p>“Yes, if you can, I’ll do my best for you”, said the <character who="Squire">Squire</character>. So
+            the <character who="Master Thief">Master Thief</character> set off to a shop, and bought
+            brandy enough to fill two pocket-flasks, and into one of them he put a sleepy drink, but
+            into the other only brandy. After that he hired eleven men to lie in wait at night,
+            behind the <character who="Squire">Squire</character>’s stable-yard; and last of all,
+            for fair words and a good bit of money, he borrowed a ragged gown and cloak from an old
+            woman; and so, with a staff in his hand, and a bundle at his back, he limped off, as
+            evening drew on, towards the <character who="Squire">Squire</character>’s stable. Just
+            as he got there they were watering the horses for the night, and had their hands full of
+            work. “What the devil do you want?” said one of the grooms to the old woman.</p>
+            <p>“Oh, oh! hutetu! it is so bitter cold”, said she, and shivered and shook, and made wry faces.
+            “Hutetu! it is so cold, a poor wretch may easily freeze to death”; and with that she
+            fell to shivering and shaking again.</p>
+            <p>“Oh! for the love of heaven, can I get leave to
+            stay here a while, and sit inside the stable door?”</p>
+            <p>“To the devil with your leave”, said one. “Pack yourself off this minute, for if the <character who="Squire"
+                >Squire</character> sets his eye on you, he’ll lead us a pretty dance.”</p>
+            <p>“Oh! the poor old bag-of-bones”, said another, whose heart took pity on her, “the old hag may sit
+            inside and welcome; such a one as she can do no harm.”</p>
+            <p>And the rest said, some she should stay, and some she shouldn’t; but while they were quarrelling and minding the
+            horses, she crept further and further into the stable, till at last she sat herself down
+            behind the door; and when she had got so far, no one gave any more heed to her.</p>
+            <p>As the night wore on, the men found it rather cold work to sit so still and quiet on horseback.</p>
+            <p>“Hutetu! it is so devilish cold”, said one, and beat his arms crosswise.</p>
+            <p>“That it is”, said another; “I freeze so, that my teeth chatter.”</p>
+            <p>“If one only had a quid to chew”, said a third.</p>
+            <p>Well! there was one who had an ounce or two; so they shared it between
+            them, though it wasn’t much, after all, that each got; and so they chewed and spat, and
+            spat and chewed. This helped them somewhat; but in a little while they were just as bad
+            as ever.</p>
+            <p>“Hutetu!” said one, and shivered and shook.</p>
+            <p>“Hutetu!” said the old woman, and shivered so, that every tooth in her head chattered. Then she pulled out the flask with
+            brandy in it, and her hand shook so that the spirit splashed about in the flask, and
+            then she took such a gulp, that it went “bop” in her throat.</p>
+            <p>“What’s that you’ve got in your flask, old girl?” said one of the grooms.</p>
+            <p>“Oh! it’s only a drop of brandy, old man”, said she.</p>
+            <p>“Brandy! Well, I never! Do let me have a drop”, screamed the whole twelve, one after another.</p> 
+            <p>“Oh! but it is such a little drop”, mumbled the old woman,
+            “it will not even wet your mouths round.” But they must and would have it; there was no
+            help for it; and so she pulled out the flask with the sleepy drink in it, and put it to
+            the first man’s lips; then she shook no more, but guided the flask so that each of them
+            got what he wanted, and the twelfth had not done drinking before the first sat and
+            snored. Then the <character who="Master Thief">Master Thief</character> threw off his
+            beggar’s rags, and took one groom after the other so softly off their horses, and set
+            them astride on the beams between the stalls; and so he called his eleven men, and rode
+            off with the <character who="Squire">Squire</character>’s twelve horses. But when the
+                <character who="Squire">Squire</character> got up in the morning, and went to look
+            after his grooms, they had just begun to come to; and some of them fell to spurring the
+            beams with their spurs, till the splinters flew again, and some fell off, and some still
+            hung on and sat there looking like fools.</p>
+            <p>“Ho! ho!” said the <character who="Squire"
+                >Squire</character>; “I see very well who has been here; but as for you, a pretty
+            set of blockheads you must be to sit here and let the <character who="Master Thief"
+                >Master Thief</character> steal the horses from between your legs.”</p>
+            <p>So they all got a good leathering because they had not kept a sharper look-out.</p>
+            <p>Further on in the day came the <character who="Master Thief">Master Thief</character> again, and told how he
+            had managed the matter, and asked for the <character who="Squire">Squire</character>’s
+            daughter, as he had promised; but the <character who="Squire">Squire</character> gave
+            him one hundred dollars down, and said he must do something better still.</p>
+            <p>“Do you think now”, said he, “you can steal the horse from under me while I am out riding on his
+            back?” “O, yes! I daresay I could”, said the <character who="Master Thief">Master
+                Thief</character>, “if I were really sure of getting your daughter.”</p>
+            <p>Well, well, the <character who="Squire">Squire</character> would see what he could do; and he told
+            the <character who="Master Thief">Master Thief</character> a day when he would be taking
+            a ride on a great common where they drilled the troops. So the <character
+                who="Master Thief">Master Thief</character> soon got hold of an old worn-out jade of
+            a mare, and set to work, and made traces and collar of withies and broom-twigs, and
+            bought an old beggarly cart and a great cask. After that he told an old beggar woman, he
+            would give her ten dollars if she would get inside the cask, and keep her mouth agape
+            over the taphole, into which he was going to stick his finger. No harm should happen to
+            her; she should only be driven about a little; and if he took his finger out more than
+            once, she was to have ten dollars more. Then he threw a few rags and tatters over
+            himself, and stuffed himself out, and put on a wig and a great beard of goat’s hair, so
+            that no one could know him again, and set off for the common, where the <character
+                who="Squire">Squire</character> had already been riding about a good bit. When he
+            reached the place, he went along so softly and slowly that he scarce made an inch of
+            way. “Gee up! Gee up!” and so he went on a little; then he stood stock still, and so on
+            a little again; and altogether the pace was so poor it never once came into the
+                <character who="Squire">Squire</character>’s head that this could be the <character
+                who="Master Thief">Master Thief</character>.</p>
+            <p>At last the <character who="Squire">Squire</character> rode right up to him, and asked if he had seen any one lurking
+            about in the wood thereabouts. “No”, said the man, “I haven’t seen a soul.”</p>
+            <p>“Harkye, now”, said the <character who="Squire">Squire</character>, “if you have a mind to ride
+            into the wood, and hunt about and see if you can fall upon any one lurking about there,
+            you shall have the loan of my horse, and a shilling into the bargain, to drink my
+            health, for your pains.”</p>
+            <p>“I don’t see how I can go”, said the man, “for I am going to a
+            wedding with this cask of mead, which I have been to town to fetch, and here the tap has
+            fallen out by the way, and so I must go along, holding my finger in the taphole.”</p>
+            <p>“Ride off”, said the <character who="Squire">Squire</character>; “I’ll look after your horse
+            and cask.”</p>
+            <p>Well, on these terms the man was willing to go; but he begged the <character
+                who="Squire">Squire</character> to be quick in putting his finger into the taphole
+            when he took his own out, and to mind and keep it there till he came back. At last the
+                <character who="Squire">Squire</character> grew weary of standing there with his
+            finger in the taphole, so he took it out.</p>
+            <p>“Now I shall have ten dollars more!” screamed
+            the old woman inside the cask; and then the <character who="Squire">Squire</character>
+            saw at once how the land lay, and took himself off home; but he had not gone far before
+            they met him with a fresh horse, for the <character who="Master Thief">Master
+                Thief</character> had already been to his house, and told them to send one. The day
+            after, he came to the <character who="Squire">Squire</character> and would have his
+            daughter, as he had given his word; but the <character who="Squire">Squire</character>
+            put him off again with fine words, and gave him two hundred dollars, and said he must do
+            one more masterpiece. If he could do that, he should have her. Well, well, the
+                <character who="Master Thief">Master Thief</character> thought he could do it, if he
+            only knew what it was to be.</p>
+            <p>“Do you think, now”, said the <character who="Squire">Squire</character>, “you can steal the sheet off our bed, and the shift off my
+            wife’s back. Do you think you could do that?”</p>
+            <p>“It shall be done”, said the <character who="Master Thief">Master Thief</character>. “I only wish I was as sure of getting
+            your daughter.”</p>
+            <p>So when night began to fall, the <character who="Master Thief">Master
+                Thief</character> went out and cut down a thief who hung on the gallows, and threw
+            him across his shoulders, and carried him off. Then he got a long ladder and set it up
+            against the <character who="Squire">Squire</character>’s bedroom window, and so climbed
+            up, and kept bobbing the dead man up and down, just for all the world like one that was
+            peeping in at the window.</p>
+            <p>“That’s the <character who="Master Thief">Master
+                Thief</character>, old lass!” said the <character who="Squire">Squire</character>,
+            and gave his wife a nudge on the side. “Now see if I don’t shoot him, that’s all.”</p>
+            <p>So saying he took up a rifle which he had laid at his bedside.</p>
+            <p>“No! no! pray don’t shoot him after telling him he might come and try”, said his wife.</p>
+            <p>“Don’t talk to me, for shoot him I will”, said he; and so he lay there and aimed and aimed; but as soon as the
+            head came up before the window, and he saw a little of it, so soon was it down again. At
+            last he thought he had a good aim; “bang” went the gun, down fell the dead body to the
+            ground with a heavy thump, and down went the <character who="Master Thief">Master
+                Thief</character> too as fast as he could.</p>
+            <p>“Well”, said the <character who="Squire">Squire</character>, “it is quite true that I am the chief magistrate in these
+            parts; but people are fond of talking, and it would be a bore if they came to see this
+            dead man’s body. I think the best thing to be done is that I should go down and bury
+            him.”</p>
+            <p>“You must do as you think best, dear”, said his wife. So the <character
+                who="Squire">Squire</character> got out of bed and went downstairs, and he had
+            scarce put his foot out of the door before the <character who="Master Thief">Master
+                Thief</character> stole in, and went straight upstairs to his wife.</p>
+            <p>“Why, dear, back already!” said she, for she thought it was her husband.</p>
+            <p>“O yes, I only just put him into a hole, and threw a little earth over him. It is enough that he is out of sight, for it
+            is such a bad night out of doors; by-and-by I’ll do it better. But just let me have the
+            sheet to wipe myself with—he was so bloody—and I have made myself in such a mess with
+            him.”</p>
+            <p>So he got the sheet.</p>
+            <p>After a while he said:</p>
+            <p>“Do you know I am afraid you must let
+            me have your nightshift too, for the sheet won’t do by itself; that I can see.”</p>
+            <p>So she gave him the shift also. But just then it came across his mind that he had forgotten to
+            lock the house-door, so he must step down and look to that before he came back to bed,
+            and away he went with both shift and sheet.</p>
+            <p>A little while after came the true <character who="Squire">Squire</character>.</p>
+            <p>“Why! what a time you’ve taken to lock
+            the door, dear!” said his wife; “and what have you done with the sheet and shift?”</p>
+            <p>“What do you say?” said the <character who="Squire">Squire</character>.</p>
+            <p>“Why, I am asking what you have done with the sheet and shift that you had to wipe off the blood”, said she.</p>
+            <p>“What, in the Deil’s name!” said the <character who="Squire">Squire</character>, “has he
+            taken me in this time too?”</p>
+            <p>Next day came the Master Thief and asked for the <character
+                who="Squire">Squire</character>’s daughter, as he had given his word; and then the
+                <character who="Squire">Squire</character> dared not do anything else than give her
+            to him, and a good lump of money into the bargain; for, to tell the truth, he was afraid
+            lest the <character who="Master Thief">Master Thief</character> should steal the eyes
+            out of his head, and that the people would begin to say spiteful things of him if he
+            broke his word. So the Master Thief lived well and happily from that time forward. I
+            don’t know whether he stole any more; but if he did, I am quite sure it was only for the
+            sake of a bit of fun.</p>
+    </body>
+</story>
+    <story>
+        <title>THE COCK AND HEN THAT WENT TO THE DOVREFELL</title>
+        <body>
+            <p>Once on a time there was a <character>Hen</character> that had <action actor="Hen"
+                subject="environment" sign="positive">flown</action> up, and <action actor="Hen"
+                    subject="oak-tree" sign="positive">perched</action> on an oak-tree for the night.
+                When the night came, she <action actor="Hen" subject="self" sign="positive"
+                    >dreamed</action> that unless she got to the Dovrefell, the world would come to an
+                end. So that very minute she <action actor="Hen" subject="environment" sign="positive"
+                    >jumped</action> down, and <action actor="Hen" subject="self" sign="positive">set
+                        out on her way</action>. When she had walked a bit she met a
+                <character>Cock</character>.</p>
+            <p><dialogue speaker="Hen" subject="Cock">"Good day,
+                <character>Cocky-Locky</character>"</dialogue>, said the Hen. <dialogue
+                    speaker="Cock" subject="Hen">"Good day,
+                    <character>Henny-Penny</character>"</dialogue>, said the Cock, <dialogue speaker="Cock"
+                        subject="Hen">"whither away so early."</dialogue>
+                <dialogue speaker="Hen" subject="Cock">"Oh, I’m going to the Dovrefell, that the world
+                    mayn’t come to an end"</dialogue>, said the Hen. <dialogue speaker="Cock"
+                        subject="Hen">"Who told you that, <character>Henny-Penny</character>"</dialogue>, said
+                the Cock. <dialogue speaker="Hen" subject="Cock">"I <action actor="Hen" subject="self"
+                    sign="positive">sat</action> in the oak and <action actor="Hen" subject="self"
+                        sign="positive">dreamt</action> it last night"</dialogue>, said the Hen.
+                <dialogue speaker="Cock" subject="Hen">"I’ll go with you"</dialogue>, said the Cock.
+                Well! they walked on a good bit, and then they met a <character>Duck</character>.
+                <dialogue speaker="Cock" subject="Duck">"Good day,
+                    <character>Ducky-Lucky</character>"</dialogue>, said the Cock. <dialogue
+                        speaker="Duck" subject="Cock">"Good day,
+                        <character>Cocky-Locky</character>"</dialogue>, said the Duck, <dialogue
+                            speaker="Duck" subject="Cock">"whither away so early?"</dialogue>
+                <dialogue speaker="Cock" subject="Duck">"Oh, I’m going to the Dovrefell, that the world
+                    mayn’t come to an end"</dialogue>, said the Cock. <dialogue speaker="Duck"
+                        subject="Cock">"Who told you that, <character>Cocky-Locky</character>?"</dialogue>
+                <dialogue speaker="Cock" subject="Duck">"Henny-Penny"</dialogue>, said the Cock. <dialogue
+                    speaker="Duck" subject="Hen">"Who told you that,
+                    <character>Henny-Penny</character>?"</dialogue> said the Duck. <dialogue
+                        speaker="Hen" subject="Duck">"I <action actor="Hen" subject="self" sign="positive"
+                            >sat</action> in the oak and <action actor="Hen" subject="self" sign="positive"
+                                >dreamt</action> it last night"</dialogue>, said the Hen. <dialogue
+                                    speaker="Duck" subject="Hen">"I’ll go with you"</dialogue>, said the Duck. So they
+                went off together, and after a bit they met a <character>Goose</character>. <dialogue
+                    speaker="Duck" subject="Goose">"Good day,
+                    <character>Goosey-Poosey</character>"</dialogue>”, said the Duck. <dialogue
+                        speaker="Goose" subject="Duck">"Good day,
+                        <character>Ducky-Lucky</character>"</dialogue>, said the Goose, <dialogue
+                            speaker="Goose" subject="Duck">"whither away so early?"</dialogue>
+                <dialogue speaker="Duck" subject="Goose">"I’m going to the Dovrefell, that the world
+                    mayn’t come to an end"</dialogue>, said the Duck. <dialogue speaker="Goose"
+                        subject="Duck">"Who told you that, <character>Ducky-Lucky</character>?"</dialogue>
+                asked the Goose. <dialogue speaker="Duck" subject="Goose"
+                    >"<character>Cocky-Locky.</character>"</dialogue>
+                <dialogue speaker="Goose" subject="Cock">"Who told you that,
+                    <character>Cocky-Locky</character>?"</dialogue>
+                <dialogue speaker="Cock" subject="Goose">"<character>Henny-Penny</character>."</dialogue>”
+                <dialogue speaker="Goose" subject="Hen">"How you do know that,
+                    <character>Henny-Penny</character>?"</dialogue> said the Goose. <dialogue
+                        speaker="Hen" subject="Goose">"I <action actor="Hen" subject="self" sign = "positive">sat</action> in
+                        the oak and <action actor="Hen" subject="self" sign="positive">dreamt</action> it
+                        last night, <character>Goosey-Poosey</character>"</dialogue>, said the Hen. <dialogue
+                            speaker="Goose" subject="Hen">"I’ll go with you"</dialogue>, said the Goose. Now when
+                they had all walked along for a bit, a <character>Fox</character> met them. <dialogue
+                    speaker="Goose" subject="Fox">"Good day,
+                    <character>Foxsy-Cocksy</character>"</dialogue>, said the Goose. <dialogue
+                        speaker="Fox" subject="Goose">"Good day,
+                        <character>Goosey-Poosey</character>."</dialogue>
+                <dialogue speaker="Goose" subject="Fox">"Whither away,
+                    <character>Foxy-Cocksy</character>?"</dialogue>
+                <dialogue speaker="Fox" subject="Goose">"Whither away yourself,
+                    <character>Goosey-Poosey</character>?"</dialogue>
+                <dialogue speaker="Goose" subject="Fox">"I’m going to the Dovrefell that the world mayn’t
+                    come to an end"</dialogue>, said the Goose. <dialogue speaker="Fox" subject="Goose"
+                        >"Who told you that, <character>Goosey-Poosey</character>?"</dialogue> asked the Fox.
+                <dialogue speaker="Goose" subject="Fox"
+                    >"<character>Ducky-Lucky</character>."</dialogue>
+                <dialogue speaker="Fox" subject="Duck">"Who told you that,
+                    <character>Ducky-Lucky</character>?"</dialogue>
+                <dialogue speaker="Duck" subject="Fox">"<character>Cocky-Locky</character>."</dialogue>
+                <dialogue speaker="Fox" subject="Cock">"Who told you that,
+                    <character>Cocky-Locky</character>?"</dialogue>
+                <dialogue speaker="Cock" subject="Fox">"<character>Henny-Penny</character>."</dialogue>
+                <dialogue speaker="Fox" subject="Hen">"How do you know that,
+                    <character>Henny-Penny</character>?"</dialogue>
+                <dialogue speaker="Hen" subject="Fox">"I <action actor="Hen" subject="self" sign = "positive">sat</action>
+                    in the oak and <action actor="Hen" subject="self" sign = "positive">dreamt</action> last night, that
+                    if we don’t get to the Dovrefell, the world will come to an end"</dialogue>, said the
+                Hen. </p>
+            <p><dialogue speaker="Fox" subject="Hen">"Stuff and nonsense"</dialogue>, said the Fox;
+                <dialogue speaker="Fox" subject="Hen">"the world won’t come to an end if you don’t
+                    get thither. No! come home with me to my earth. That’s far better, for it’s
+                    <descriptor speaker="Fox" subject="Fox's earth" sign="positive"
+                        >warm</descriptor> and <descriptor speaker="Fox" subject="Fox's earth"
+                            sign="positive">jolly</descriptor> there."</dialogue></p>
+            <p>Well, they went home with the <character>Fox</character> to his earth, and when they got
+                in, the <character>Fox</character>
+                <action actor="Fox" subject="fuel" sign="negative">laid</action> on lots of fuel, so
+                that they all got very sleepy.</p>
+            <p>The <character>Duck</character> and the <character>Goose</character>, they <action
+                actor="Duck" subject="self" sign="positive">settled</action> themselves down in a
+                corner, but the <character>Cock</character> and <character>Hen</character>
+                <action actor="Hen" subject="self" sign="positive">flew</action> up on a post. So when
+                the <character>Goose</character> and <character>Duck</character> were well asleep, the
+                <character>Fox</character>, <action actor="Fox" subject="Goose" sign="negative"
+                    >took</action> the <character>Goose</character> and laid him on the embers, and
+                <action actor="Fox" subject="Goose" sign="negative">roasted</action> him. The
+                <character>Hen</character>
+                <action actor="Hen" subject="roast" sign="positive">smelt</action> the strong roast
+                meat, and <action actor="Hen" subject="self" sign="positive">sprang</action> up to a
+                higher peg, and said, half asleep: <dialogue speaker="Hen" subject="self">"Faugh, what a
+                    nasty smell! What a nasty smell!"</dialogue></p>
+            <p><dialogue speaker="Fox" subject="Hen">"Oh, stuff"</dialogue>, said the Fox; <dialogue
+                speaker="Fox" subject="Hen">"it’s only the smoke driven down the chimney; go to sleep
+                again, and hold your tongue."</dialogue> So the <character>Hen</character> went off
+                to sleep again.</p>
+            <p>Now the <character>Fox</character> had hardly got the <character>Goose</character> well
+                down his throat, before he did the very same with the <character>Duck</character>. He
+                took and laid him on the embers, and <action actor="Fox" subject="Duck" sign="negative"
+                    >roasted</action> him for a dainty bit. Then the <character>hen</character> woke up
+                again, and <action actor="Hen" subject="self" sign="positive">sprung</action> up to a
+                higher peg still. <dialogue speaker="Hen" subject="self">"Faugh, what a nasty smell! What
+                    a nasty smell!"</dialogue></p>
+            <p>She said again, and then she got her eyes open, and came to see how the
+                <character>Fox</character> had <action actor="Fox" subject="birds" sign="negative"
+                    >eaten</action> both the twain, <character>goose</character> and
+                <character>duck</character>; so she <action actor="Hen" subject="self"
+                    sign="positive">flew</action> up to the highest peg of all, and perched there, and
+                <action actor="Hen" subject="chimney" sign="positive">peeped</action> up through the
+                chimney.</p>
+            <p><dialogue speaker="Hen" subject="Fox">"Nay, nay; just see what a lovely lot of geese
+                flying yonder"</dialogue>, she said to the Fox.</p>
+            <p>Out ran <character>Reynard</character> to <action actor="Fox" subject="geese"
+                sign="negative">fetch</action> a fat roast. But while he was gone, the
+                <character>Hen</character>
+                <action actor="Hen" subject="Cock" sign="positive">woke up</action> the
+                <character>Cock</character>, and <action actor="Hen" subject="Fox" sign="positive"
+                    >told</action> him how it had gone with <character>Goosey-Poosey</character> and
+                <character>Ducky-Lucky</character>; and so <character>Cocky-Lucky</character> and
+                <character>Henny-Penny</character>
+                <action actor="Hen" subject="self" sign="positive">flew</action> out through the
+                chimney, and if they hadn’t got to the Dovrefell, it surely would have been all over
+                with the world.</p>
+        </body>
+    </story>
+    <story>
+        <!--  Note: author refers to same character under differnet names: [old widow, mother]  [lad, son] attribute?
+    put n/a in subject attribute if it something like snore-->
+        <title>THE LAD WHO WENT TO THE NORTH WIND</title>
+        <body>
+            <p>Once on a time there was an <character>old widow</character> who had one
+                <character>son</character>; and as she was <descriptor speaker="narrator"
+                    subject="mother" sign="negative">poorly</descriptor> and <descriptor
+                        speaker="narrator" subject="mother" sign="negative">weak</descriptor>, her son had
+                to go up into the safe to fetch meal for cooking; but when he got outside the safe, and
+                was just going down the steps, there came the <character>North Wind</character>, <action
+                    actor="North Wind" subject="meal" sign="negative">puffing</action> and <action
+                        actor="North Wind" subject="meal" sign="negative">blowing</action>, caught up the
+                meal, and so away with it through the air. Then the lad went back into the safe for
+                more; but when he came out again on the steps, if the <character>North Wind</character>
+                didn’t come again and carry off the meal with a <action actor="North Wind"
+                    subject="meal" sign="negative">puff</action>; and, more than that, he did so the
+                third time. At this the lad got very <descriptor speaker="narrator" subject="lad"
+                    sign="negative">angry</descriptor>; and as he thought it hard that the
+                <character>North Wind</character> should behave so, he thought he’d just look him
+                up, and ask him to give up his meal.</p>
+            <p>So off he went, but the way was long, and he <action actor="son" subject="environment"
+                sign="positive">walked</action> and walked; but at last he came to the
+                <character>North Wind</character>’s house.</p>
+            <p><dialogue speaker="lad" subject="North Wind">"Good day!"</dialogue> said the lad, <dialogue
+                speaker="lad" subject="North Wind">and thank you for coming to see us
+                yesterday.</dialogue></p>
+            <p><dialogue speaker="North Wind" subject="son">"GOOD DAY!"</dialogue> answered the
+                <character>North Wind</character>, for his voice was <descriptor speaker="narrator"
+                    subject="North Wind" sign = "negative">loud</descriptor> and <descriptor speaker="narrator"
+                        subject="North Wind" sign = "negative">gruff</descriptor>, <dialogue speaker="North Wind"
+                            subject="lad">"AND THANKS FOR COMING TO SEE ME. WHAT DO YOU WANT?"</dialogue></p>
+            <p><dialogue speaker="lad" subject="North Wind">"Oh!"</dialogue> answered the lad, <dialogue
+                speaker="lad" subject="North Wind">"I only wished to ask you to be so good as to let
+                me have back that meal you took from me on the safe steps, for we haven’t much to
+                live on; and if you’re to go on snapping up the morsel we have, there’ll be nothing
+                for it but to starve."</dialogue></p>
+            <p><dialogue speaker="North Wind" subject="lad">"I haven’t got your meal"</dialogue>, said the
+                <character>North Wind</character>; <dialogue speaker="North Wind" subject="lad">"but
+                    if you are in such need, I’ll give you a cloth which will get you everything you
+                    want, if you only say, “Cloth, spread yourself, and serve up all kind of good
+                    dishes!” "</dialogue></p>
+            <p>With this the <character>lad</character> was well <descriptor speaker="narrator"
+                subject="lad" sign = "positive">content</descriptor>. But, as the way was so long he couldn’t get home
+                in one day, so he turned into an inn on the way; and when they were going to sit down to
+                supper he laid the cloth on a table which stood in the corner, and said, <dialogue
+                    speaker="lad" subject="cloth">"Cloth, spread yourself, and serve up all kinds of good
+                    dishes."</dialogue></p>
+            <p>He had scarce said so before the cloth did as it was bid; and all who stood by thought it
+                a fine thing, but most of all the <character>landlady</character>. So, when all were
+                fast asleep at dead of night, she took the lad’s cloth, and put another in its stead,
+                just like the one he had got from the <character>North Wind</character>, but which
+                couldn’t so much as serve up a bit of dry bread.</p>
+            <p>So, when the <character>lad</character> woke, he <action actor="lad" subject="cloth" sign = "positive"
+                >took</action> his cloth and went off with it, and that day he got home to his
+                mother.</p>
+            <p><dialogue speaker="lad" subject="mother">"Now"</dialogue>, said he, <dialogue
+                speaker="lad" subject="mother">"I’ve been to the <character>North Wind</character>’s
+                house, and a <descriptor speaker="lad" subject="North Wind" sign = "positive">good</descriptor> fellow
+                he is, for he gave me this cloth, and when I only say to it, ‘Cloth, spread
+                yourself, and serve up all kind of good dishes’, I get any sort of food I
+                please."</dialogue></p>
+            <p><dialogue speaker="old widow" subject="lad">"All very true, I daresay,"</dialogue> said
+                his mother; <dialogue speaker="old widow" subject="lad">"but seeing is believing, and I
+                    shan’t believe it till I see it."</dialogue></p>
+            <p>So the lad made haste, drew out a table, laid the cloth on it, and said: <dialogue
+                speaker="lad" subject="cloth">"Cloth, spread yourself, and serve up all kind of good
+                dishes."</dialogue></p>
+            <p>But never a bit of dry bread did the cloth serve up.</p>
+            <p><dialogue speaker="lad" subject="old widow">"Well"</dialogue>, said the
+                <character>lad</character>, <dialogue speaker="lad" subject="old widow">"there’s no
+                    help for it but to go to the <character>North Wind</character> again"</dialogue>; and
+                away he went. So he came to where the <character>North Wind</character> lived late in
+                the afternoon.</p>
+            <p><dialogue speaker="lad" subject="North Wind">"Good evening!"</dialogue> said the
+                <character>lad</character>. <dialogue speaker="North Wind" subject="lad">"Good
+                    evening!"</dialogue> said the <character>North Wind</character>. <dialogue
+                        speaker="lad" subject="North Wind">"I want my rights for that meal of ours which you
+                        took"</dialogue>, said the lad; <dialogue speaker="lad" subject="North Wind">"for, as
+                            for that cloth I got, it isn’t worth a penny."</dialogue>
+                <dialogue speaker="North Wind" subject="lad">"I’ve got no meal"</dialogue>, said the
+                <character>North Wind</character>; <dialogue speaker="North Wind" subject="lad">"but
+                    yonder you have a ram which coins nothing but golden ducats as soon as you say to
+                    it: ‘Rain, ram! make money!’"</dialogue></p>
+            <p>So the <character>lad</character> thought this a fine thing; but as it was too far to get
+                home that day, he turned in for the night to the same inn where he had slept before.</p>
+            <p>Before he called for anything, he tried the truth of what the <character>North
+                Wind</character> had said of the ram, and found it all right; but, when the
+                <character>landlord</character> saw that, he thought it was a famous ram, and, when
+                the <character>lad</character> had fallen asleep, he took another which couldn’t coin
+                gold ducats, and changed the two.</p>
+            <p>Next morning off went the <character>lad</character>; and when he got home to his
+                <character>mother</character>, he said: <dialogue speaker="lad" subject="old widow"
+                    >"After all, the <character>North Wind</character> is a jolly fellow; for now he has
+                    given me a ram which can coin golden ducats if I only say ‘Ram, ram! make
+                    money.’"</dialogue>
+                <dialogue speaker="old widow" subject="lad">"All very true, I daresay"</dialogue>, said
+                his <character>mother</character>; <dialogue speaker="old widow" subject="lad">"but I
+                    shan’t believe any such stuff until I see the ducats made."</dialogue></p>
+            <p><dialogue speaker="lad" subject="ram">"Ram, ram! make money!"</dialogue> said the
+                <character>lad</character>; but if the Ram made anything, it wasn’t money. So the
+                <character>lad</character> went back again to the <character>North Wind</character>,
+                and <action actor="lad" subject="North Wind" sign = "negative">blew him up</action>, and said the ram was
+                worth nothing, and he must have his rights for the meal.</p>
+            <p><dialogue speaker="North Wind" subject="lad">"Well!"</dialogue> said the <character>North
+                Wind</character>; <dialogue speaker="North Wind" subject="lad">"I’ve nothing else to
+                    give you but that old stick in the corner yonder; but it’s a stick of that kind that
+                    if you say: “‘Stick, stick! lay on!’ it lays on till you say: ‘Stick, stick! now
+                    stop!’"</dialogue></p>
+            <p>So, as the way was long, the <character>lad</character> turned in this night too to the
+                <character>landlord</character>; but as he could pretty well guess how things stood
+                as to the cloth and the ram, he lay down at once on the bench and began to <action
+                    actor="lad" subject="environment" sign = "negative">snore</action>, as if he were asleep.</p>
+            <p>Now the <character>landlord</character>, who easily saw that the stick must be worth
+                something, <descriptor speaker="narrator" subject="landlord" sign = "negative">hunted</descriptor> up one
+                which was like it, and when he heard the lad snore, was going to change the two; but,
+                just as the <character>landlord</character> was about to <action actor="landlord"
+                    subject="stick" sign = "negative">take</action> it, the lad bawled out: <dialogue speaker="lad"
+                        subject="stick">"Stick, stick! lay on!"</dialogue></p>
+            <p>So the stick began to <action actor="stick" subject="landlord" sign = "negative">beat</action> the
+                <character>landlord</character>, till he <action actor="landlord" subject="chair" sign = "negative"
+                    >jumped</action> over chairs, and tables, and benches, and <action actor="landlord"
+                        subject="environment" sign = "negative">yelled</action> and <action actor="landlord" subject="encironment" sign = "negative"
+                            >roared</action>: <dialogue speaker="landlord" subject="lad">"Oh my! oh my! bid the
+                                stick be still, else it will beat me to death, and you shall have back both your
+                                cloth and our ram."</dialogue></p>
+            <p>When the <character>lad</character> thought the <character>landlord</character> had got
+                enough, he said: <dialogue speaker="lad" subject="stick">"Stick, stick! now
+                    stop!"</dialogue></p>
+            <p>Then he <action actor="lad" subject="cloth" sign = "positive">took</action> the cloth and put it into his
+                pocket, and went home with his stick in his hand, <action actor="lad" subject="ram" sign = "negative"
+                    >leading</action> the ram by a cord round its horns; and so he got his rights for
+                the meal he had lost.</p>
+        </body>
+    </story>
+    <story>
+        <title>WHY THE SEA IS SALT</title>
+        <body>
+            <p>Once on a time, but it was a long, long time ago, there were two brothers, one
+                <descriptor speaker="Narrator" subject="Rich Brother" sign="Positive"
+                    >rich</descriptor> and one <descriptor speaker="Narrartor" subject="Poor Brother"
+                        sign="Negative">poor</descriptor>. Now, one Christmas eve, the poor one hadn’t so
+                much as a crumb in the house, either of meat or bread, so he went to his brother to ask
+                him for something to keep Christmas with, in God’s name. It was not the first time his
+                brother had been forced to help him, and you may fancy he wasn’t very glad to see his
+                face, but he said:</p>
+            <p><dialogue subject="Poor Brother" speaker="Rich Brother">“If you will do what I ask you to
+                do, I’ll give you a whole flitch of bacon.”</dialogue> So the <character
+                    who="Poor Brother">poor brother</character> said he would do anything, and was full
+                of thanks.</p>
+            <p><dialogue subject="Poor Brother" speaker="Rich Brother">“Well, here is the
+                flitch”</dialogue>, said the <character who="Rich Brother">rich brother</character>,
+                “and now go straight to Hell.”</p>
+            <p><dialogue subject="Rich Brother" speaker="Poor Brother">“What I have given my word to do,
+                I must stick to”</dialogue>, said the other; so he took the flitch and set off. He
+                walked the whole day, and at dusk he came to a place where he saw a very bright
+                light.</p>
+            <p><dialogue subject="Self" speaker="Poor Brother">“Maybe this is the place”</dialogue>,
+                said the man to himself. So he turned aside, and the first thing he saw was an old,
+                <character who="Old Man">old man</character>, with a long white beard, who stood in
+                an outhouse, hewing wood for the Christmas fire. </p>
+            <p>
+                <dialogue subject="Old Man" speaker="Poor Brother">“Good even”</dialogue>, said the man
+                with the flitch.</p>
+            <p><dialogue subject="Poor Brother" speaker="Old Man">“The same to you; whither are you
+                going so late?”</dialogue> said the man.</p>
+            <p>
+                <dialogue subject="Old Man" speaker="Poor Brother">“Oh! I’m going to Hell, if I only
+                    knew the right way”</dialogue>, answered the poor man.</p>
+            <p><dialogue subject="Poor Brother" speaker="Old Man">“Well, you’re not far wrong, for this
+                is Hell”</dialogue>, said the old man; <dialogue subject="Poor Brother"
+                    speaker="Old Man">“when you get inside they will be all for buying your flitch, for
+                    meat is scarce in Hell; but mind, you don’t sell it unless you get the hand-quern
+                    which stands behind the door for it. When you come out, I’ll <action actor="Old Man"
+                        subject="Poor Brother" sign="Neutral"> teach</action> you how to handle the
+                    quern, for it’s good to grind almost anything.”</dialogue></p>
+            <p>So the man with the flitch <action actor="Poor Brother" subject="Old Man" sign="Positive"
+                >thanked</action> the other for his good advice, and gave a great knock at the
+                <character who="Devil">Devil</character>’s door.</p>
+            <p> When he got in, everything went just as the old man had said. All the devils, great and
+                small, came swarming up to him like ants round an anthill, and each tried to outbid the
+                other for the flitch. </p>
+            <p><dialogue subject="Devil" speaker="Poor Brother">“Well!”</dialogue> said the man,
+                <dialogue subject="Devil" speaker="Poor Brother"> "by rights my old dame and I ought
+                    to have this flitch for our Christmas dinner; but since you have all set your hearts
+                    on it, I suppose I must give it up to you; but if I sell it at all, I’ll have for it
+                    that quern behind the door yonder.”</dialogue></p>
+            <p>At first the <character who="Devil">Devil</character> wouldn’t hear of such a bargain,
+                and <action actor="Devil" subject="Poor Brother" sign="Neutral">chaffered and
+                    haggled</action> with the man; but he stuck to what he said, and at last the
+                <character who="Devil">Devil</character> had to part with his quern. When the man
+                got out into the yard, he asked the old woodcutter how he was to handle the quern; and
+                after he had learned how to use it, he <action actor="Poor Brother" subject="Old Man"
+                    sign="Positive">thanked</action> the old man and went off home as fast as he could,
+                but still the clock had struck twelve on Christmas eve before he reached his own
+                door.</p>
+            <p><dialogue subject="Poor Brother" speaker="Poor Brother's Wife">“Wherever in the world
+                have you been?”</dialogue> said his <character who="Poor Brother's Wife">old
+                    dame</character>, <dialogue subject="Poor Brother" speaker="Poor Brother's Wife"
+                        >“here have I sat hour after hour <action actor="Poor Brother's Wife"
+                            subject="Poor Brother" sign="Positive">waiting</action> and watching, without so
+                        much as two sticks to lay together under the Christmas brose.”</dialogue></p>
+            <p>
+                <dialogue subject="Poor Brother's Wife" speaker="Poor Brother">“Oh!”</dialogue> said the
+                man, <dialogue subject="Poor Brother's Wife" speaker="Poor Brother">“I couldn’t get back
+                    before, for I had to go a long way first for one thing, and then for another; but
+                    now you shall see what you shall see.”</dialogue></p>
+            <p>So he put the quern on the table, and bade it first of all grind lights, then a
+                table-cloth, then meat, then ale, and so on till they had got everything that was nice
+                for Christmas fare. He had only to speak the word, and the quern ground out what he
+                wanted. The old dame stood by blessing her stars, and kept on asking where he had got
+                this wonderful quern, but he wouldn’t tell her.</p>
+            <p><dialogue subject="Poor Brother's Wife" speaker="Poor Brother">“It’s all one where I got
+                it from; you see the quern is a good one, and the mill-stream never freezes, that’s
+                enough.”</dialogue></p>
+            <p>So he ground meat and drink and dainties enough to last out till Twelfth Day, and on the
+                third day he asked all his friends and kin to his house, and gave a great feast. Now,
+                when his <character who="Rich Brother">rich brother</character> saw all that was on the
+                table, and all that was behind in the larder, he grew quite <descriptor
+                    subject="Rich Brother" speaker="Narrator" sign="Negative">spiteful and
+                    wild</descriptor>, for he <action actor="Rich Brother" subject="Poor Brother"
+                        sign="Negative">couldn’t bear that his brother should have anything.</action></p>
+            <p><dialogue subject="Party" speaker="Rich Brother">“’Twas only on Christmas
+                eve”</dialogue>, he said to the rest, <dialogue subject="Party" speaker="Rich Brother"
+                    >“he was <descriptor subject="Poor Brother" speaker="Rich Brother" sign="Negative"
+                        >in such straits</descriptor>, that he came and asked for a morsel of food in
+                    God’s name, and now he gives a feast <descriptor speaker="Rich Brother"
+                        subject="Poor Brother" sign="Negative">as if he were count or
+                        king</descriptor>”</dialogue>; and he turned to his brother and said:</p>
+            <p><dialogue subject="Poor Brother" speaker="Rich Brother">“But whence, in Hell’s name, have
+                you got all this wealth?”</dialogue></p>
+            <p><dialogue subject="Rich Brother" speaker="Poor Brother">“From behind the
+                door”</dialogue>, answered the <character who="Poor Brother">owner of the
+                    quern</character>, for he didn’t care to <fig_lang type="Metaphor" subject="Quern"
+                        relation="Revealing Secret" sign="Negative">let the cat out of the bag</fig_lang>.
+                But later on the evening, when he had got a drop too much, he could keep his secret no
+                longer, and brought out the quern and said:</p>
+            <p><dialogue subject="Party" speaker="Poor Brother">“There, you see what has gotten me all
+                this wealth”</dialogue>; and so he made the quern grind all kind of things. When his
+                <character who="Rich Brother">brother</character> saw it, he set his heart on having
+                the quern, and, after a deal of <action actor="Rich Brother" subject="Poor Brother"
+                    sign="Neutral">coaxing</action>, he got it; but he had to pay three hundred dollars
+                for it, and <character who="Poor Brother">his brother</character> bargained to keep it
+                till hay-harvest, for he thought, if I keep it till then, I can make it grind meat and
+                drink that will last for years. So you may fancy the quern didn’t grow rusty for want of
+                work, and when hay-harvest came, the <character who="Rich Brother">rich
+                    brother</character> got it, but <character who="Poor Brother">the other</character>
+                took care <action actor="Poor Brother" subject="Rich Brother" sign="Negative">not to
+                    teach</action> him how to handle it. </p>
+            <p>It was evening when the <character who="Rich Brother">rich brother</character> got the
+                quern home, and next morning he told his wife to go out into the hay-field and toss,
+                while the mowers cut the grass, and he would stay at home and get the dinner ready. So,
+                when dinner-time drew near, he put the quern on the kitchen table and said:</p>
+            <p><dialogue subject="Self" speaker="Rich Brother">“Grind herrings and broth, and grind them
+                good and fast.”</dialogue></p>
+            <p>So the quern began to grind herrings and broth; first of all, all the dishes full, then
+                all the tubs full, and so on till the kitchen floor was quite covered. Then the man
+                <action subject="Quern" actor="Rich Brother" sign="Negative">twisted and
+                    twirled</action> at the quern to get it to stop, but for all his twisting and
+                fingering the quern went on grinding, and in a little while the broth rose so high that
+                <character who="Rich Brother">the man</character> was like to drown. So he threw
+                open the kitchen door and ran into the parlour, but it wasn’t long before the quern had
+                ground the parlour full too, and it was only at the risk of his life that the man could
+                get hold of the latch of the house door through the stream of broth. When he got the
+                door open, he ran out and set off down the road, with the stream of herrings and broth
+                at his heels, roaring like a waterfall over the whole farm. Now, <character
+                    who="Rich Brother's Wife">his old dame</character>, who was in the field tossing
+                hay, thought it a long time to dinner, and at last she said:</p>
+            <p><dialogue subject="Fieldworkers" speaker="Rich Brother's Wife">“Well! though <character
+                who="Rich Brother">the master</character> doesn’t call us home, we may as well
+                go. Maybe he finds it hard work to boil the broth, and will be glad of my
+                help.”</dialogue></p>
+            <p>The men were willing enough, so they sauntered homewards; but just as they had got a
+                little way up the hill, what should they meet but herrings, and broth, and bread, all
+                running and dashing, and splashing together in a stream, and the master himself <action
+                    actor="Rich Brother" subject="Self" sign="Negative">running before them for his
+                    life</action>, and as he passed them he bawled out:</p>
+            <p><dialogue speaker="Rich Brother" subject="Fieldworkers">“Would to heaven each of you had
+                a hundred throats! but take care you’re not drowned in the broth.”</dialogue></p>
+            <p>Away he went, as though the <character who="Devil">Evil One</character> were at his
+                heels, to <character who="Poor Brother">his brother</character>’s house, and begged him
+                for God’s sake to take back the quern that instant; for, said he:</p>
+            <p><dialogue speaker="Rich Brother" subject="Poor Brother">“If it grinds only one hour more,
+                the whole parish will be swallowed up by herrings and broth.”</dialogue>
+            </p>
+            <p>But <character who="Poor Brother">his brother</character>
+                <action actor="Poor Brother" subject="Rich Brother" sign="Negative">wouldn’t hear of
+                    taking it back</action> till the other paid him down three hundred dollars more.</p>
+            <p>So the<character who="Poor Brother">poor brother</character> got both the money and the
+                quern, and it wasn’t long before he <action actor="Poor Brother" subject="Rich Brother"
+                    sign="Negative">set up a farm-house far finer than the one in which his brother
+                    lived</action>, and with the quern he ground so much gold that he covered it with
+                plates of gold; and as the farm lay by the sea-side, the golden house gleamed and
+                glistened far away over the sea. <transformation subject="Poor Brother" form="Rich Man">All who sailed by put ashore to see the <character
+                    who="Poor Brother">rich man</character> in the golden house</transformation>, and to see the
+                wonderful quern, the fame of which spread far and wide, till there was nobody who hadn’t
+                heard tell of it.</p>
+            <p>So one day there came a <character who="Skipper">skipper</character> who wanted to see
+                the quern; and the first thing he <action subject="Poor Brother" actor="Skipper"
+                    sign="Neutral">asked</action> was if it could grind salt.</p>
+            <p><dialogue subject="Skipper" speaker="Poor Brother">“Grind salt!”</dialogue> said
+                <character who="Poor Brother">the owner</character>; <dialogue subject="Skipper"
+                    speaker="Poor Brother">“I should just think it could. It can grind
+                    anything.”</dialogue> When the <character who="Skipper">skipper</character> heard
+                that, he said he must have the quern, cost what it would; for if he only had it, he
+                thought he should be rid of his long voyages across stormy seas for a lading of salt.
+                Well, at first <character who="Poor Brother">the man</character> wouldn’t hear of
+                parting with the quern; but the <character who="Skipper">skipper</character>
+                <action actor="Skipper" subject="Poor Brother" sign="Neutral">begged and prayed</action>
+                so hard, that at last he let him have it, but he had to pay many, many thousand dollars
+                for it. Now, when the <character who="Skipper">skipper</character> had got the quern on
+                his back, he soon made off with it, for he was <action actor="Skipper"
+                    subject="Poor Brother" sign="Negative">afraid lest the man should change his
+                    mind</action>; so he had no time to ask how to handle the quern, but got on board
+                his ship as fast as he could, and set sail. When he had sailed a good way off, he
+                brought the quern on deck and said:</p>
+            <p><dialogue subject="Self" speaker="Skipper">“Grind salt, and grind both good and
+                fast.”</dialogue></p>
+            <p>Well, the quern began to grind salt so that it poured out like water; and when the
+                <character who="Skipper">skipper</character> had got the ship full, he wished to
+                stop the quern, but whichever way he turned it, and however much he tried, it was no
+                good; the quern kept grinding on, and the heap of salt grew higher and higher, and at
+                last down sank the ship. </p>
+            <p>There lies the quern at the bottom of the sea, and grinds away at this very day, and
+                that’s why the sea is salt.</p>
+        </body>
+    </story>
+</tales>
