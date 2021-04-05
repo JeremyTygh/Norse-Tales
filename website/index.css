@@ -41,6 +41,10 @@ nav
     justify-content: space-evenly;  
 }
 
+bookCover.jpg {
+    height: 1600px;
+}
+
 .vertical {
     width: 20vw;
     background-image: url(bookCover.jpg);
