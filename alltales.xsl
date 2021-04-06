@@ -14,7 +14,9 @@
                 <h1>Norse Tales</h1>
                 <h2>Contents</h2>
                 <ul>
-                    <xsl:apply-templates select="//story" mode="toc"/>
+                    <xsl:apply-templates select="//story" mode="toc">
+                        <xsl:sort select="title"/>
+                    </xsl:apply-templates>
                 </ul>
                 <hr/>
                 <xsl:apply-templates/>
@@ -22,20 +24,23 @@
         </html>
     </xsl:template>
     <xsl:template match="story">
+        <section id="{replace(title, '\s','')}">
         <h2>
             <xsl:apply-templates select="title"/>
         </h2>
         <p>
             <xsl:apply-templates select="body"/>
         </p>
-        <br/>
+        </section>
     </xsl:template>
     <xsl:template match="p">
         <xsl:apply-templates/><br/><br/>
     </xsl:template>
     <xsl:template match="//story" mode="toc">
         <li>
+            <a href="#{replace(title, '\s','')}">
             <xsl:apply-templates select="title"/>
+            </a>
         </li>
     </xsl:template>
 </xsl:stylesheet>
