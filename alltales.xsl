@@ -23,6 +23,11 @@
             </body>
         </html>
     </xsl:template>
+    <xsl:template match="tales">
+        <xsl:apply-templates>
+            <xsl:sort select="@number" data-type="number"/>
+        </xsl:apply-templates>
+    </xsl:template>
     <xsl:template match="story">
         <section id="{replace(title, '\s','')}">
         <h2>
