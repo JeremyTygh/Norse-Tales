@@ -28,13 +28,15 @@
         <h2>
             <xsl:apply-templates select="title"/>
         </h2>
-        <p>
+        <article>
             <xsl:apply-templates select="body"/>
-        </p>
+        </article><br/>
         </section>
     </xsl:template>
     <xsl:template match="p">
-        <xsl:apply-templates/><br/><br/>
+        <p>
+        <xsl:apply-templates/>
+        </p>
     </xsl:template>
     <xsl:template match="//story" mode="toc">
         <li>

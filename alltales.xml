@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tales>
-    <story>
+    <story number="9">
         <title>THE FOX AS HERDSMAN</title>
         <body>
             <p>Once on a time there was a <character who="woman">woman</character> who went out to hire
@@ -75,7 +75,7 @@
                     white tip to his brush.</descriptor></p>
         </body>
     </story>
-    <story>
+    <story number="10">
     <title>THE GIANT WHO HAD NO HEART IN HIS BODY</title>
     <body>
         <p>Once on a time there was a <character who="King">king</character>
@@ -457,7 +457,7 @@
             feasting, why, they are still at it.</p>
     </body>
 </story>
-    <story>
+    <story number="6">
         <title>TAMING THE SHREW</title>
         <body>
             <p>Once on a time there was a <character>king</character>, and he had a
@@ -500,7 +500,7 @@
                 half the kingdom.</p>
         </body>
     </story>
-    <story>
+    <story number="7">
     <title>TATTERHOOD</title>
     <body>
         <p>Once on a time there was a <character who="King Queen">king and a queen</character>
@@ -834,7 +834,7 @@
             I dare say you’ll find there’s still a drop of the bridal ale left for you.</p>
     </body>
 </story>
-    <story>
+    <story number="12">
     <title>THE MASTER THIEF</title>
     <body>
         <p>Once upon a time there was a <character who="Cottager">poor cottager</character> who had
@@ -1329,7 +1329,7 @@
             sake of a bit of fun.</p>
     </body>
 </story>
-    <story>
+    <story number="8">
         <title>THE COCK AND HEN THAT WENT TO THE DOVREFELL</title>
         <body>
             <p>Once on a time there was a <character>Hen</character> that had <action actor="Hen"
@@ -1471,7 +1471,7 @@
                 with the world.</p>
         </body>
     </story>
-    <story>
+    <story number="11">
         <!--  Note: author refers to same character under differnet names: [old widow, mother]  [lad, son] attribute?
     put n/a in subject attribute if it something like snore-->
         <title>THE LAD WHO WENT TO THE NORTH WIND</title>
@@ -1606,7 +1606,7 @@
                 the meal he had lost.</p>
         </body>
     </story>
-    <story>
+    <story number="13">
         <title>WHY THE SEA IS SALT</title>
         <body>
             <p>Once on a time, but it was a long, long time ago, there were two brothers, one
@@ -1798,7 +1798,7 @@
                 that’s why the sea is salt.</p>
         </body>
     </story>
-    <story>
+    <story number="5">
     <title>EAST O’ THE SUN AND WEST O’ THE MOON</title>
     <body>
         <p>Once on a time there was a poor <character>husbandman</character> who had so many
@@ -2210,7 +2210,7 @@
             as they could from the Castle that lay EAST O’ THE SUN AND WEST O’ THE MOON.</p>
     </body>
 </story>
-    <story>
+    <story number="1">
         <title>BOOTS AND HIS BROTHERS</title>
         <body>
             <p><descriptor speaker="Narrator" subject="Boots and Brothers" sign="Neutral">Once on a time
@@ -2420,7 +2420,7 @@
                     wasn’t so much out of his mind when he took to wondering.”</dialogue></p>
         </body>
     </story>
-    <story>
+    <story number="2">
         <title>BOOTS AND THE TROLL</title>
         <body>
             <p>Once on a time <descriptor speaker="Narrator" subject="the family" sign="negative">there
@@ -2676,7 +2676,7 @@
                     good when they said what they had said.</action></p>
         </body>
     </story>
-    <story>
+    <story number="3">
         <title>BOOTS WHO ATE A MATCH WITH THE TROLL</title>
         <body>
             <p><descriptor speaker="Narrator" subject="Father" sign="neutral">Once on a time there was a
@@ -2800,7 +2800,7 @@
                     went a great way to pay off the debt</action>.</p>
         </body>
     </story>
-    <story>
+    <story number="4">
         <title>BOOTS, WHO MADE THE PRINCESS SAY, “THAT’S A STORY”</title>
         <body>
             <p>Once on a time <descriptor speaker="Narrator" subject="Princess" sign="negative">there
