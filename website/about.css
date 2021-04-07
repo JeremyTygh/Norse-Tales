@@ -41,6 +41,7 @@ nav
     justify-content: space-evenly;  
 }
 
+
 .vertical {
     width: 20vw;
     background-image: url(bookCover.jpg);
@@ -73,7 +74,7 @@ nav
 
 header
  {
-  background-image: url(bookCover.jpg);
+  background-image: url(woodBackground.jpg);
   background-size: cover;
   height: 20vh;
   padding: 10px;
@@ -81,7 +82,7 @@ header
 
 
 footer {
-  background-image: url(bookCover.jpg);
+  background-image: url(woodBackground.jpg);
   background-size: cover;
   
   height: 5vh;
@@ -119,3 +120,4 @@ a:link, a:visited {
 span {
     color: white;
 }
+p {background: rgba(128, 128, 128, 0.8);}
