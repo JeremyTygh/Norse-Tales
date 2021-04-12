@@ -41,6 +41,13 @@ nav
     justify-content: space-evenly;  
 }
 
+.text_below {
+  float: left;
+}
+
+.question {
+  font-size: 1.5em;
+}
 
 .vertical {
     width: 20vw;
