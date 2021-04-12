@@ -452,8 +452,8 @@
                     said the <character who="King">king</character>,</descriptor><descriptor
                     subject="Boots" sign="positive" speaker="King"> “and he shall sit uppermost at
                     the table, with her by his side.”</descriptor></dialogue></p>
-        <p><action actor="King" subject="wedding" sign="positive"/>So he sent out, and called a
-            great wedding-feast, and the mirth was both loud and long, and if they have not done
+        <p><action actor="King" subject="wedding" sign="positive">So he sent out, and called a
+            great wedding-feast,</action> and the mirth was both loud and long, and if they have not done
             feasting, why, they are still at it.</p>
     </body>
 </story>
@@ -634,7 +634,7 @@
                     was all no good; where the younger twin was, there she must also be, and no one
                     could ever keep them apart.</descriptor></descriptor></p>
         <p><descriptor subject="Christmas eve" sign="negative" speaker="narrator">Well, one
-                Christmas eve, <descriptor subject="Tatterhood and younger twin" sign="" speaker=""
+                Christmas eve, <descriptor subject="Tatterhood and younger twin" sign="neutral" speaker="narrator"
                     >when they were half grown up</descriptor>, there rose such a frightful noise
                 and clatter in the gallery outside the Queen’s bower.</descriptor>
             <dialogue subject="Queen" speaker="Tatterhood">So <character who="Tatterhood"
@@ -892,13 +892,13 @@
         <p><dialogue speaker="Old Dame" subject="Robbers">“Such a one as he money!”</dialogue> said
             the <character who="Old Dame">old dame</character>, <dialogue subject="Robbers"
                 speaker="Old Dame">“<descriptor speaker="Old Dame" subject="The Youth"
-                    sign="Negative">the tramper</descriptor>! Why, if he had clothes to his back, it
+                    sign="negative">the tramper</descriptor>! Why, if he had clothes to his back, it
                 was as much as he had.”</dialogue></p>
         <p>Then <character who="Robbers">the robbers</character> began to talk among themselves what
             they should do with him; if they should kill him outright, or what else they should do.
             Meantime <character who="The Youth">the youth</character> got up and began to talk to
             them, and to ask if they didn’t want a servant, for it might be that <action
-                subject="Robbers" actor="The Youth" sign="Positive">he would be glad to enter their
+                subject="Robbers" actor="The Youth" sign="positive">he would be glad to enter their
                 service</action>.</p>
         <p><dialogue speaker="Robbers" subject="The Youth">“Oh”</dialogue>, said they, <dialogue
                 speaker="Robbers" subject="The Youth">“if you have a mind to follow the trade that
@@ -919,7 +919,7 @@
             ox from the man by the way without his knowing it, and without doing him any harm, they
             would give him leave to be their serving-man.</p>
         <p>Well! <character who="The Youth">the youth</character> set off, and <action
-                subject="Robbers" actor="The Youth" sign="Negative">took</action> with him a pretty
+                subject="Robbers" actor="The Youth" sign="negative">took</action> with him a pretty
             shoe, with a silver buckle on it, which lay about the house; and he put the shoe in the
             road along which <character who="Rancher">the man</character> was going with his ox; and
             when he had done that, he went into the wood and hid himself under a bush. So when the
@@ -928,16 +928,16 @@
                 <dialogue speaker="Rancher" subject="Self">“If I only had the fellow to it, I’d take
                 it home with me, and perhaps I’d put my <character who="Rancher's Wife">old
                     dame</character> in a good humour for once.”</dialogue> For you must know he had
-            an old wife, so <descriptor subject="Rancher's Wife" speaker="Narrator" sign="Negative"
+            an old wife, so <descriptor subject="Rancher's Wife" speaker="Narrator" sign="negative"
                 >cross and snappish</descriptor>, it was not long between each time that she boxed
             his ears. But then he bethought him that he could do nothing with the odd shoe unless he
             had the fellow to it; so he went on his way and let the shoe lie on the road.</p>
         <p>Then <character who="The Youth">the youth</character> took up the shoe, and made all the
             haste he could to get before the man by a short cut through the wood, and laid it down
             before him in the road again. When the man came along with his ox, <action
-                actor="Rancher" subject="Self" sign="Negative">he got quite angry with
+                actor="Rancher" subject="Self" sign="negative">he got quite angry with
                 himself</action> for being so <descriptor speaker="Self" subject="Rancher"
-                sign="Negative">dull</descriptor> as to leave the fellow to the shoe lying in the
+                sign="negative">dull</descriptor> as to leave the fellow to the shoe lying in the
             road instead of taking it with him; so he tied the ox to the fence, and said to himself,
                 <dialogue speaker="Rancher" subject="Self">“I may just as well run back and pick up
                 the other, and then I’ll have a pair of good shoes for my <character
@@ -946,7 +946,7 @@
         <p>So he set off, and hunted and hunted up and down for the shoe, but no shoe did he find;
             and at length he had to go back with the one he had. But, meanwhile <character
                 who="The Youth">the youth</character> had <action actor="The Youth"
-                subject="Rancher" sign="Negative">taken the ox</action> and gone off with it; and
+                subject="Rancher" sign="negative">taken the ox</action> and gone off with it; and
             when the man came and saw his ox gone, he began to cry and bewail, for he was afraid his
                 <character who="Rancher's Wife">old dame</character> would kill him outright when
             she came to know that the ox was lost. But just then it came across his mind that he
@@ -985,7 +985,7 @@
         <p>So he tied up his ox, and ran back to see if the others were still really hanging there.
             But while he went and peered up into all the trees, <character who="The Youth">the
                 youth</character> jumped down and <action subject="Rancher" actor="The Youth"
-                sign="Negative">took his ox</action> and ran off with it. When the man came back and
+                sign="negative">took his ox</action> and ran off with it. When the man came back and
             found his ox gone, he was in a sad plight, and, as any one might know without being
             told, he began to cry and bemoan; but at last he came to take it easier, and so he
             thought:</p>
@@ -1003,7 +1003,7 @@
             knew the voice of his big bullock, and he thought that now he should find both of them
             again; so he tied up the third ox, and ran off from the road to look for them in the
             wood; but meantime <character who="The Youth">the youth</character><action
-                subject="Rancher" actor="The Youth" sign="Negative"> went off with the third
+                subject="Rancher" actor="The Youth" sign="negative"> went off with the third
                 ox</action>. Now, when the man came back and found he had lost this ox too, he was
             so wild that there was no end to his grief. He cried and roared and beat his breast,
             and, to tell the truth, it was many days before he dared go home; for he was afraid lest
@@ -1610,9 +1610,9 @@
         <title>WHY THE SEA IS SALT</title>
         <body>
             <p>Once on a time, but it was a long, long time ago, there were two brothers, one
-                <descriptor speaker="Narrator" subject="Rich Brother" sign="Positive"
+                <descriptor speaker="Narrator" subject="Rich Brother" sign="positive"
                     >rich</descriptor> and one <descriptor speaker="Narrartor" subject="Poor Brother"
-                        sign="Negative">poor</descriptor>. Now, one Christmas eve, the poor one hadn’t so
+                        sign="negative">poor</descriptor>. Now, one Christmas eve, the poor one hadn’t so
                 much as a crumb in the house, either of meat or bread, so he went to his brother to ask
                 him for something to keep Christmas with, in God’s name. It was not the first time his
                 brother had been forced to help him, and you may fancy he wasn’t very glad to see his
@@ -1645,9 +1645,9 @@
                     speaker="Old Man">“when you get inside they will be all for buying your flitch, for
                     meat is scarce in Hell; but mind, you don’t sell it unless you get the hand-quern
                     which stands behind the door for it. When you come out, I’ll <action actor="Old Man"
-                        subject="Poor Brother" sign="Neutral"> teach</action> you how to handle the
+                        subject="Poor Brother" sign="neutral"> teach</action> you how to handle the
                     quern, for it’s good to grind almost anything.”</dialogue></p>
-            <p>So the man with the flitch <action actor="Poor Brother" subject="Old Man" sign="Positive"
+            <p>So the man with the flitch <action actor="Poor Brother" subject="Old Man" sign="positive"
                 >thanked</action> the other for his good advice, and gave a great knock at the
                 <character who="Devil">Devil</character>’s door.</p>
             <p> When he got in, everything went just as the old man had said. All the devils, great and
@@ -1659,19 +1659,19 @@
                     on it, I suppose I must give it up to you; but if I sell it at all, I’ll have for it
                     that quern behind the door yonder.”</dialogue></p>
             <p>At first the <character who="Devil">Devil</character> wouldn’t hear of such a bargain,
-                and <action actor="Devil" subject="Poor Brother" sign="Neutral">chaffered and
+                and <action actor="Devil" subject="Poor Brother" sign="neutral">chaffered and
                     haggled</action> with the man; but he stuck to what he said, and at last the
                 <character who="Devil">Devil</character> had to part with his quern. When the man
                 got out into the yard, he asked the old woodcutter how he was to handle the quern; and
                 after he had learned how to use it, he <action actor="Poor Brother" subject="Old Man"
-                    sign="Positive">thanked</action> the old man and went off home as fast as he could,
+                    sign="positive">thanked</action> the old man and went off home as fast as he could,
                 but still the clock had struck twelve on Christmas eve before he reached his own
                 door.</p>
             <p><dialogue subject="Poor Brother" speaker="Poor Brother's Wife">“Wherever in the world
                 have you been?”</dialogue> said his <character who="Poor Brother's Wife">old
                     dame</character>, <dialogue subject="Poor Brother" speaker="Poor Brother's Wife"
                         >“here have I sat hour after hour <action actor="Poor Brother's Wife"
-                            subject="Poor Brother" sign="Positive">waiting</action> and watching, without so
+                            subject="Poor Brother" sign="positive">waiting</action> and watching, without so
                         much as two sticks to lay together under the Christmas brose.”</dialogue></p>
             <p>
                 <dialogue subject="Poor Brother's Wife" speaker="Poor Brother">“Oh!”</dialogue> said the
@@ -1690,15 +1690,15 @@
                 third day he asked all his friends and kin to his house, and gave a great feast. Now,
                 when his <character who="Rich Brother">rich brother</character> saw all that was on the
                 table, and all that was behind in the larder, he grew quite <descriptor
-                    subject="Rich Brother" speaker="Narrator" sign="Negative">spiteful and
+                    subject="Rich Brother" speaker="Narrator" sign="negative">spiteful and
                     wild</descriptor>, for he <action actor="Rich Brother" subject="Poor Brother"
-                        sign="Negative">couldn’t bear that his brother should have anything.</action></p>
+                        sign="negative">couldn’t bear that his brother should have anything.</action></p>
             <p><dialogue subject="Party" speaker="Rich Brother">“’Twas only on Christmas
                 eve”</dialogue>, he said to the rest, <dialogue subject="Party" speaker="Rich Brother"
-                    >“he was <descriptor subject="Poor Brother" speaker="Rich Brother" sign="Negative"
+                    >“he was <descriptor subject="Poor Brother" speaker="Rich Brother" sign="negative"
                         >in such straits</descriptor>, that he came and asked for a morsel of food in
                     God’s name, and now he gives a feast <descriptor speaker="Rich Brother"
-                        subject="Poor Brother" sign="Negative">as if he were count or
+                        subject="Poor Brother" sign="negative">as if he were count or
                         king</descriptor>”</dialogue>; and he turned to his brother and said:</p>
             <p><dialogue subject="Poor Brother" speaker="Rich Brother">“But whence, in Hell’s name, have
                 you got all this wealth?”</dialogue></p>
@@ -1712,13 +1712,13 @@
                 this wealth”</dialogue>; and so he made the quern grind all kind of things. When his
                 <character who="Rich Brother">brother</character> saw it, he set his heart on having
                 the quern, and, after a deal of <action actor="Rich Brother" subject="Poor Brother"
-                    sign="Neutral">coaxing</action>, he got it; but he had to pay three hundred dollars
+                    sign="neutral">coaxing</action>, he got it; but he had to pay three hundred dollars
                 for it, and <character who="Poor Brother">his brother</character> bargained to keep it
                 till hay-harvest, for he thought, if I keep it till then, I can make it grind meat and
                 drink that will last for years. So you may fancy the quern didn’t grow rusty for want of
                 work, and when hay-harvest came, the <character who="Rich Brother">rich
                     brother</character> got it, but <character who="Poor Brother">the other</character>
-                took care <action actor="Poor Brother" subject="Rich Brother" sign="Negative">not to
+                took care <action actor="Poor Brother" subject="Rich Brother" sign="negative">not to
                     teach</action> him how to handle it. </p>
             <p>It was evening when the <character who="Rich Brother">rich brother</character> got the
                 quern home, and next morning he told his wife to go out into the hay-field and toss,
@@ -1728,7 +1728,7 @@
                 good and fast.”</dialogue></p>
             <p>So the quern began to grind herrings and broth; first of all, all the dishes full, then
                 all the tubs full, and so on till the kitchen floor was quite covered. Then the man
-                <action subject="Quern" actor="Rich Brother" sign="Negative">twisted and
+                <action subject="Quern" actor="Rich Brother" sign="negative">twisted and
                     twirled</action> at the quern to get it to stop, but for all his twisting and
                 fingering the quern went on grinding, and in a little while the broth rose so high that
                 <character who="Rich Brother">the man</character> was like to drown. So he threw
@@ -1746,7 +1746,7 @@
             <p>The men were willing enough, so they sauntered homewards; but just as they had got a
                 little way up the hill, what should they meet but herrings, and broth, and bread, all
                 running and dashing, and splashing together in a stream, and the master himself <action
-                    actor="Rich Brother" subject="Self" sign="Negative">running before them for his
+                    actor="Rich Brother" subject="Self" sign="negative">running before them for his
                     life</action>, and as he passed them he bawled out:</p>
             <p><dialogue speaker="Rich Brother" subject="Fieldworkers">“Would to heaven each of you had
                 a hundred throats! but take care you’re not drowned in the broth.”</dialogue></p>
@@ -1757,11 +1757,11 @@
                 the whole parish will be swallowed up by herrings and broth.”</dialogue>
             </p>
             <p>But <character who="Poor Brother">his brother</character>
-                <action actor="Poor Brother" subject="Rich Brother" sign="Negative">wouldn’t hear of
+                <action actor="Poor Brother" subject="Rich Brother" sign="negative">wouldn’t hear of
                     taking it back</action> till the other paid him down three hundred dollars more.</p>
             <p>So the<character who="Poor Brother">poor brother</character> got both the money and the
                 quern, and it wasn’t long before he <action actor="Poor Brother" subject="Rich Brother"
-                    sign="Negative">set up a farm-house far finer than the one in which his brother
+                    sign="negative">set up a farm-house far finer than the one in which his brother
                     lived</action>, and with the quern he ground so much gold that he covered it with
                 plates of gold; and as the farm lay by the sea-side, the golden house gleamed and
                 glistened far away over the sea. <transformation subject="Poor Brother" form="Rich Man">All who sailed by put ashore to see the <character
@@ -1770,7 +1770,7 @@
                 heard tell of it.</p>
             <p>So one day there came a <character who="Skipper">skipper</character> who wanted to see
                 the quern; and the first thing he <action subject="Poor Brother" actor="Skipper"
-                    sign="Neutral">asked</action> was if it could grind salt.</p>
+                    sign="neutral">asked</action> was if it could grind salt.</p>
             <p><dialogue subject="Skipper" speaker="Poor Brother">“Grind salt!”</dialogue> said
                 <character who="Poor Brother">the owner</character>; <dialogue subject="Skipper"
                     speaker="Poor Brother">“I should just think it could. It can grind
@@ -1779,11 +1779,11 @@
                 thought he should be rid of his long voyages across stormy seas for a lading of salt.
                 Well, at first <character who="Poor Brother">the man</character> wouldn’t hear of
                 parting with the quern; but the <character who="Skipper">skipper</character>
-                <action actor="Skipper" subject="Poor Brother" sign="Neutral">begged and prayed</action>
+                <action actor="Skipper" subject="Poor Brother" sign="neutral">begged and prayed</action>
                 so hard, that at last he let him have it, but he had to pay many, many thousand dollars
                 for it. Now, when the <character who="Skipper">skipper</character> had got the quern on
                 his back, he soon made off with it, for he was <action actor="Skipper"
-                    subject="Poor Brother" sign="Negative">afraid lest the man should change his
+                    subject="Poor Brother" sign="negative">afraid lest the man should change his
                     mind</action>; so he had no time to ask how to handle the quern, but got on board
                 his ship as fast as he could, and set sail. When he had sailed a good way off, he
                 brought the quern on deck and said:</p>
@@ -2213,7 +2213,7 @@
     <story number="1">
         <title>BOOTS AND HIS BROTHERS</title>
         <body>
-            <p><descriptor speaker="Narrator" subject="Boots and Brothers" sign="Neutral">Once on a time
+            <p><descriptor speaker="Narrator" subject="Boots and Brothers" sign="neutral">Once on a time
                 there was a <character who="Father">man</character> who had three sons,
                 <character>Peter</character>, <character>Paul</character>, and <character
                     who="Boots">John</character>. John was Boots, of course, because he was the
@@ -2412,7 +2412,7 @@
                 so the <action actor="Walnut" subject="well" sign="positive">nut trickled and ran, till
                     the water gushed out of the hole in a stream, and in a short time the well was
                     brimfull</action>.</p>
-            <p>Then <action actor="Boots" subject="self" sign="Positive">Jack had felled the oak which
+            <p>Then <action actor="Boots" subject="self" sign="positive">Jack had felled the oak which
                 shaded the king’s palace, and dug a well in the palace-yard, and so he got the
                 Princess and half the kingdom</action>, as the King had said; but it was lucky for
                 Peter and Paul that they had lost their ears, else they had heard each hour and day, how
@@ -2446,7 +2446,7 @@
                         want him,</action> but <action actor="Boots" subject="Elder Brothers" sign="neutral"
                             >he begged so prettily that at last he got leave to be in the kitchen, and carry in
                             wood and water for the kitchen maid.</action>
-                <descriptor speaker="Narrator" subject="Boots" sign="Positive">He was quick and ready,
+                <descriptor speaker="Narrator" subject="Boots" sign="positive">He was quick and ready,
                     and in a little while every one liked him</descriptor>; but <descriptor
                         speaker="Narrator" subject="Elder Brothers" sign="negative">the two others were
                         dull, and so they got more kicks than halfpence, and grew quite envious of Boots,
@@ -2496,7 +2496,7 @@
                     done!”</dialogue> But at this <descriptor subject="Elder Brothers" sign="negative"
                         speaker="Narrator">his brothers grew more and more spiteful and
                         envious;</descriptor> and so they <action actor="Elder Brothers" subject="Boots"
-                            sign="Negative">went and told the coachman that their brother had said, if he chose,
+                            sign="negative">went and told the coachman that their brother had said, if he chose,
                             he was man enough to get the king the Troll’s bed-quilt, which had a gold patch and
                             a silver patch, and a silver patch and a gold patch;</action> and this time,
                 too,<action actor="Coachman" subject="Boots" sign="neutral"> the coachman was not
@@ -2560,7 +2560,7 @@
             <p><dialogue speaker="Troll" subject="Boots">“And it is you who took my bed-quilt, with the
                 gold and silver patches?”</dialogue> asked the Troll.</p>
             <p><dialogue speaker="Boots" subject="Troll">“Aye! aye!”</dialogue> said the lad.</p>
-            <p>So the <action actor="Troll" subject="Boots" sign="Negative">Troll caught hold of him at
+            <p>So the <action actor="Troll" subject="Boots" sign="negative">Troll caught hold of him at
                 once, and took him off into the cave in the face of the rock.</action></p>
             <p><dialogue speaker="Troll" subject="Boots">“Now, <character who="Troll Daughter"
                 >daughter</character> dear”, said the Troll, “I’ve caught the fellow who stole
@@ -2577,7 +2577,7 @@
                     coop</action>.</p>
             <p><dialogue speaker="Troll Daughter" subject="Boots">“Out with your little
                 finger!”</dialogue> she said.</p>
-            <p>But <action actor="Boots" subject="Troll Daughter" sign="Positive">Boots stuck out his
+            <p>But <action actor="Boots" subject="Troll Daughter" sign="positive">Boots stuck out his
                 tenpenny nail, and she cut at it</action>.</p>
             <p>
                 <dialogue speaker="Troll Daughter" subject="Boots">“Nay! nay! he’s as hard as iron
@@ -2618,7 +2618,7 @@
             <p><dialogue speaker="Boots" subject="knife">“Just let me try it on one of your hair
                 plaits; I think it’s about right now.”</dialogue>
             </p>
-            <p><action actor="Boots" subject="Troll Daughter" sign="Positive">So he got leave to do
+            <p><action actor="Boots" subject="Troll Daughter" sign="positive">So he got leave to do
                 that; but at the same time that he grasped the plait of hair, he pulled back her
                 head, and at one gash, cut off the Troll’s daughter’s head; and half of her he
                 roasted and half of her he boiled, and served it all up.</action>
@@ -2642,7 +2642,7 @@
                 “you used it last; where should it be but over the door yonder?</dialogue>
             </p>
             <p>The lad did not wait to be told twice; <action actor="Boots" subject="self"
-                sign="Positive">he took down the harp, and went in and out playing tunes; but, all
+                sign="positive">he took down the harp, and went in and out playing tunes; but, all
                 at once he shoved off the kneading-trough, jumped into it, and rowed off, so that
                 the foam flew around the trough</action>.</p>
             <p>After a while the Troll thought his daughter was a long while gone,<action actor="Troll"
@@ -2669,7 +2669,7 @@
                 ate”</dialogue>, answered the lad.</p>
             <p>But <action actor="Troll" subject="self" sign="negative">when the Troll heard that, he
                 was so sorry, he burst</action>; and then <action actor="Boots" subject="self"
-                    sign="Positive">Boots rowed back, and took a whole heap of gold and silver with him,
+                    sign="positive">Boots rowed back, and took a whole heap of gold and silver with him,
                     as much as the trough could carry. And so, when he came to the palace with the gold
                     harp, he got the Princess and half the kingdom, as the king had promised him; and,
                     as for his brothers, he treated them well, for he thought they had only wished his
@@ -2731,7 +2731,7 @@
                 you.”</dialogue>
             </p>
             <p>But the <character who="Boots">lad</character> was not slow; <action actor="Boots"
-                subject="Troll" sign="Positive">he pulled his cheese out of the scrip in a trice,
+                subject="Troll" sign="positive">he pulled his cheese out of the scrip in a trice,
                 and squeezed it till the whey spurted out.</action></p>
             <p><dialogue speaker="Boots" subject="Troll">“Hold your tongue!” he cried to the
                 <character>Troll</character>, “or I’ll squeeze you as I squeeze the water out of
@@ -2739,7 +2739,7 @@
             </p>
             <p><dialogue speaker="Troll" subject="Boots">“Nay, dear friend!” said the
                 <character>Troll</character>, <misconception actor="Troll" subject="Boots"
-                    sign="Positive">“only spare me, and I’ll help you to
+                    sign="positive">“only spare me, and I’ll help you to
                     hew.”</misconception></dialogue>
             </p>
             <p>Well, on those terms the <character who="Boots">lad</character> was willing to spare him,
@@ -2865,7 +2865,7 @@
                 subject="Boots" sign="positive">“That’s a story!” said the Princess; “my father
                 never did any such thing in all his born days!</misconception>”</dialogue>
             </p>
-            <p><action actor="Boots" subject="Princess and kingdom" sign="Positive">So Boots got the
+            <p><action actor="Boots" subject="Princess and kingdom" sign="positive">So Boots got the
                 Princess to wife, and half the kingdom besides</action>.</p>
         </body>
     </story>

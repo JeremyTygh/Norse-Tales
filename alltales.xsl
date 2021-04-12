@@ -50,4 +50,49 @@
             </a>
         </li>
     </xsl:template>
+    <xsl:template match="action[@sign='positive']">
+        <span class="actpos">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="action[@sign='negative']">
+        <span class="actneg">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="action[@sign='neutral']">
+        <span class="actneu">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="descriptor[@sign='positive']">
+        <span class="descpos">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="descriptor[@sign='negative']">
+        <span class="descneg">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="descriptor[@sign='neutral']">
+        <span class="descneu">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="misconception[@sign='positive']">
+        <span class="mispos">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="misconception[@sign='negative']">
+        <span class="misneg">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="character">
+        <span class="{@who}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
 </xsl:stylesheet>
