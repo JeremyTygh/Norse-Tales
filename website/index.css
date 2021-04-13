@@ -49,6 +49,10 @@ nav
   font-size: 1.5em;
 }
 
+h1 {
+    font-size: 2em;
+}
+
 .vertical {
     width: 20vw;
     background-image: url(bookCover.jpg);
