@@ -182,7 +182,7 @@
                 be great, I’ll be bound”, said the <character who="Boots">Prince</character>; “but
                 you may take my horse, since you are in such need.”</dialogue>
         </p>
-        <p><action actor="Wolf" subject="Boots" sign="postive">So when the <character who="Wolf"
+        <p><action actor="Wolf" subject="Boots" sign="positive">So when the <character who="Wolf"
                     >wolf</character> had eaten the horse, <character who="Boots">Boots</character>
                 took the bit and put it into the wolf’s jaw, and laid the saddle on his back;
                     <descriptor subject="Wolf" sign="positive" speaker="narrator">and now the
@@ -1705,7 +1705,7 @@
             <p><dialogue subject="Rich Brother" speaker="Poor Brother">“From behind the
                 door”</dialogue>, answered the <character who="Poor Brother">owner of the
                     quern</character>, for he didn’t care to <fig_lang type="Metaphor" subject="Quern"
-                        relation="Revealing Secret" sign="Negative">let the cat out of the bag</fig_lang>.
+                        relation="Revealing Secret" sign="negative">let the cat out of the bag</fig_lang>.
                 But later on the evening, when he had got a drop too much, he could keep his secret no
                 longer, and brought out the quern and said:</p>
             <p><dialogue subject="Party" speaker="Poor Brother">“There, you see what has gotten me all
@@ -2689,14 +2689,14 @@
                     wood, and try to pay off some of his debts.</action></p>
             <p>Well, <action actor="Father" subject="sons" sign="positive">after a long talk he got them
                 to set off</action>, and <character>the eldest</character> was to go first. But when
-                he had <action actor="eldest Son" subject="Troll" sign="neutral">got well into the wood,
+                he had <action actor="eldest son" subject="Troll" sign="neutral">got well into the wood,
                     and began to hew at a mossy old fir, what should he see coming up to him but a great
                     sturdy <character>Troll</character>.</action></p>
             <p><dialogue speaker="troll" subject="eldest son">“If you hew in this wood of mine”, said
                 the <character>Troll</character>, “I’ll kill you!”</dialogue>
             </p>
             <p>When the <character who="Eldest">lad</character>
-                <action actor="eldest son" subject="self" sign="">heard that, he threw the axe down, and
+                <action actor="eldest son" subject="self" sign="neutral">heard that, he threw the axe down, and
                     ran off home as fast as he could lay legs to the ground</action>; so he came in
                 quite out of breath, and told them what had happened, but his
                 <character>father</character>
@@ -2724,7 +2724,7 @@
             <p><character>Boots</character> said nothing to this, but only <action actor="Boots"
                 subject="Family" sign="neutral">begged them to give him a good store of
                 food</action>. His <character>mother</character> had no cheese, so <action
-                    actor="Mother" subject="Boots" sign="postivie">she set the pot on the fire to make
+                    actor="Mother" subject="Boots" sign="positive">she set the pot on the fire to make
                     him a little, and he put it into a scrip and set off.</action> So when he had hewn a
                 bit, the <character>Troll</character> came to him too, and said:</p>
             <p><dialogue speaker="troll" subject="Boots">“If you hew in this wood of mine, I’ll kill
@@ -2751,7 +2751,7 @@
                 house is nearer than yours.”</dialogue>
             </p>
             <p>So the <character who="Boots">lad</character> was willing enough; and when they reached
-                the <character>Troll</character>’s house, <action actor="Troll and Boots" subject="self"
+                the <character>Troll</character>’s house, <action actor="Boots and Troll" subject="self"
                     sign="positive">the <character>Troll</character> was to make up the fire, while the
                     lad went to fetch water for their porridge, and there stood two iron pails so big
                     and heavy, that he couldn’t so much as lift them from the ground</action>.</p>
@@ -2764,7 +2764,7 @@
                     sign="positive">“I can’t afford to lose my spring; just you make up the fire,
                     and I’ll go and fetch the water.</misconception>”</dialogue>
             </p>
-            <p>So<action actor="Troll and Boots" subject="self" sign="positive"> when he came back with
+            <p>So<action actor="Boots and Troll" subject="self" sign="positive"> when he came back with
                 the water, they set to and boiled up a great pot of porridge</action>.</p>
             <p><dialogue speaker="Boots" subject="Troll">“It’s all the same to me”, said the <character
                 who="Boots">lad</character>; “but if you’re of my mind, we’ll eat a
