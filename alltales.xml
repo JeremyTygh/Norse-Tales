@@ -1028,46 +1028,46 @@
             from <character who="Robbers">the robbers</character>, and which was made just like a
             general’s. So he drove up to the door as if he were any other great man. After that he
             went in and asked if he could have a lodging? No; that he couldn’t at any price.</p>
-            <p>“How ever should I be able”, said the man, “to make room in my house for such a fine
-            gentleman—I who scarce have a rag to lie upon, and miserable rags too?”</p> 
-            <p>“You always were a stingy old hunks”, said <character who="The Youth">the youth</character>, “and so you
-            are still, when you won’t take your own son in.”</p>
-            <p>“What, you my son!” said the man.</p> 
-            <p>“Don’t you know me again?” said <character who="The Youth">the youth</character>. Well,
+            <p><dialogue speaker="Rancher" subject="The Youth">“How ever should I be able”</dialogue>, said the man, <dialogue speaker="Rancher" subject="The Youth">“to make room in my house for such a fine
+            gentleman—I who scarce have a rag to lie upon, and miserable rags too?”</dialogue></p> 
+            <p><dialogue speaker="The Youth" subject="Rancher">“You always were a stingy old hunks”</dialogue>, said <character who="The Youth">the youth</character>, <dialogue speaker="The Youth" subject="Rancher">“and so you
+            are still, when you won’t take your own son in.”</dialogue></p>
+            <p><dialogue subject="The Youth" speaker="Rancher">“What, you my son!”</dialogue> said the man.</p> 
+            <p><dialogue speaker="The Youth" subject="Rancher">“Don’t you know me again?”</dialogue> said <character who="The Youth">the youth</character>. Well,
             after a little while he did know him again.</p>
-            <p>“But what have you been turning your hand to, that you have made yourself so great a man in such haste?” asked the man.</p>
-            <p>“Oh! I’ll soon tell you”, said <character who="The Youth">the youth</character>. “You said I might
+            <p><dialogue subject="The Youth" speaker="Rancher">“But what have you been turning your hand to, that you have made yourself so great a man in such haste?”</dialogue> asked the man.</p>
+            <p><dialogue speaker="The Youth" subject="Rancher">“Oh! I’ll soon tell you”</dialogue>, said <character who="The Youth">the youth</character>. <dialogue subject="Rancher" speaker="The Youth">“You said I might
             take to any trade I chose, and so I bound myself apprentice to a pack of thieves and
-            robbers, and now I’ve served my time out, and am become a <character who="Master Thief"
-                >Master Thief</character>.”</p>
+            robbers, and <transformation subject="The Youth" form="Master Thief">now I’ve served my time out, and am become a <character who="Master Thief"
+                >Master Thief</character>.”</transformation ></dialogue></p>
             <p>Now there lived a <character who="Squire">Squire</character> close by to his father’s cottage, and he had such a great house,
             and such heaps of money, he could not tell how much he had. He had a daughter too, and a
             smart and pretty girl she was. So the <character who="Master Thief">Master
                 Thief</character> set his heart upon having her to wife, and he told his father to
             go to the <character who="Squire">Squire</character> and ask for his daughter for him.</p>
-            <p>“If he asks by what trade I get my living, you can say I’m a <character
-                who="Master Thief">Master Thief</character>.”</p>
-            <p>“I think you’ve lost your wits”, said the man, “for you can’t be in your right mind when you think of such stuff.”</p>
+            <p><dialogue speaker="Master Thief" subject="Rancher">“If he asks by what trade I get my living, you can say I’m a <character
+                who="Master Thief">Master Thief</character>.”</dialogue></p>
+            <p><dialogue subject="Master Thief" speaker="Rancher">“I think you’ve lost your wits”</dialogue>, said the man, <dialogue speaker="Rancher" subject="Master Thief">“for you can’t be in your right mind when you think of such stuff.”</dialogue></p>
             <p>No! he had not lost his wits, his father must and should go to the <character who="Squire"
                 >Squire</character>, and ask for his daughter.</p>
-            <p>“Nay, but I tell you, I daren’t go to the <character who="Squire">Squire</character> and be your spokesman; he who is so rich,
-            and has so much money”, said the man.</p>
+            <p><dialogue speaker="Rancher" subject="Master Thief">“Nay, but I tell you, I daren’t go to the <character who="Squire">Squire</character> and be your spokesman; he who is so rich,
+            and has so much money”</dialogue>, said the man.</p>
             <p>Yes, there was no help for it, said the <character
                 who="Master Thief">Master Thief</character>; he should go whether he would or no;
             and if he did not go by fair means, he would soon make him go by foul. But the man was
             still loath to go; so he stepped after him, and rubbed him down with a good birch
             cudgel, and kept on till the man came crying and sobbing inside the <character
                 who="Squire">Squire</character>’s door.</p>
-            <p>“How now, my man! what ails you?” said the <character who="Squire">Squire</character>. So he told him the whole story; how he
+            <p><dialogue subject="Rancher" speaker="Squire">“How now, my man! what ails you?”</dialogue> said the <character who="Squire">Squire</character>. So he told him the whole story; how he
             had three sons who set off one day, and how he had given them leave to go whithersoever
-            they would, and to follow whatever calling they chose. “And here now is the youngest
+            they would, and to follow whatever calling they chose. <dialogue speaker="Rancher" subject="Squire">“And here now is the youngest
             come home, and has thrashed me till he has made me come to you and ask for your daughter
-            for him to wife; and he bids me say, besides, that he’s a Master Thief.” And so he fell
+            for him to wife; and he bids me say, besides, that he’s a Master Thief.”</dialogue> And so he fell
             to crying and sobbing again.</p>
-            <p>“Never mind, my man”, said the <character who="Squire">Squire</character>, laughing; “just go back and tell him from me, he must prove his
+            <p><dialogue subject="Rancher" speaker="Squire">“Never mind, my man”</dialogue>, said the <character who="Squire">Squire</character>, laughing; <dialogue speaker="Squire" subject="Rancher">“just go back and tell him from me, he must prove his
             skill first. If he can steal the roast from the spit in the kitchen on Sunday, while all
             the household are looking after it, he shall have my daughter. Just go and tell him
-            that.”</p>
+            that.”</dialogue></p>
             <p>So he went back and told <character who="The Youth">the youth</character>, who
             thought it would be an easy job. So he set about and caught three hares alive, and put
             them into a bag, and dressed himself in some old rags, until he looked so poor and
@@ -1077,10 +1077,10 @@
                 >Squire</character> himself and all his household were in the kitchen watching the
             roast. Just as they were doing this, <character who="The Youth">the youth</character>
             let one hare go, and it set off and ran round and round the yard in front of the house.</p>
-            <p>“Oh, just look at that hare!” said the folk in the kitchen, and were all for running out
+            <p><dialogue subject="Squire" speaker="Kitchen Folk">“Oh, just look at that hare!”</dialogue> said the <character who="Kitchen Folk">folk in the kitchen</character>, and were all for running out
             to catch it.</p> 
             <p>Yes, the <character who="Squire">Squire</character> saw it running too.
-            “Oh, let it run”, said he; “there’s no use in thinking to catch a hare on the spring.”</p>
+            <dialogue speaker="Squire" subject="Kitchen Folk">“Oh, let it run”</dialogue>, said he; <dialogue speaker="Squire" subject="Kitchen Folk">“there’s no use in thinking to catch a hare on the spring.”</dialogue></p>
             <p>A little while after, <character who="The Youth">the youth</character> let the second hare
             go, and they saw it in the kitchen, and thought it was the same they had seen before,
             and still wanted to run out and catch it; but the <character who="Squire"
@@ -1089,80 +1089,80 @@
             round and round the yard as the others before it. Now, they saw it from the kitchen, and
             still thought it was the same hare that kept on running about, and were all eager to be
             out after it.</p>
-            <p>“Well, it is a fine hare”, said the <character who="Squire">Squire</character>; “come let’s see if we can’t lay our hands on it.”</p>
+            <p><dialogue speaker="Squire" subject="Kitchen Folk">“Well, it is a fine hare”</dialogue>, said the <character who="Squire">Squire</character>; <dialogue speaker="Squire">“come let’s see if we can’t lay our hands on it.”</dialogue></p>
             <p>So out he ran, and the rest with him—away they all went, the hare before, and they after; so that
             it was rare fun to see. But meantime <character who="The Youth">the youth</character>
             took the roast and ran off with it; and where the <character who="Squire"
                 >Squire</character> got a roast for his dinner that day I don’t know; but one thing
             I know, and that is, that he had no roast hare, though he ran after it till he was both
             warm and weary.</p>
-            <p>Now it chanced that the Priest came to dinner that day, and when the
+            <p>Now it chanced that the <character who="Priest">Priest</character> came to dinner that day, and when the
                 <character who="Squire">Squire</character> told him what a trick the <character
                 who="Master Thief">Master Thief</character> had played him, he made such game of him
             that there was no end of it.</p>
-            <p>“For my part”, said the Priest, “I can’t think how it could
-            ever happen to me to be made such a fool of by a fellow like that.”</p>
-            <p>“Very well—only keep a sharp look-out”, said the <character who="Squire">Squire</character>; “maybe he’ll
-            come to see you before you know a word of it.” But the Priest stuck to his text—that he
+            <p><dialogue subject="Squire" speaker="Priest">“For my part”</dialogue>, said the <character who="Priest">Priest</character>,<dialogue speaker="Priest" subject="Squire"> “I can’t think how it could
+            ever happen to me to be made such a fool of by a fellow like that.”</dialogue></p>
+            <p><dialogue speaker="Squire" subject="Priest">“Very well—only keep a sharp look-out”</dialogue>, said the <character who="Squire">Squire</character>; <dialogue subject="Priest" speaker="Squire">“maybe he’ll
+            come to see you before you know a word of it.”</dialogue> But the <character who="Priest">Priest</character> stuck to his text—that he
             did, and made game of the <character who="Squire">Squire</character> because he had been
             so taken in.</p>
             <p>Later in the afternoon came the <character who="Master Thief">Master
                 Thief</character>, and wanted to have the <character who="Squire"
             >Squire</character>’s daughter, as he had given his word. But the <character
-                who="Squire">Squire</character> began to talk him over, and said, “Oh, you must
+                who="Squire">Squire</character> began to talk him over, and said, <dialogue speaker="Squire" subject="Master Thief">“Oh, you must
             first prove your skill a little more; for what you did to-day was no great thing, after
-            all. Couldn’t you now play off a good trick on the Priest, who is sitting in there, and
-            making game of me for letting such a fellow as you twist me round his thumb.”</p>
-            <p>“Well, as for that, it wouldn’t be hard”, said the <character who="Master Thief">Master
-                Thief</character>. So he dressed himself up like a bird, threw a great white sheet
-            over his body, took the wings of a goose and tied them to his back, and so climbed up
-            into a great maple which stood in the Priest’s garden. And when the Priest came home in
+            all. Couldn’t you now play off a good trick on the <character who="Priest">Priest</character>, who is sitting in there, and
+            making game of me for letting such a fellow as you twist me round his thumb.”</dialogue></p>
+            <p><dialogue subject="Squire" speaker="Master Thief">“Well, as for that, it wouldn’t be hard”</dialogue>, said the <character who="Master Thief">Master
+                Thief</character>. So he dressed himself up like a bird, <transformation subject="Master Thief" form="Goose">threw a great white sheet
+            over his body, took the wings of a goose and tied them to his back</transformation>, and so climbed up
+            into a great maple which stood in the <character who="Priest">Priest</character>’s garden. And when the <character who="Priest">Priest</character> came home in
             the evening, <character who="The Youth">the youth</character> began to bawl out:</p>
-            <p>“Father Laurence! Father Laurence!”—for that was the Priest’s name.</p>
-            <p>“Who is that calling me?” said the Priest.</p>
-            <p>“I am an angel”, said the Master Thief, “sent from God to let you know
+            <p>“Father Laurence! Father Laurence!”—for that was the <character who="Priest">Priest</character>’s name.</p>
+            <p>“Who is that calling me?” said the <character who="Priest">Priest</character>.</p>
+            <p><transformation subject="Master Thief" form="Angel"><dialogue subject="Priest" speaker="Master Thief">“I am an angel”</dialogue>, said the <character who="Master Thief">Master Thief</character></transformation>, <dialogue speaker="Master Thief" subject="Priest">“sent from God to let you know
             that you shall be taken up alive into heaven for your piety’s sake. Next Monday night
             you must hold yourself ready for the journey, for I shall come then to fetch you in a
             sack; and all your gold and your silver, and all that you have of this world’s goods,
-            you must lay together in a heap in your dining-room.”</p>
-            <p>Well, Father Laurence fell on his knees before the angel, and thanked him; and the very next day he preached a farewell
+            you must lay together in a heap in your dining-room.”</dialogue></p>
+            <p>Well, <character who="Priest">Father Laurence</character> fell on his knees before the angel, and thanked him; and the very next day he preached a farewell
             sermon, and gave it out how there had come down an angel unto the big maple in his
             garden, who had told him that he was to be taken up alive into heaven for his piety’s
             sake; and he preached and made such a touching discourse, that all who were at church
             wept, both young and old.</p>
             <p>So the next Monday night came the <character
-                who="Master Thief">Master Thief</character> like an angel again, and the Priest fell
+                who="Master Thief">Master Thief</character> like an angel again, and the <character who="Priest">Priest</character> fell
             on his knees and thanked him before he was put into the sack; but when he had got him
-            well in, the Master Thief drew and dragged him over stocks and stones.</p>
-            <p>“OW! OW!” groaned the Priest inside the sack, “wherever are we going?”</p>
+            well in, the <character who="Master Thief">Master Thief</character> <action subject="Priest" actor="Master Thief" sign="negative">drew and dragged him over stocks and stones.</action></p>
+            <p><dialogue subject="Master Thief" speaker="Priest">“OW! OW!”</dialogue> groaned the <character who="Priest">Priest</character> inside the sack,<dialogue speaker="Priest" subject="Master Thief"> “wherever are we going?”</dialogue></p>
             <p>“This is the narrow way which leadeth unto the kingdom of heaven”, said the <character who="Master Thief">Master
                 Thief</character>, who went on dragging him along till he had nearly broken every
             bone in his body. At last he tumbled him into a goose-house that belonged to the
                 <character who="Squire">Squire</character>, and the geese began pecking and pinching
             him with their bills, so that he was more dead than alive.</p>
-            <p>“Now you are in the flames of purgatory, to be cleansed and purified for life everlasting”, said the Master Thief; and
-            with that he went his way, and took all the gold which the Priest had laid together in
-            his dining-room. The next morning, when the goose-girl came to let the geese out, she
-            heard how the Priest lay in the sack, and bemoaned himself in the goose-house.</p>
-            <p>“In heaven’s name, who’s there, and what ails you?” she cried.</p>
-            <p>“Oh!” said the Priest, “if you are an angel from heaven, do let me out, and let me return again to earth, for it is
-            worse here than in hell. The little fiends keep on pinching me with tongs.”</p>
-            <p>“Heaven help us, I am no angel at all”, said the girl, as she helped the Priest out of the sack; “I
+            <p><dialogue subject="Priest" speaker="Master Thief">“Now you are in the flames of purgatory, to be cleansed and purified for life everlasting”</dialogue>, said the Master Thief; and
+            with that he went his way, and took all the gold which the <character who="Priest">Priest</character> had laid together in
+            his dining-room. The next morning, when the <character who="Goose Girl">goose-girl</character> came to let the geese out, she
+            heard how the <character who="Priest">Priest</character> lay in the sack, and bemoaned himself in the goose-house.</p>
+            <p><dialogue speaker="Priest" subject="Goose Girl">“In heaven’s name, who’s there, and what ails you?”</dialogue> she cried.</p>
+            <p><dialogue subject="Goose Girl" speaker="Priest">“Oh!”</dialogue> said the <character who="Priest">Priest</character>, <dialogue speaker="Priest" subject="Goose Girl">“if you are an angel from heaven, do let me out, and let me return again to earth, for it is
+            worse here than in hell. The little fiends keep on pinching me with tongs.”</dialogue></p>
+            <p><dialogue subject="Priest" speaker="Goose Girl">“Heaven help us, I am no angel at all”</dialogue>, said the <character who="Goose Girl">girl</character>, as she helped the <character who="Priest">Priest</character> out of the sack; <dialogue subject="">“I
             only look after the <character who="Squire">Squire</character>’s geese, and like enough
-            they are the little fiends which have pinched your reverence.”</p>
-            <p>“Oh!” groaned the Priest, “this is all that <character who="Master Thief">Master Thief</character>’s doing. Ah! my
-            gold and my silver, and my fine clothes.” And he beat his breast, and hobbled home at
+            they are the little fiends which have pinched your reverence."</dialogue></p>
+            <p><dialogue speaker="Priest" subject="Goose Girl">“Oh!”</dialogue> groaned the <character who="Priest">Priest</character>, <dialogue subject="Goose Girl" speaker="Priest">“this is all that <character who="Master Thief">Master Thief</character>’s doing. Ah! my
+            gold and my silver, and my fine clothes.”</dialogue> And he beat his breast, and hobbled home at
             such a rate that the girl thought he had lost his wits all at once.</p>
             <p>Now when the <character who="Squire">Squire</character> came to hear how it had gone with the
-            Priest, and how he had been along the narrow way, and into purgatory, he laughed till he
+            <character who="Priest">Priest</character>, and how he had been along the narrow way, and into purgatory, he laughed till he
             well-nigh split his sides. But when the <character who="Master Thief">Master
                 Thief</character> came and asked for his daughter as he had promised, the <character
                 who="Squire">Squire</character> put him off again, and said:</p>
-            <p>“You must do one masterpiece better still, that I may see plainly what you are fit for. Now, I have
+            <p><dialogue speaker="Squire" subject="Master Thief">“You must do one masterpiece better still, that I may see plainly what you are fit for. Now, I have
             twelve horses in my stable, and on them I will put twelve grooms, one on each. If you
             are so good a thief as to steal the horses from under them, I’ll see what I can do for
-            you.”</p>
-            <p>“Very well, I daresay I can do it”, said the <character who="Master Thief">Master
+            you.”</dialogue></p>
+            <p><dialogue subject="Squire" speaker="Master Thief">“Very well, I daresay I can do it”</dialogue>, said the <character who="Master Thief">Master
                 Thief</character>; “but shall I really have your daughter if I can?”</p>
             <p>“Yes, if you can, I’ll do my best for you”, said the <character who="Squire">Squire</character>. So
             the <character who="Master Thief">Master Thief</character> set off to a shop, and bought
@@ -1318,13 +1318,13 @@
             <p>“Why, I am asking what you have done with the sheet and shift that you had to wipe off the blood”, said she.</p>
             <p>“What, in the Deil’s name!” said the <character who="Squire">Squire</character>, “has he
             taken me in this time too?”</p>
-            <p>Next day came the Master Thief and asked for the <character
+            <p>Next day came the <character who="Master Thief">Master Thief</character> and asked for the <character
                 who="Squire">Squire</character>’s daughter, as he had given his word; and then the
                 <character who="Squire">Squire</character> dared not do anything else than give her
             to him, and a good lump of money into the bargain; for, to tell the truth, he was afraid
             lest the <character who="Master Thief">Master Thief</character> should steal the eyes
             out of his head, and that the people would begin to say spiteful things of him if he
-            broke his word. So the Master Thief lived well and happily from that time forward. I
+            broke his word. So the <character who="Master Thief">Master Thief</character> lived well and happily from that time forward. I
             don’t know whether he stole any more; but if he did, I am quite sure it was only for the
             sake of a bit of fun.</p>
     </body>
