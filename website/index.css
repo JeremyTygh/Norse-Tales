@@ -129,5 +129,32 @@ a:link, a:visited {
 }
 
 span {
-    color: white;
+    color: black;
+}
+
+.infopos {
+  color: white;
+}
+
+.infoneu {
+  color: white;
+}
+
+.infoneg {
+  color: white;
+}
+
+.action {
+  color: white;
+  font-weight: normal;
+}
+
+.desc {
+  color: white;
+  font-style: normal;
+}
+
+.mis {
+  color: white;
+  text-decoration: none;
 }
