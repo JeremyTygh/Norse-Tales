@@ -7,16 +7,25 @@
     
     <!--create variable for sort-->
     <xsl:variable name="spacing" as="xs:double" select="100"/>
-    <xsl:variable name="xAxisLength" as="xs:double"
-        select="count(distinct-values(//descriptor/@subject)) * $spacing + $spacing"/>
-    
-    <xsl:variable name="yAxisLength" as="xs:double"
-        select="count(distinct-values(//descriptor/@speaker)) * $spacing + $spacing"/>
     
     
-    <xsl:template match="/">
-        <svg height="100%" width="100%">
-            <g transform="translate(600, 800)">
+    <xsl:template match = "/">
+        <svg height="10000" width="2000">
+            <xsl:apply-templates select="//story">
+                <xsl:sort select="@number" data-type="number"/>
+            </xsl:apply-templates>
+        </svg>
+    </xsl:template>
+    
+    
+    <xsl:template match="story">
+        <xsl:variable name="xAxisLength" as="xs:double"
+            select="count(distinct-values(descendant::descriptor/@subject)) * $spacing + $spacing"/>
+        
+        <xsl:variable name="yAxisLength" as="xs:double"
+            select="count(distinct-values(descendant::descriptor/@speaker)) * $spacing + $spacing"/>
+        
+        <g transform="translate(600, {position()*500}), scale(.3)">
                 <!--************-->
                 <!--Axes        -->
                 <!--************-->
@@ -30,7 +39,7 @@
                 <!--*****************************-->
                 <!--Labels and Ruling Lines      -->
                 <!--*****************************-->
-                <xsl:for-each select="sort(distinct-values(//descriptor/@subject))">
+            <xsl:for-each select="sort(distinct-values(descendant::descriptor/@subject))">
                     
                     <text x="{$spacing * position()}" y="20" text-anchor="middle">
                         <xsl:value-of select="."/>
@@ -41,7 +50,7 @@
                     
                 </xsl:for-each>
                 
-                <xsl:for-each select="sort(distinct-values(//descriptor/@speaker))">
+            <xsl:for-each select="sort(distinct-values(descendant::descriptor/@speaker))">
                     <text x="-40" y="-{$spacing * position()}" text-anchor="middle">
                         <xsl:value-of select="."/>
                     </text>
@@ -52,7 +61,7 @@
                 </xsl:for-each>
                 
                 <text x="600" y="-725" font-size = "40" text-anchor="middle">
-                    Relationships in Character Descriptors
+                    <xsl:apply-templates select = "title"/>
                 </text>
                 
                 <text x="-110" y="-350" font-size = "35" transform="rotate(-90 -110, -350)" text-anchor="middle">
@@ -84,17 +93,19 @@
                 <!--Circles -->
                 <!--************-->
                 
-                <xsl:for-each-group select="//descriptor" group-by="@subject">
+                <xsl:for-each-group select="descendant::descriptor" group-by="@subject">
                     <xsl:sort select = "current-grouping-key()"/>
                     <xsl:variable name="currentSubject" select="current-grouping-key()"
                         as="xs:string"/>
                     <xsl:variable name="currentSubjectPosition" select="position()" as="xs:integer"/>
                     <!--labels for subject-->
-                    <xsl:for-each select="sort( distinct-values(//descriptor/@speaker) )">
+                    =
+                    <xsl:for-each select="sort( distinct-values(descendant::descriptor/@speaker) )">
                         <xsl:variable name="currentSpeaker" select="."
                             as="xs:string"/>
                         <xsl:variable name="currentSpeakerPosition" select="position()"
                             as="xs:integer"/>
+                        
                         <xsl:if test="$currentSubjectPosition = 1">
                             <!-- labels for speaker-->
                         </xsl:if>
@@ -139,7 +150,7 @@
                 
                 
             </g>
-        </svg>
+        
     </xsl:template>
     
     

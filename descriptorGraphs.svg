@@ -1,0 +1,1412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="10000" width="2000">
+   <g transform="translate(600, 500), scale(.3)">
+      <line x1="0"
+            x2="400"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Boots and Brothers</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="200" y="20" text-anchor="middle">Father</text>
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="300" y="20" text-anchor="middle">property</text>
+      <line x1="300"
+            x2="300"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Narrator</text>
+      <line x1="0"
+            x2="400"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">BOOTS AND HIS BROTHERS</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 1000), scale(.3)">
+      <line x1="0"
+            x2="600"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Boots</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="200" y="20" text-anchor="middle">Elder Brothers</text>
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="300" y="20" text-anchor="middle">King</text>
+      <line x1="300"
+            x2="300"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="400" y="20" text-anchor="middle">Troll</text>
+      <line x1="400"
+            x2="400"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="500" y="20" text-anchor="middle">the family</text>
+      <line x1="500"
+            x2="500"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Narrator</text>
+      <line x1="0"
+            x2="600"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">BOOTS AND THE TROLL</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 1500), scale(.3)">
+      <line x1="0"
+            x2="200"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Father</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Narrator</text>
+      <line x1="0"
+            x2="200"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">BOOTS WHO ATE A MATCH WITH THE TROLL</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 2000), scale(.3)">
+      <line x1="0"
+            x2="200"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Princess</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Narrator</text>
+      <line x1="0"
+            x2="200"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">BOOTS, WHO MADE THE PRINCESS SAY, “THAT’S A STORY”</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 2500), scale(.3)">
+      <line x1="0"
+            x2="1200"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">North Wind</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="200" y="20" text-anchor="middle">Prince</text>
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="300" y="20" text-anchor="middle">Princess</text>
+      <line x1="300"
+            x2="300"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="400" y="20" text-anchor="middle">Trolls</text>
+      <line x1="400"
+            x2="400"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="500" y="20" text-anchor="middle">West Wind</text>
+      <line x1="500"
+            x2="500"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="20" text-anchor="middle">White Bear</text>
+      <line x1="600"
+            x2="600"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="700" y="20" text-anchor="middle">daughter</text>
+      <line x1="700"
+            x2="700"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="800" y="20" text-anchor="middle">family</text>
+      <line x1="800"
+            x2="800"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="900" y="20" text-anchor="middle">father</text>
+      <line x1="900"
+            x2="900"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1000" y="20" text-anchor="middle">father and mother</text>
+      <line x1="1000"
+            x2="1000"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1100" y="20" text-anchor="middle">step mother</text>
+      <line x1="1100"
+            x2="1100"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">East Wind</text>
+      <line x1="0"
+            x2="1200"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-200" text-anchor="middle">Prince</text>
+      <line x1="0"
+            x2="1200"
+            y1="-200"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-300" text-anchor="middle">South Wind</text>
+      <line x1="0"
+            x2="1200"
+            y1="-300"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-400" text-anchor="middle">daughter</text>
+      <line x1="0"
+            x2="1200"
+            y1="-400"
+            y2="-400"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-500" text-anchor="middle">father</text>
+      <line x1="0"
+            x2="1200"
+            y1="-500"
+            y2="-500"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-600" text-anchor="middle">narrator</text>
+      <line x1="0"
+            x2="1200"
+            y1="-600"
+            y2="-600"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">EAST O’ THE SUN AND WEST O’ THE MOON</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 3000), scale(.3)">
+      <line x1="0"
+            x2="300"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Boots</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="200" y="20" text-anchor="middle">Princess</text>
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Princess</text>
+      <line x1="0"
+            x2="300"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-200" text-anchor="middle">narrator</text>
+      <line x1="0"
+            x2="300"
+            y1="-200"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">TAMING THE SHREW</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 3500), scale(.3)">
+      <line x1="0"
+            x2="2000"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Christmas eve</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="200" y="20" text-anchor="middle">King Queen</text>
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="300" y="20" text-anchor="middle">Prince</text>
+      <line x1="300"
+            x2="300"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="400" y="20" text-anchor="middle">Queen</text>
+      <line x1="400"
+            x2="400"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="500" y="20" text-anchor="middle">Tatterhood</text>
+      <line x1="500"
+            x2="500"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="20" text-anchor="middle">Tatterhood Prince</text>
+      <line x1="600"
+            x2="600"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="700" y="20" text-anchor="middle">Tatterhood and younger twin</text>
+      <line x1="700"
+            x2="700"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="800" y="20" text-anchor="middle">beggar wife's daughter</text>
+      <line x1="800"
+            x2="800"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="900" y="20" text-anchor="middle">flowers</text>
+      <line x1="900"
+            x2="900"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1000" y="20" text-anchor="middle">foreign king</text>
+      <line x1="1000"
+            x2="1000"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1100" y="20" text-anchor="middle">foreign king and younger twin</text>
+      <line x1="1100"
+            x2="1100"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1200" y="20" text-anchor="middle">goat</text>
+      <line x1="1200"
+            x2="1200"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1300" y="20" text-anchor="middle">hood</text>
+      <line x1="1300"
+            x2="1300"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1400" y="20" text-anchor="middle">palace</text>
+      <line x1="1400"
+            x2="1400"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1500" y="20" text-anchor="middle">pretty flower</text>
+      <line x1="1500"
+            x2="1500"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1600" y="20" text-anchor="middle">ugly flower</text>
+      <line x1="1600"
+            x2="1600"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1700" y="20" text-anchor="middle">wand</text>
+      <line x1="1700"
+            x2="1700"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1800" y="20" text-anchor="middle">younger twin</text>
+      <line x1="1800"
+            x2="1800"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1900" y="20" text-anchor="middle">younger twin and Tatterhood</text>
+      <line x1="1900"
+            x2="1900"
+            y1="0"
+            y2="-800"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Narrator</text>
+      <line x1="0"
+            x2="2000"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-200" text-anchor="middle">Prince</text>
+      <line x1="0"
+            x2="2000"
+            y1="-200"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-300" text-anchor="middle">Queen</text>
+      <line x1="0"
+            x2="2000"
+            y1="-300"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-400" text-anchor="middle">foreign king</text>
+      <line x1="0"
+            x2="2000"
+            y1="-400"
+            y2="-400"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-500" text-anchor="middle">foreign king's men</text>
+      <line x1="0"
+            x2="2000"
+            y1="-500"
+            y2="-500"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-600" text-anchor="middle">narrator</text>
+      <line x1="0"
+            x2="2000"
+            y1="-600"
+            y2="-600"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-700" text-anchor="middle">old beggar wife</text>
+      <line x1="0"
+            x2="2000"
+            y1="-700"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">TATTERHOOD</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+      <circle cx="100"
+              cy="-100"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black"/>
+   </g>
+   <g transform="translate(600, 4000), scale(.3)">
+      <line x1="0"
+            x2="200"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Fox's earth</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Fox</text>
+      <line x1="0"
+            x2="200"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">THE COCK AND HEN THAT WENT TO THE DOVREFELL</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 4500), scale(.3)">
+      <line x1="0"
+            x2="200"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">fox</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">narrator</text>
+      <line x1="0"
+            x2="200"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">THE FOX AS HERDSMAN</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 5000), scale(.3)">
+      <line x1="0"
+            x2="1200"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Boots</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="200" y="20" text-anchor="middle">Boots, Princess, princes, and princess</text>
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="300" y="20" text-anchor="middle">Giant</text>
+      <line x1="300"
+            x2="300"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="400" y="20" text-anchor="middle">Giant's House</text>
+      <line x1="400"
+            x2="400"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="500" y="20" text-anchor="middle">King</text>
+      <line x1="500"
+            x2="500"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="20" text-anchor="middle">Princess</text>
+      <line x1="600"
+            x2="600"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="700" y="20" text-anchor="middle">Raven</text>
+      <line x1="700"
+            x2="700"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="800" y="20" text-anchor="middle">Salmon</text>
+      <line x1="800"
+            x2="800"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="900" y="20" text-anchor="middle">Wolf</text>
+      <line x1="900"
+            x2="900"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1000" y="20" text-anchor="middle">key</text>
+      <line x1="1000"
+            x2="1000"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="1100" y="20" text-anchor="middle">princes</text>
+      <line x1="1100"
+            x2="1100"
+            y1="0"
+            y2="-700"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Boots</text>
+      <line x1="0"
+            x2="1200"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-200" text-anchor="middle">Giant</text>
+      <line x1="0"
+            x2="1200"
+            y1="-200"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-300" text-anchor="middle">King</text>
+      <line x1="0"
+            x2="1200"
+            y1="-300"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-400" text-anchor="middle">Narrator</text>
+      <line x1="0"
+            x2="1200"
+            y1="-400"
+            y2="-400"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-500" text-anchor="middle">Wolf</text>
+      <line x1="0"
+            x2="1200"
+            y1="-500"
+            y2="-500"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-600" text-anchor="middle">narrator</text>
+      <line x1="0"
+            x2="1200"
+            y1="-600"
+            y2="-600"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">THE GIANT WHO HAD NO HEART IN HIS BODY</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 5500), scale(.3)">
+      <line x1="0"
+            x2="500"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">North Wind</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="200" y="20" text-anchor="middle">lad</text>
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="300" y="20" text-anchor="middle">landlord</text>
+      <line x1="300"
+            x2="300"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="400" y="20" text-anchor="middle">mother</text>
+      <line x1="400"
+            x2="400"
+            y1="0"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">lad</text>
+      <line x1="0"
+            x2="500"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-200" text-anchor="middle">narrator</text>
+      <line x1="0"
+            x2="500"
+            y1="-200"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">THE LAD WHO WENT TO THE NORTH WIND</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 6000), scale(.3)">
+      <line x1="0"
+            x2="400"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-400"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Rancher</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-400"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="200" y="20" text-anchor="middle">Rancher's Wife</text>
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-400"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="300" y="20" text-anchor="middle">The Youth</text>
+      <line x1="300"
+            x2="300"
+            y1="0"
+            y2="-400"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Narrator</text>
+      <line x1="0"
+            x2="400"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-200" text-anchor="middle">Old Dame</text>
+      <line x1="0"
+            x2="400"
+            y1="-200"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-300" text-anchor="middle">Self</text>
+      <line x1="0"
+            x2="400"
+            y1="-300"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">THE MASTER THIEF</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+   <g transform="translate(600, 6500), scale(.3)">
+      <line x1="0"
+            x2="300"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-400"
+            stroke="black"
+            stroke-width="1"
+            stroke-linecap="square"/>
+      <text x="100" y="20" text-anchor="middle">Poor Brother</text>
+      <line x1="100"
+            x2="100"
+            y1="0"
+            y2="-400"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="200" y="20" text-anchor="middle">Rich Brother</text>
+      <line x1="200"
+            x2="200"
+            y1="0"
+            y2="-400"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-100" text-anchor="middle">Narrartor</text>
+      <line x1="0"
+            x2="300"
+            y1="-100"
+            y2="-100"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-200" text-anchor="middle">Narrator</text>
+      <line x1="0"
+            x2="300"
+            y1="-200"
+            y2="-200"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="-40" y="-300" text-anchor="middle">Rich Brother</text>
+      <line x1="0"
+            x2="300"
+            y1="-300"
+            y2="-300"
+            stroke="black"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <text x="600" y="-725" font-size="40" text-anchor="middle">WHY THE SEA IS SALT</text>
+      <text x="-110"
+            y="-350"
+            font-size="35"
+            transform="rotate(-90 -110, -350)"
+            text-anchor="middle">
+                    Speakers
+                </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle">
+                    Subjects
+                </text>
+      <rect x="0"
+            y="160"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="#3E6E63"
+            stroke="black"/>
+      <rect x="0"
+            y="220"
+            width="30"
+            height="30"
+            fill-opacity="0.7"
+            fill="red"
+            stroke="black"/>
+      <text x="110" y="185" font-size="35" text-anchor="middle">
+                    Positive
+                </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle">
+                    Negative
+                </text>
+   </g>
+</svg>
