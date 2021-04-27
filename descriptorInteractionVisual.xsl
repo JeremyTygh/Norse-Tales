@@ -137,7 +137,7 @@
                         <circle cx="{$spacing * $currentSubjectPosition}"
                         cy="-{$spacing * $currentSpeakerPosition}" r="{$radius * 20}"
                         fill="{$barColor}" fill-opacity=".7" stroke="black">
-                        <title><xsl:value-of select = "string-join(($currentSubject, $currentSpeaker, $positive, $negative), ':')"/></title>
+                        <!--<title><xsl:value-of select = "string-join(($currentSubject, $currentSpeaker, $positive, $negative), ':')"/></title>-->
                     </circle>
                     
                   
