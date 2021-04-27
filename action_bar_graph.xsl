@@ -8,9 +8,9 @@
     <xsl:variable name="xscale" as="xs:integer" select="10"/>
     
     <xsl:template match="/">
-        <svg height="5200" width="600">
-            <text x="272" y="50" text-anchor="middle" writing-mode="lr" font-weight="bold" font-size="20"> The Type of Actions Done by a Character in Norse-Tales</text>
-            <line x1="-50" x2="550" y1="60" y2="60" stroke="black" stroke-width="2"/>
+        <svg height="5200" width="700">
+            <text x="350" y="50" text-anchor="middle" writing-mode="lr" font-weight="bold" font-size="20"> The Type of Actions Done by a Character in Norse-Tales</text>
+            <line x1="-20" x2="700" y1="60" y2="60" stroke="black" stroke-width="2"/>
             <xsl:apply-templates select="//story">
                 <xsl:sort select="@number" data-type="number"/>
             </xsl:apply-templates>
@@ -18,7 +18,7 @@
     </xsl:template>
     <xsl:template match="story">
         <xsl:variable name="actor_count" as="xs:integer" select="count(distinct-values(descendant::action/@actor))"/>
-        <g transform="translate(150,{(position()*400)-250})">
+        <g transform="translate(180,{(position()*400)-250})" class="{@number}">
             <!-- Title -->
             <text x="100" y="-40" text-anchor="middle" writing-mode="lr" font-weight="bold" font-size="15"><xsl:apply-templates select="title"/></text>
             <!-- Labeled Axes -->
@@ -97,26 +97,36 @@
             <xsl:for-each-group select="descendant::action" group-by="@actor">
                 <xsl:variable name="pos_count" as="xs:integer" select="count(current-group()/@sign[.='positive'])"/>
                 <xsl:variable name="neg_count" as="xs:integer" select="count(current-group()/@sign[.='negative'])"/>
-                <xsl:variable name="xPosition" as="xs:integer" select="position()-1"/>
+                <xsl:variable name="yPosition" as="xs:integer" select="position()-1"/>
                 <xsl:variable name="neu_count" as="xs:integer" select="count(current-group()/@sign[.='neutral'])"/>
                 
                 <!-- Negaitive rec -->
-                <rect x="{-$neg_count*$xscale}" width="{$neg_count*$xscale}" y="{$xPosition*$yscale}" height="20" stroke-width="2"/>
+                <rect x="{-$neg_count*$xscale}" width="{$neg_count*$xscale}" y="{$yPosition*$yscale}" height="20" fill="pink" stroke-width="2" stroke="deeppink" opacity="0.6"/>
                 
                 <!-- Positive rec (down)-->
-                <rect x="0" width="{$pos_count*$xscale}" y="{$xPosition*$yscale}" height="20" fill="blue" stroke-width="2" stroke="blue"></rect>
+                <rect x="0" width="{$pos_count*$xscale}" y="{$yPosition*$yscale}" height="20" fill="skyblue" stroke-width="2" stroke="blue" opacity="0.6"/>
                 
                 <!-- Label and Label Lines -->
-                <text x="250" y="{$xPosition*$yscale +15}" text-anchor="start" writing-mode="lr" font-size="12"><xsl:apply-templates select="distinct-values(current-group()/@actor)"/></text>
-                <line x1="-125" x2="350" y1="{$xPosition*$yscale +25}" y2="{$xPosition*$yscale +25}" stroke="lightgray" stroke-dasharray="8 4"/>
+                <text x="250" y="{$yPosition*$yscale +15}" text-anchor="start" writing-mode="lr" font-size="12"><xsl:apply-templates select="distinct-values(current-group()/@actor)"/></text>
+                <line x1="-125" x2="350" y1="{$yPosition*$yscale +25}" y2="{$yPosition*$yscale +25}" stroke="lightgray" stroke-dasharray="8 4"/>
                 
                 <!-- Neutral rec -->
-                <rect x="{$pos_count*$xscale}" width="{$neu_count*$xscale}" y="{$xPosition*$yscale}" height="20" fill="purple" opacity="0.4" stroke="green" stroke-width="2"></rect>
+                <rect x="{$pos_count*$xscale}" width="{$neu_count*$xscale}" y="{$yPosition*$yscale}" height="20" fill="gold" opacity="0.6" stroke-width="2" stroke="darkorange"></rect>
                 
                 <!-- Axes -->
                 <line x1="-125" x2="350" y1="0" y2="0" stroke="black" stroke-width="2" stroke-linecap="square"/>
-                <line x1="0" x2="0" y1="0" y2="{$actor_count*$yscale}" stroke="red" stroke-width="2" stroke-linecap="square"/>
+                <line x1="0" x2="0" y1="0" y2="{$actor_count*$yscale}" stroke="black" stroke-width="2" stroke-linecap="square"/>
                 
+                <!-- Key -->
+                <rect x="375" width="125" y="0" height="100" fill="white" stroke="black" stroke-width="1"></rect>
+                <text x="390" y="25" text-anchor="start" writing-mode="lr" font-size="20" font-weight="bold">Key</text>
+                <line x1="390" x2="425" y1="27.5" y2="27.5" stroke="black" stroke-width="2"/>
+                <rect x="400" width="12.5" y="37.5" height="12.5" fill="pink" stroke-width="2" stroke="deeppink" opacity="0.6"/>
+                <text x="420" y="49" text-anchor="start" writing-mode="lr" font-size="15">Negative</text>
+                <rect x="400" width="12.5" y="37.5" height="12.5" fill="skyblue" stroke-width="2" stroke="blue" transform="translate(0, 20)" opacity="0.6"/>
+                <text x="420" y="49" text-anchor="start" writing-mode="lr" font-size="15" transform="translate(0,20)">Positive</text>
+                <rect x="400" width="12.5" y="37.5" height="12.5" fill="gold" stroke-width="2" stroke="darkorange" transform="translate(0, 40)" opacity="0.6"/>
+                <text x="420" y="49" text-anchor="start" writing-mode="lr" font-size="15" transform="translate(0,40)">Neutral</text>
                 
             </xsl:for-each-group>
         </g>
