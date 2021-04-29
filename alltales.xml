@@ -1333,7 +1333,7 @@
     <story number="8">
         <title>THE COCK AND HEN THAT WENT TO THE DOVREFELL</title>
         <body>
-            <p>Once on a time there was a <character>Hen</character> that had <action actor="Hen"
+            <p>Once on a time there was a <character who = "Hen">Hen</character> that had <action actor="Hen"
                 subject="environment" sign="positive">flown</action> up, and <action actor="Hen"
                     subject="oak-tree" sign="positive">perched</action> on an oak-tree for the night.
                 When the night came, she <action actor="Hen" subject="self" sign="positive"
@@ -1341,77 +1341,77 @@
                 end. So that very minute she <action actor="Hen" subject="environment" sign="positive"
                     >jumped</action> down, and <action actor="Hen" subject="self" sign="positive">set
                         out on her way</action>. When she had walked a bit she met a
-                <character>Cock</character>.</p>
+                <character who = "Cock">Cock</character>.</p>
             <p><dialogue speaker="Hen" subject="Cock">"Good day,
-                <character>Cocky-Locky</character>"</dialogue>, said the Hen. <dialogue
+                <character who = "Cock">Cocky-Locky</character>"</dialogue>, said the Hen. <dialogue
                     speaker="Cock" subject="Hen">"Good day,
-                    <character>Henny-Penny</character>"</dialogue>, said the Cock, <dialogue speaker="Cock"
+                    <character who = "Hen">Henny-Penny</character>"</dialogue>, said the Cock, <dialogue speaker="Cock"
                         subject="Hen">"whither away so early."</dialogue>
                 <dialogue speaker="Hen" subject="Cock">"Oh, I’m going to the Dovrefell, that the world
                     mayn’t come to an end"</dialogue>, said the Hen. <dialogue speaker="Cock"
-                        subject="Hen">"Who told you that, <character>Henny-Penny</character>"</dialogue>, said
+                        subject="Hen">"Who told you that, <character who = "Hen">Henny-Penny</character>"</dialogue>, said
                 the Cock. <dialogue speaker="Hen" subject="Cock">"I <action actor="Hen" subject="self"
                     sign="positive">sat</action> in the oak and <action actor="Hen" subject="self"
                         sign="positive">dreamt</action> it last night"</dialogue>, said the Hen.
                 <dialogue speaker="Cock" subject="Hen">"I’ll go with you"</dialogue>, said the Cock.
-                Well! they walked on a good bit, and then they met a <character>Duck</character>.
+                Well! they walked on a good bit, and then they met a <character who = "Duck">Duck</character>.
                 <dialogue speaker="Cock" subject="Duck">"Good day,
-                    <character>Ducky-Lucky</character>"</dialogue>, said the Cock. <dialogue
+                    <character who = "Duck">Ducky-Lucky</character>"</dialogue>, said the Cock. <dialogue
                         speaker="Duck" subject="Cock">"Good day,
-                        <character>Cocky-Locky</character>"</dialogue>, said the Duck, <dialogue
+                        <character who = "Cock">Cocky-Locky</character>"</dialogue>, said the Duck, <dialogue
                             speaker="Duck" subject="Cock">"whither away so early?"</dialogue>
                 <dialogue speaker="Cock" subject="Duck">"Oh, I’m going to the Dovrefell, that the world
                     mayn’t come to an end"</dialogue>, said the Cock. <dialogue speaker="Duck"
-                        subject="Cock">"Who told you that, <character>Cocky-Locky</character>?"</dialogue>
+                        subject="Cock">"Who told you that, <character who = "Cock">Cocky-Locky</character>?"</dialogue>
                 <dialogue speaker="Cock" subject="Duck">"Henny-Penny"</dialogue>, said the Cock. <dialogue
                     speaker="Duck" subject="Hen">"Who told you that,
-                    <character>Henny-Penny</character>?"</dialogue> said the Duck. <dialogue
+                    <character who = "Hen">Henny-Penny</character>?"</dialogue> said the Duck. <dialogue
                         speaker="Hen" subject="Duck">"I <action actor="Hen" subject="self" sign="positive"
                             >sat</action> in the oak and <action actor="Hen" subject="self" sign="positive"
                                 >dreamt</action> it last night"</dialogue>, said the Hen. <dialogue
                                     speaker="Duck" subject="Hen">"I’ll go with you"</dialogue>, said the Duck. So they
-                went off together, and after a bit they met a <character>Goose</character>. <dialogue
+                went off together, and after a bit they met a <character who = "Goose">Goose</character>. <dialogue
                     speaker="Duck" subject="Goose">"Good day,
-                    <character>Goosey-Poosey</character>"</dialogue>”, said the Duck. <dialogue
+                    <character who = "Goose">Goosey-Poosey</character>"</dialogue>”, said the Duck. <dialogue
                         speaker="Goose" subject="Duck">"Good day,
-                        <character>Ducky-Lucky</character>"</dialogue>, said the Goose, <dialogue
+                        <character who = "Duck">Ducky-Lucky</character>"</dialogue>, said the Goose, <dialogue
                             speaker="Goose" subject="Duck">"whither away so early?"</dialogue>
                 <dialogue speaker="Duck" subject="Goose">"I’m going to the Dovrefell, that the world
                     mayn’t come to an end"</dialogue>, said the Duck. <dialogue speaker="Goose"
-                        subject="Duck">"Who told you that, <character>Ducky-Lucky</character>?"</dialogue>
+                        subject="Duck">"Who told you that, <character who = "Duck">Ducky-Lucky</character>?"</dialogue>
                 asked the Goose. <dialogue speaker="Duck" subject="Goose"
-                    >"<character>Cocky-Locky.</character>"</dialogue>
+                    >"<character who = "Cock">Cocky-Locky.</character>"</dialogue>
                 <dialogue speaker="Goose" subject="Cock">"Who told you that,
-                    <character>Cocky-Locky</character>?"</dialogue>
-                <dialogue speaker="Cock" subject="Goose">"<character>Henny-Penny</character>."</dialogue>”
+                    <character who = "Cock">Cocky-Locky</character>?"</dialogue>
+                <dialogue speaker="Cock" subject="Goose">"<character who = "Hen">Henny-Penny</character>."</dialogue>”
                 <dialogue speaker="Goose" subject="Hen">"How you do know that,
-                    <character>Henny-Penny</character>?"</dialogue> said the Goose. <dialogue
+                    <character who = "Hen">Henny-Penny</character>?"</dialogue> said the Goose. <dialogue
                         speaker="Hen" subject="Goose">"I <action actor="Hen" subject="self" sign = "positive">sat</action> in
                         the oak and <action actor="Hen" subject="self" sign="positive">dreamt</action> it
-                        last night, <character>Goosey-Poosey</character>"</dialogue>, said the Hen. <dialogue
+                        last night, <character who = "Goose">Goosey-Poosey</character>"</dialogue>, said the Hen. <dialogue
                             speaker="Goose" subject="Hen">"I’ll go with you"</dialogue>, said the Goose. Now when
-                they had all walked along for a bit, a <character>Fox</character> met them. <dialogue
+                they had all walked along for a bit, a <character who = "Fox">Fox</character> met them. <dialogue
                     speaker="Goose" subject="Fox">"Good day,
-                    <character>Foxsy-Cocksy</character>"</dialogue>, said the Goose. <dialogue
+                    <character who = "Fox">Foxsy-Cocksy</character>"</dialogue>, said the Goose. <dialogue
                         speaker="Fox" subject="Goose">"Good day,
-                        <character>Goosey-Poosey</character>."</dialogue>
+                        <character who = "Goose">Goosey-Poosey</character>."</dialogue>
                 <dialogue speaker="Goose" subject="Fox">"Whither away,
-                    <character>Foxy-Cocksy</character>?"</dialogue>
+                    <character who = "Fox">Foxy-Cocksy</character>?"</dialogue>
                 <dialogue speaker="Fox" subject="Goose">"Whither away yourself,
-                    <character>Goosey-Poosey</character>?"</dialogue>
+                    <character who = "Goose">Goosey-Poosey</character>?"</dialogue>
                 <dialogue speaker="Goose" subject="Fox">"I’m going to the Dovrefell that the world mayn’t
                     come to an end"</dialogue>, said the Goose. <dialogue speaker="Fox" subject="Goose"
-                        >"Who told you that, <character>Goosey-Poosey</character>?"</dialogue> asked the Fox.
+                        >"Who told you that, <character who = "Goose">Goosey-Poosey</character>?"</dialogue> asked the Fox.
                 <dialogue speaker="Goose" subject="Fox"
-                    >"<character>Ducky-Lucky</character>."</dialogue>
+                    >"<character who = "Duck">Ducky-Lucky</character>."</dialogue>
                 <dialogue speaker="Fox" subject="Duck">"Who told you that,
-                    <character>Ducky-Lucky</character>?"</dialogue>
-                <dialogue speaker="Duck" subject="Fox">"<character>Cocky-Locky</character>."</dialogue>
+                    <character who = "Duck">Ducky-Lucky</character>?"</dialogue>
+                <dialogue speaker="Duck" subject="Fox">"<character who = "Cock">Cocky-Locky</character>."</dialogue>
                 <dialogue speaker="Fox" subject="Cock">"Who told you that,
-                    <character>Cocky-Locky</character>?"</dialogue>
-                <dialogue speaker="Cock" subject="Fox">"<character>Henny-Penny</character>."</dialogue>
+                    <character who = "Cock">Cocky-Locky</character>?"</dialogue>
+                <dialogue speaker="Cock" subject="Fox">"<character who = "Hen">Henny-Penny</character>."</dialogue>
                 <dialogue speaker="Fox" subject="Hen">"How do you know that,
-                    <character>Henny-Penny</character>?"</dialogue>
+                    <character who = "Hen">Henny-Penny</character>?"</dialogue>
                 <dialogue speaker="Hen" subject="Fox">"I <action actor="Hen" subject="self" sign = "positive">sat</action>
                     in the oak and <action actor="Hen" subject="self" sign = "positive">dreamt</action> last night, that
                     if we don’t get to the Dovrefell, the world will come to an end"</dialogue>, said the
@@ -1422,51 +1422,51 @@
                     <descriptor speaker="Fox" subject="Fox's earth" sign="positive"
                         >warm</descriptor> and <descriptor speaker="Fox" subject="Fox's earth"
                             sign="positive">jolly</descriptor> there."</dialogue></p>
-            <p>Well, they went home with the <character>Fox</character> to his earth, and when they got
-                in, the <character>Fox</character>
+            <p>Well, they went home with the <character who = "Fox">Fox</character> to his earth, and when they got
+                in, the <character who = "Fox">Fox</character>
                 <action actor="Fox" subject="fuel" sign="negative">laid</action> on lots of fuel, so
                 that they all got very sleepy.</p>
-            <p>The <character>Duck</character> and the <character>Goose</character>, they <action
+            <p>The <character who = "Duck">Duck</character> and the <character who = "Goose">Goose</character>, they <action
                 actor="Duck" subject="self" sign="positive">settled</action> themselves down in a
-                corner, but the <character>Cock</character> and <character>Hen</character>
+                corner, but the <character who = "Cock">Cock</character> and <character who = "Hen">Hen</character>
                 <action actor="Hen" subject="self" sign="positive">flew</action> up on a post. So when
-                the <character>Goose</character> and <character>Duck</character> were well asleep, the
-                <character>Fox</character>, <action actor="Fox" subject="Goose" sign="negative"
-                    >took</action> the <character>Goose</character> and laid him on the embers, and
+                the <character who = "Goose">Goose</character> and <character who = "Duck">Duck</character> were well asleep, the
+                <character who = "Fox">Fox</character>, <action actor="Fox" subject="Goose" sign="negative"
+                    >took</action> the <character who = "Goose">Goose</character> and laid him on the embers, and
                 <action actor="Fox" subject="Goose" sign="negative">roasted</action> him. The
-                <character>Hen</character>
+                <character who = "Hen">Hen</character>
                 <action actor="Hen" subject="roast" sign="positive">smelt</action> the strong roast
                 meat, and <action actor="Hen" subject="self" sign="positive">sprang</action> up to a
                 higher peg, and said, half asleep: <dialogue speaker="Hen" subject="self">"Faugh, what a
                     nasty smell! What a nasty smell!"</dialogue></p>
             <p><dialogue speaker="Fox" subject="Hen">"Oh, stuff"</dialogue>, said the Fox; <dialogue
                 speaker="Fox" subject="Hen">"it’s only the smoke driven down the chimney; go to sleep
-                again, and hold your tongue."</dialogue> So the <character>Hen</character> went off
+                again, and hold your tongue."</dialogue> So the <character who = "Hen">Hen</character> went off
                 to sleep again.</p>
-            <p>Now the <character>Fox</character> had hardly got the <character>Goose</character> well
-                down his throat, before he did the very same with the <character>Duck</character>. He
+            <p>Now the <character who = "Fox">Fox</character> had hardly got the <character who = "Goose">Goose</character> well
+                down his throat, before he did the very same with the <character who = "Duck">Duck</character>. He
                 took and laid him on the embers, and <action actor="Fox" subject="Duck" sign="negative"
-                    >roasted</action> him for a dainty bit. Then the <character>hen</character> woke up
+                    >roasted</action> him for a dainty bit. Then the <character who = "Hen">hen</character> woke up
                 again, and <action actor="Hen" subject="self" sign="positive">sprung</action> up to a
                 higher peg still. <dialogue speaker="Hen" subject="self">"Faugh, what a nasty smell! What
                     a nasty smell!"</dialogue></p>
             <p>She said again, and then she got her eyes open, and came to see how the
-                <character>Fox</character> had <action actor="Fox" subject="birds" sign="negative"
-                    >eaten</action> both the twain, <character>goose</character> and
-                <character>duck</character>; so she <action actor="Hen" subject="self"
+                <character who = "Fox">Fox</character> had <action actor="Fox" subject="birds" sign="negative"
+                    >eaten</action> both the twain, <character who = "Goose">goose</character> and
+                <character who = "Duck">duck</character>; so she <action actor="Hen" subject="self"
                     sign="positive">flew</action> up to the highest peg of all, and perched there, and
                 <action actor="Hen" subject="chimney" sign="positive">peeped</action> up through the
                 chimney.</p>
             <p><dialogue speaker="Hen" subject="Fox">"Nay, nay; just see what a lovely lot of geese
                 flying yonder"</dialogue>, she said to the Fox.</p>
-            <p>Out ran <character>Reynard</character> to <action actor="Fox" subject="geese"
+            <p>Out ran <character who = "Reynard">Reynard</character> to <action actor="Fox" subject="geese"
                 sign="negative">fetch</action> a fat roast. But while he was gone, the
-                <character>Hen</character>
+                <character who = "Hen">Hen</character>
                 <action actor="Hen" subject="Cock" sign="positive">woke up</action> the
-                <character>Cock</character>, and <action actor="Hen" subject="Fox" sign="positive"
-                    >told</action> him how it had gone with <character>Goosey-Poosey</character> and
-                <character>Ducky-Lucky</character>; and so <character>Cocky-Lucky</character> and
-                <character>Henny-Penny</character>
+                <character who = "Cock">Cock</character>, and <action actor="Hen" subject="Fox" sign="positive"
+                    >told</action> him how it had gone with <character who = "Goose">Goosey-Poosey</character> and
+                <character who = "Duck">Ducky-Lucky</character>; and so <character who = "Cock">Cocky-Lucky</character> and
+                <character who = "Hen">Henny-Penny</character>
                 <action actor="Hen" subject="self" sign="positive">flew</action> out through the
                 chimney, and if they hadn’t got to the Dovrefell, it surely would have been all over
                 with the world.</p>
@@ -1477,30 +1477,30 @@
     put n/a in subject attribute if it something like snore-->
         <title>THE LAD WHO WENT TO THE NORTH WIND</title>
         <body>
-            <p>Once on a time there was an <character>old widow</character> who had one
-                <character>son</character>; and as she was <descriptor speaker="Narrator"
+            <p>Once on a time there was an <character who = "Old Widow">old widow</character> who had one
+                <character who = "Son">son</character>; and as she was <descriptor speaker="Narrator"
                     subject="mother" sign="negative">poorly</descriptor> and <descriptor
                         speaker="Narrator" subject="mother" sign="negative">weak</descriptor>, her son had
                 to go up into the safe to fetch meal for cooking; but when he got outside the safe, and
-                was just going down the steps, there came the <character>North Wind</character>, <action
+                was just going down the steps, there came the <character who = "North Wind">North Wind</character>, <action
                     actor="North Wind" subject="meal" sign="negative">puffing</action> and <action
                         actor="North Wind" subject="meal" sign="negative">blowing</action>, caught up the
                 meal, and so away with it through the air. Then the lad went back into the safe for
-                more; but when he came out again on the steps, if the <character>North Wind</character>
+                more; but when he came out again on the steps, if the <character who = "North Wind">North Wind</character>
                 didn’t come again and carry off the meal with a <action actor="North Wind"
                     subject="meal" sign="negative">puff</action>; and, more than that, he did so the
                 third time. At this the lad got very <descriptor speaker="Narrator" subject="lad"
                     sign="negative">angry</descriptor>; and as he thought it hard that the
-                <character>North Wind</character> should behave so, he thought he’d just look him
+                <character who = "North Wind">North Wind</character> should behave so, he thought he’d just look him
                 up, and ask him to give up his meal.</p>
             <p>So off he went, but the way was long, and he <action actor="son" subject="environment"
                 sign="positive">walked</action> and walked; but at last he came to the
-                <character>North Wind</character>’s house.</p>
+                <character who = "North Wind">North Wind</character>’s house.</p>
             <p><dialogue speaker="lad" subject="North Wind">"Good day!"</dialogue> said the lad, <dialogue
                 speaker="lad" subject="North Wind">and thank you for coming to see us
                 yesterday.</dialogue></p>
             <p><dialogue speaker="North Wind" subject="son">"GOOD DAY!"</dialogue> answered the
-                <character>North Wind</character>, for his voice was <descriptor speaker="Narrator"
+                <character who = "North Wind">North Wind</character>, for his voice was <descriptor speaker="Narrator"
                     subject="North Wind" sign = "negative">loud</descriptor> and <descriptor speaker="Narrator"
                         subject="North Wind" sign = "negative">gruff</descriptor>, <dialogue speaker="North Wind"
                             subject="lad">"AND THANKS FOR COMING TO SEE ME. WHAT DO YOU WANT?"</dialogue></p>
@@ -1510,26 +1510,26 @@
                 live on; and if you’re to go on snapping up the morsel we have, there’ll be nothing
                 for it but to starve."</dialogue></p>
             <p><dialogue speaker="North Wind" subject="lad">"I haven’t got your meal"</dialogue>, said the
-                <character>North Wind</character>; <dialogue speaker="North Wind" subject="lad">"but
+                <character who = "North Wind">North Wind</character>; <dialogue speaker="North Wind" subject="lad">"but
                     if you are in such need, I’ll give you a cloth which will get you everything you
                     want, if you only say, “Cloth, spread yourself, and serve up all kind of good
                     dishes!” "</dialogue></p>
-            <p>With this the <character>lad</character> was well <descriptor speaker="Narrator"
+            <p>With this the <character who = "Son">lad</character> was well <descriptor speaker="Narrator"
                 subject="lad" sign = "positive">content</descriptor>. But, as the way was so long he couldn’t get home
                 in one day, so he turned into an inn on the way; and when they were going to sit down to
                 supper he laid the cloth on a table which stood in the corner, and said, <dialogue
                     speaker="lad" subject="cloth">"Cloth, spread yourself, and serve up all kinds of good
                     dishes."</dialogue></p>
             <p>He had scarce said so before the cloth did as it was bid; and all who stood by thought it
-                a fine thing, but most of all the <character>landlady</character>. So, when all were
+                a fine thing, but most of all the <character who = "Landlady">landlady</character>. So, when all were
                 fast asleep at dead of night, she took the lad’s cloth, and put another in its stead,
-                just like the one he had got from the <character>North Wind</character>, but which
+                just like the one he had got from the <character who = "North Wind">North Wind</character>, but which
                 couldn’t so much as serve up a bit of dry bread.</p>
-            <p>So, when the <character>lad</character> woke, he <action actor="lad" subject="cloth" sign = "positive"
+            <p>So, when the <character who = "Son">lad</character> woke, he <action actor="lad" subject="cloth" sign = "positive"
                 >took</action> his cloth and went off with it, and that day he got home to his
                 mother.</p>
             <p><dialogue speaker="lad" subject="mother">"Now"</dialogue>, said he, <dialogue
-                speaker="lad" subject="mother">"I’ve been to the <character>North Wind</character>’s
+                speaker="lad" subject="mother">"I’ve been to the <character who = "North Wind">North Wind</character>’s
                 house, and a <descriptor speaker="lad" subject="North Wind" sign = "positive">good</descriptor> fellow
                 he is, for he gave me this cloth, and when I only say to it, ‘Cloth, spread
                 yourself, and serve up all kind of good dishes’, I get any sort of food I
@@ -1542,63 +1542,63 @@
                 dishes."</dialogue></p>
             <p>But never a bit of dry bread did the cloth serve up.</p>
             <p><dialogue speaker="lad" subject="old widow">"Well"</dialogue>, said the
-                <character>lad</character>, <dialogue speaker="lad" subject="old widow">"there’s no
-                    help for it but to go to the <character>North Wind</character> again"</dialogue>; and
-                away he went. So he came to where the <character>North Wind</character> lived late in
+                <character who = "Son">lad</character>, <dialogue speaker="lad" subject="old widow">"there’s no
+                    help for it but to go to the <character who = "North Wind">North Wind</character> again"</dialogue>; and
+                away he went. So he came to where the <character who = "North Wind">North Wind</character> lived late in
                 the afternoon.</p>
             <p><dialogue speaker="lad" subject="North Wind">"Good evening!"</dialogue> said the
-                <character>lad</character>. <dialogue speaker="North Wind" subject="lad">"Good
-                    evening!"</dialogue> said the <character>North Wind</character>. <dialogue
+                <character who = "Son">lad</character>. <dialogue speaker="North Wind" subject="lad">"Good
+                    evening!"</dialogue> said the <character who = "North Wind">North Wind</character>. <dialogue
                         speaker="lad" subject="North Wind">"I want my rights for that meal of ours which you
                         took"</dialogue>, said the lad; <dialogue speaker="lad" subject="North Wind">"for, as
                             for that cloth I got, it isn’t worth a penny."</dialogue>
                 <dialogue speaker="North Wind" subject="lad">"I’ve got no meal"</dialogue>, said the
-                <character>North Wind</character>; <dialogue speaker="North Wind" subject="lad">"but
+                <character who = "North Wind">North Wind</character>; <dialogue speaker="North Wind" subject="lad">"but
                     yonder you have a ram which coins nothing but golden ducats as soon as you say to
                     it: ‘Rain, ram! make money!’"</dialogue></p>
-            <p>So the <character>lad</character> thought this a fine thing; but as it was too far to get
+            <p>So the <character who = "Son">lad</character> thought this a fine thing; but as it was too far to get
                 home that day, he turned in for the night to the same inn where he had slept before.</p>
-            <p>Before he called for anything, he tried the truth of what the <character>North
+            <p>Before he called for anything, he tried the truth of what the <character who = "North Wind">North
                 Wind</character> had said of the ram, and found it all right; but, when the
-                <character>landlord</character> saw that, he thought it was a famous ram, and, when
-                the <character>lad</character> had fallen asleep, he took another which couldn’t coin
+                <character who = "Landlord">landlord</character> saw that, he thought it was a famous ram, and, when
+                the <character who = "Son">lad</character> had fallen asleep, he took another which couldn’t coin
                 gold ducats, and changed the two.</p>
-            <p>Next morning off went the <character>lad</character>; and when he got home to his
-                <character>mother</character>, he said: <dialogue speaker="lad" subject="old widow"
-                    >"After all, the <character>North Wind</character> is a jolly fellow; for now he has
+            <p>Next morning off went the <character who = "Son">lad</character>; and when he got home to his
+                <character who = "Mother">mother</character>, he said: <dialogue speaker="lad" subject="old widow"
+                    >"After all, the <character who = "North Wind">North Wind</character> is a jolly fellow; for now he has
                     given me a ram which can coin golden ducats if I only say ‘Ram, ram! make
                     money.’"</dialogue>
                 <dialogue speaker="old widow" subject="lad">"All very true, I daresay"</dialogue>, said
-                his <character>mother</character>; <dialogue speaker="old widow" subject="lad">"but I
+                his <character who = "Mother">mother</character>; <dialogue speaker="old widow" subject="lad">"but I
                     shan’t believe any such stuff until I see the ducats made."</dialogue></p>
             <p><dialogue speaker="lad" subject="ram">"Ram, ram! make money!"</dialogue> said the
-                <character>lad</character>; but if the Ram made anything, it wasn’t money. So the
-                <character>lad</character> went back again to the <character>North Wind</character>,
+                <character who = "Son">lad</character>; but if the Ram made anything, it wasn’t money. So the
+                <character who = "Son">lad</character> went back again to the <character who = "North Wind">North Wind</character>,
                 and <action actor="lad" subject="North Wind" sign = "negative">blew him up</action>, and said the ram was
                 worth nothing, and he must have his rights for the meal.</p>
-            <p><dialogue speaker="North Wind" subject="lad">"Well!"</dialogue> said the <character>North
+            <p><dialogue speaker="North Wind" subject="lad">"Well!"</dialogue> said the <character who = "North Wind">North
                 Wind</character>; <dialogue speaker="North Wind" subject="lad">"I’ve nothing else to
                     give you but that old stick in the corner yonder; but it’s a stick of that kind that
                     if you say: “‘Stick, stick! lay on!’ it lays on till you say: ‘Stick, stick! now
                     stop!’"</dialogue></p>
-            <p>So, as the way was long, the <character>lad</character> turned in this night too to the
-                <character>landlord</character>; but as he could pretty well guess how things stood
+            <p>So, as the way was long, the <character who = "Son">lad</character> turned in this night too to the
+                <character who = "Landlord">landlord</character>; but as he could pretty well guess how things stood
                 as to the cloth and the ram, he lay down at once on the bench and began to <action
                     actor="lad" subject="environment" sign = "negative">snore</action>, as if he were asleep.</p>
-            <p>Now the <character>landlord</character>, who easily saw that the stick must be worth
+            <p>Now the <character who = "Landlord">landlord</character>, who easily saw that the stick must be worth
                 something, <descriptor speaker="Narrator" subject="landlord" sign = "negative">hunted</descriptor> up one
                 which was like it, and when he heard the lad snore, was going to change the two; but,
-                just as the <character>landlord</character> was about to <action actor="landlord"
+                just as the <character who = "Landlord">landlord</character> was about to <action actor="landlord"
                     subject="stick" sign = "negative">take</action> it, the lad bawled out: <dialogue speaker="lad"
                         subject="stick">"Stick, stick! lay on!"</dialogue></p>
             <p>So the stick began to <action actor="stick" subject="landlord" sign = "negative">beat</action> the
-                <character>landlord</character>, till he <action actor="landlord" subject="chair" sign = "negative"
+                <character who = "Landlord">landlord</character>, till he <action actor="landlord" subject="chair" sign = "negative"
                     >jumped</action> over chairs, and tables, and benches, and <action actor="landlord"
                         subject="environment" sign = "negative">yelled</action> and <action actor="landlord" subject="encironment" sign = "negative"
                             >roared</action>: <dialogue speaker="landlord" subject="lad">"Oh my! oh my! bid the
                                 stick be still, else it will beat me to death, and you shall have back both your
                                 cloth and our ram."</dialogue></p>
-            <p>When the <character>lad</character> thought the <character>landlord</character> had got
+            <p>When the <character who = "Son">lad</character> thought the <character who = "Landlord">landlord</character> had got
                 enough, he said: <dialogue speaker="lad" subject="stick">"Stick, stick! now
                     stop!"</dialogue></p>
             <p>Then he <action actor="lad" subject="cloth" sign = "positive">took</action> the cloth and put it into his
@@ -1802,19 +1802,19 @@
     <story number="5">
     <title>EAST O’ THE SUN AND WEST O’ THE MOON</title>
     <body>
-        <p>Once on a time there was a poor <character>husbandman</character> who had so many
+        <p>Once on a time there was a poor <character who = "Father">husbandman</character> who had so many
             children that he hadn’t much of either food or clothing to give them. Pretty children
-            they all were, but the prettiest was the <character>youngest daughter</character>, who
+            they all were, but the prettiest was the <character who = "Princess">youngest daughter</character>, who
             was so <descriptor speaker="Narrator" subject="Princess" sign="positive">lovely there
                 was no end to her loveliness.</descriptor></p>
         <p>So one day, ’twas on a Thursday evening late at the fall of the year, the weather was so
             wild and rough outside, and it was so cruelly dark, and rain fell and wind blew, till
             the walls of the cottage shook again. There they all sat round the fire busy with this
             thing and that. But just then, all at once something gave three taps on the window-pane.
-            Then the <character>father</character> went out to see what was the matter; and, when he
+            Then the <character who = "Father">father</character> went out to see what was the matter; and, when he
             got out of doors, what should he see but a <descriptor speaker="Narrator"
                 subject="White Bear" sign="positive">great big</descriptor>
-            <character>White Bear.</character></p>
+            <character who = "White Bear">White Bear.</character></p>
         <p><dialogue speaker="White Bear" subject="father">“Good evening to you!”</dialogue> said
             the White Bear. <dialogue speaker="father" subject="White Bear">“The same to
                 you”</dialogue>, said the man. <dialogue speaker="White Bear" subject="father">“Will
@@ -1824,18 +1824,18 @@
                 be at all sorry to be so rich</descriptor>; but still he thought he must have a bit
             of a talk with his daughter first; so he went in and told them how there was a
                 <descriptor speaker="father" subject="White Bear" sign="positive">great</descriptor>
-            <character>White Bear</character> waiting outside, who had given his word to make them
+            <character who = "White Bear">White Bear</character> waiting outside, who had given his word to make them
             so rich if he could only have the youngest daughter.</p>
         <p>The lassie said <dialogue speaker="daughter" subject="father">“No!”</dialogue> outright.
             Nothing could get her to say anything else; so the man went out and settled it with the
-                <character>White Bear</character>, that he should come again the next Thursday
+            <character who = "White Bear">White Bear</character>, that he should come again the next Thursday
             evening and get an answer. Meantime he talked his daughter over, and kept on telling her
             of all the riches they would get, and how well off she would be herself; and so at last
             she thought better of it, and <action actor="daughter" subject="rags" sign="positive"
                 >washed</action> and <action actor="daughter" subject="rags" sign="positive"
                 >mended</action> her rags, made herself as smart as she could, and was ready to
             start. I can’t say her packing gave her much trouble.</p>
-        <p>Next Thursday evening came the <character>White Bear</character> to <action
+        <p>Next Thursday evening came the <character who = "White Bear">White Bear</character> to <action
                 actor="White Bear" subject="daughter" sign="negative">fetch</action> her, and she
             got upon his back with her bundle, and off they went. So, when they had gone a bit of
             the way, the White Bear said: <dialogue speaker="White Bear" subject="daughter">“Are you
@@ -1844,10 +1844,10 @@
             <dialogue speaker="White Bear" subject="daughter">“Well! mind and hold tight by my
                 shaggy coat, and then there’s nothing to fear”</dialogue>, said the Bear.</p>
         <p>So she rode a long, long way, till they came to a great steep hill. There, on the face
-            of it, the <character>White Bear</character> gave a knock, and a door opened, and they
+            of it, the <character who = "White Bear">White Bear</character> gave a knock, and a door opened, and they
             came into a castle, where there were many rooms all lit up; rooms gleaming with silver
             and gold; and there too was a table ready laid, and it was all as grand as grand could
-            be. Then the <character>White Bear</character>
+            be. Then the <character who = "White Bear">White Bear</character>
             <action actor="White Bear" subject="daughter" sign="positive">gave</action> her a silver
             bell; and when she wanted anything, she was only to ring it, and she would get it at
             once.</p>
@@ -1857,7 +1857,7 @@
             of it before she came into a chamber, where there was a bed made, as fair and white as
             any one would wish to sleep in, with silken pillows and curtains, and gold fringe. All
             that was in the room was gold or silver; but when she had gone to bed, and put out the
-            light, a <character>man</character> came and laid himself alongside her. <transformation
+            light, a <character who = "Prince">man</character> came and laid himself alongside her. <transformation
                 form="man" subject="White Bear">That was the White Bear, who threw off his beast
                 shape at night</transformation>; but she never saw him, for he always came after she
             had put out the light, and before the day dawned he was up and off again. So things went
@@ -1865,7 +1865,7 @@
                 subject="daughter" sign="negative">silent</descriptor> and <descriptor
                 speaker="Narrator" subject="daughter" sign="negative">sorrowful</descriptor>; for
             there she went about all day alone, and she longed to go home to see her father and
-            mother and brothers and sisters. So one day, when the <character>White Bear</character>
+            mother and brothers and sisters. So one day, when the <character who = "White Bear">White Bear</character>
             asked what it was that she lacked, she said it was so dull and lonely there, and how she
             longed to go home to see her father and mother, and brothers and sisters, and that was
             why she was so sad and sorrowful, because she couldn’t get to them.</p>
@@ -1875,7 +1875,7 @@
                 only when the rest are by to hear; for she’ll take you by the hand and try to lead
                 you into a room alone to talk; but you must mind and not do that, else you’ll bring
                 bad luck on both of us.”</dialogue></p>
-        <p>So one Sunday the <character>White Bear</character> came and said now they could set off
+        <p>So one Sunday the <character who = "White Bear">White Bear</character> came and said now they could set off
             to see her father and mother. Well, off they started, she sitting on his back; and they
             went far and long. At last they came to a grand house, and there her brothers and
             sisters were running about out of doors at play, and everything was so <descriptor
@@ -1886,7 +1886,7 @@
                 subject="daughter">“but don’t forget what I told you, else you’ll make us both
                 unlucky.”</dialogue>
             <dialogue speaker="White Bear" subject="self">“No! bless her, she’d not
-                forget”</dialogue>; and when she had reached the house, the <character>White
+                forget”</dialogue>; and when she had reached the house, the <character who = "White Bear">White
                 Bear</character> turned right about and left her.</p>
         <p>Then when she went in to see her father and mother, there was such <descriptor
                 speaker="Narrator" subject="father and mother" sign="positive">joy</descriptor>,
@@ -1896,14 +1896,14 @@
         <p>Well, she said, it was very good to live where she did; she had all she wished. What she
             said beside I don’t know; but I don’t think any of them had the right end of the stick,
             or that they got much out of her. But so in the afternoon, after they had done dinner,
-            all happened as the <character>White Bear</character> had said. Her mother wanted to
-            talk with her alone in her bed-room; but she minded what the <character>White
+            all happened as the <character who = "White Bear">White Bear</character> had said. Her mother wanted to
+            talk with her alone in her bed-room; but she minded what the <character who = "White Bear">White
                 Bear</character> had said, and <action actor="daughter" subject="environment"
                 sign="negative">wouldn’t go</action> upstairs.</p>
         <p><dialogue speaker="daughter" subject="mother">“Oh! what we have to talk about, will
                 keep”</dialogue>, she said, and put her mother off. But some how or other, her
             mother got round her at last, and she had to tell her the whole story. So she said, how
-            every night, when she had gone to bed, a <character>man</character> came and <action
+            every night, when she had gone to bed, a <character who = "Prince">man</character> came and <action
                 actor="Prince" subject="daughter" sign="positive">lay</action> down beside her as
             soon as she had put out the light, and how she never saw him, because he was always up
             and away before the morning dawned; and how she went about <descriptor
@@ -1914,14 +1914,14 @@
                 subject="daughter" sign="negative">dreary</descriptor>, and lonesome it was.</p>
         <p><dialogue speaker="mother" subject="daughter">“My!”</dialogue> said her mother;
                 <dialogue speaker="mother" subject="daughter">“it may well be a
-                    <character>Troll</character> you slept with! But now I’ll teach you a lesson how
+                    <character who = "Troll">Troll</character> you slept with! But now I’ll teach you a lesson how
                 to set eyes on him. I’ll give you a bit of candle, which you can carry home in your
                 bosom; just light that while he is asleep, but take care not to drop the tallow on
                 him.”</dialogue></p>
         <p>Yes! she took the candle, and hid it in her bosom, and as night drew on, the
-                <character>White Bear</character> came and <action actor="White Bear"
+            <character who = "White Bear">White Bear</character> came and <action actor="White Bear"
                 subject="daughter" sign="negative">fetched</action> her away. But when they had gone
-            a bit of the way, the <character>White Bear</character> asked if all hadn’t happened as
+            a bit of the way, the <character who = "White Bear">White Bear</character> asked if all hadn’t happened as
             he had said? <dialogue speaker="daughter" subject="White Bear">“Well, she couldn’t say
                 it hadn’t.”</dialogue></p>
         <p><dialogue speaker="White Bear" subject="daughter">“Now, mind”</dialogue>, said he,
@@ -1932,12 +1932,12 @@
                 speaker="daughter" subject="White Bear">“she hadn’t listened to her mother’s
                 advice.”</dialogue></p>
         <p>So when she reached home, and had gone to bed, it was the old story over again. There
-            came a <character>man</character> and lay down beside her; but at dead of night, when
+            came a <character who = "Prince">man</character> and lay down beside her; but at dead of night, when
             she heard he slept, she got up and struck a light, <action actor="daughter"
                 subject="candle" sign="positive">lit</action> the candle, and let the light shine on
             him, and so she saw that he was the <descriptor speaker="Narrator" subject="Prince"
                 sign="positive">loveliest</descriptor>
-            <character>Prince</character> one ever set eyes on, and she fell so deep in love with
+            <character who = "Prince">Prince</character> one ever set eyes on, and she fell so deep in love with
             him on the spot, that she thought she couldn’t live if she didn’t give him a kiss there
             and then. And so she did, but as she <action actor="daughter" subject="Prince"
                 sign="positive">kissed</action> him, she dropped three hot drops of tallow on his
@@ -1945,12 +1945,12 @@
         <p><dialogue speaker="Prince" subject="daughter">“What have you done?”</dialogue> he cried;
                 <dialogue speaker="Prince" subject="daughter">“now you have made us both unlucky,
                 for had you held out only this one year, I had been freed. For I have a
-                    <character>stepmother</character> who has <action actor="stepmother"
+                    <character who = "Stepmother">stepmother</character> who has <action actor="stepmother"
                     subject="Prince" sign="negative">bewitched</action> me, so that I am a White
                 Bear by day, and a Man by night. But now all ties are snapt between us; now I must
                 set off from you to her. She lives in a Castle which stands EAST O’ THE SUN AND WEST
-                O’ THE MOON, and there, too, is a <character>Princess</character>, with a
-                    <descriptor speaker="Prince" subject="Princess" sign="negative">nose three ells
+                O’ THE MOON, and there, too, is a <character who = "Long Nose">Princess</character>, with a
+                    <descriptor speaker="Prince" subject="Long Nose" sign="negative">nose three ells
                     long</descriptor>, and she’s the wife I must have now.”</dialogue></p>
         <p>She <action actor="daughter" subject="self" sign="negative">wept</action> and took it
             ill, but there was no help for it; go he must. Then she asked if she mightn’t go with
@@ -1961,18 +1961,18 @@
             said; <dialogue speaker="Prince" subject="daughter">“but there was no way to that place.
                 It lay EAST O’ THE SUN AND WEST O’ THE MOON, and thither she’d never find her
                 way.”</dialogue></p>
-        <p>So next morning, when she woke up, both <character>Prince</character> and castle were
+        <p>So next morning, when she woke up, both <character who = "Prince">Prince</character> and castle were
             gone, and then she lay on a little green patch, in the midst of the gloomy thick wood,
             and by her side lay the same bundle of rags she had brought with her from her old home.</p>
         <p>So when she had rubbed the sleep out of her eyes, and <action actor="Princess"
                 subject="self" sign="negative">wept</action> till she was tired, she <action
                 actor="daughter" subject="self" sign="positive">set out</action> on her way, and
-            walked many, many days, till she came to a lofty crag. Under it sat an <character>old
+            walked many, many days, till she came to a lofty crag. Under it sat an <character who = "Old Hag">old
                 hag</character>, and played with a gold apple which she tossed about. Her the lassie
-            asked if she knew the way to the <character>Prince</character>, who lived with his
+            asked if she knew the way to the <character who = "Prince">Prince</character>, who lived with his
             step-mother in the Castle, that lay EAST O’ THE SUN AND WEST O’ THE MOON, and who was to
-            marry the <character>Princess</character>
-            <descriptor speaker="daughter" subject="Princess" sign="negative">with a nose three ells
+            marry the <character who = "Long Nose">Princess</character>
+            <descriptor speaker="daughter" subject="Long Nose" sign="negative">with a nose three ells
                 long</descriptor>.</p>
         <p><dialogue speaker="old hag" subject="daughter">“How did you come to know about
                 him?”</dialogue> asked the old hag; <dialogue speaker="old hag" subject="daughter"
@@ -1986,7 +1986,7 @@
                 be off home; and, stay, this gold apple you may take with you.”</dialogue></p>
         <p>So she got upon the horse, and <action actor="daughter" subject="horse" sign="positive"
                 >rode</action> a long long time, till she came to another crag, under which sat
-                <character>another old hag</character>, with a gold carding-comb. Her the lassie
+            <character who = "Old Hag">another old hag</character>, with a gold carding-comb. Her the lassie
             asked if she knew the way to the castle that lay EAST O’ THE SUN AND WEST O’ THE MOON,
             and she answered, like the first old hag, that she knew nothing about it, except it was
             east o’ the sun and west o’ the moon.</p>
@@ -1994,10 +1994,10 @@
                 never, but you shall have the loan of my horse to my next neighbour; maybe she’ll
                 tell you all about it; and when you get there, just switch the horse under the left
                 ear, and beg him to be off home.”</dialogue></p>
-        <p>And this <character>old hag</character> gave her the golden carding-comb; it might be
+        <p>And this <character who = "Old Hag">old hag</character> gave her the golden carding-comb; it might be
             she’d find some use for it, she said. So the lassie got up on the horse, and rode a far
             far way, and a weary time; and so at last she came to another great crag, under which
-            sat <character>another old hag</character>, spinning with a golden spinning-wheel. Her,
+            sat <character who = "Old Hag">another old hag</character>, spinning with a golden spinning-wheel. Her,
             too, she asked if she knew the way to the Prince, and where the castle was that lay EAST
             O’ THE SUN AND WEST O’ THE MOON. So it was the same thing over again.</p>
         <p><dialogue speaker="third old hag" subject="daughter">“Maybe it’s you who ought to have
@@ -2007,47 +2007,47 @@
                 was”</dialogue>, she knew—that was all.</p>
         <p><dialogue speaker="third old hag" subject="daughter">“And thither you’ll come, late or
                 never; but I’ll lend you my horse, and then I think you’d best ride to the
-                    <character>East Wind</character> and ask him; maybe, he knows those parts, and
+            <character who = "East Wind">East Wind</character> and ask him; maybe, he knows those parts, and
                 can blow you thither. But when you get to him, you need only give the horse a switch
                 under the left ear, and he’ll trot home of himself.”</dialogue></p>
         <p>And so, too, she gave her the gold spinning-wheel. <dialogue speaker="third old hag"
                 subject="daughter">“Maybe you’ll find a use for it”</dialogue>, said the old hag.</p>
         <p>Then on she <action actor="daughter" subject="horse" sign="positive">rode</action> many
-            many days, a weary time, before she got to the <character>East Wind</character>’s house,
-            but at last she did reach it, and then she asked the <character>East Wind</character> if
+            many days, a weary time, before she got to the <character who = "East Wind">East Wind</character>’s house,
+            but at last she did reach it, and then she asked the <character who = "East Wind">East Wind</character> if
             he could tell her the way to the Prince who dwelt east o’ the sun and west o’ the moon.
-            Yes, the <character>East Wind</character> had often heard tell of it, the
-                <character>Prince</character> and the castle, but he couldn’t tell the way, for he
+            Yes, the <character who = "East Wind">East Wind</character> had often heard tell of it, the
+            <character who = "Prince">Prince</character> and the castle, but he couldn’t tell the way, for he
             had never blown so far.</p>
         <p><dialogue speaker="East Wind" subject="daughter">“But, if you will, I’ll go with you to
-                my brother the <character>West Wind</character>, maybe he knows, for he’s much
+            my brother the <character who = "West Wind">West Wind</character>, maybe he knows, for he’s much
                     <descriptor speaker="East Wind" subject="West Wind" sign="positive"
                     >stronger</descriptor>. So, if you will just get on my back, I’ll carry you
                 thither.”</dialogue></p>
         <p>Yes, she got on his back, and I should just think they <action actor="East Wind"
                 subject="daughter" sign="positive">went briskly</action> along.</p>
-        <p>So when they got there, they went into the <character>West Wind</character>’s house, and
-            the <character>East Wind</character> said the lassie he had brought was the one who
-            ought to have had the <character>Prince</character> who lived in the castle EAST O’ THE
+        <p>So when they got there, they went into the <character who = "West Wind">West Wind</character>’s house, and
+            the <character who = "East Wind">East Wind</character> said the lassie he had brought was the one who
+            ought to have had the <character who = "Prince">Prince</character> who lived in the castle EAST O’ THE
             SUN AND WEST O’ THE MOON; and so she had set out to seek him, and how he had come with
-            her, and would be glad to know if the <character>West Wind</character> knew how to get
+            her, and would be glad to know if the <character who = "West Wind">West Wind</character> knew how to get
             to the castle.</p>
         <p><dialogue speaker="West Wind" subject="East Wind">“Nay”</dialogue>, said the West Wind,
                 <dialogue speaker="West Wind" subject="East Wind">“so far I’ve never blown; but if
-                you will, I’ll go with you to our brother the <character>South Wind</character>, for
+                    you will, I’ll go with you to our brother the <character who = "South Wind">South Wind</character>, for
                 he’s much stronger than either of us, and he has flapped his wings far and wide.
                 Maybe he’ll tell you. You can get on my back, and I’ll carry you to him.”</dialogue></p>
         <p>Yes! she got on his back, and so they <action actor="West Wind" subject="daughter"
-                sign="positive">travelled</action> to the <character>South Wind</character>, and
+            sign="positive">travelled</action> to the <character who = "South Wind">South Wind</character>, and
             weren’t so very long on the way, I should think.</p>
-        <p>When they got there, the <character>West Wind</character> asked him if he could tell her
+        <p>When they got there, the <character who = "West Wind">West Wind</character> asked him if he could tell her
             the way to the castle that lay EAST O’ THE SUN AND WEST O’ THE MOON, for it was she who
             ought to have had the prince who lived there.</p>
         <p><dialogue speaker="South Wind" subject="West Wind">“You don’t say so! That’s she, is
                 it?”</dialogue> said the South Wind.</p>
         <p><dialogue speaker="South Wind" subject="West Wind">“Well, I have blustered about in most
                 places in my time, but so far have I never blown; but if you will, I’ll take you to
-                my brother the <character>North Wind</character>; he is the <descriptor
+                my brother the <character who = "North Wind">North Wind</character>; he is the <descriptor
                     speaker="South Wind" subject="North Wind" sign="positive">oldest</descriptor>
                 and <descriptor speaker="South Wind" subject="North Wind" sign="positive"
                     >strongest</descriptor> of the whole lot of us, and if he don’t know where it
@@ -2056,7 +2056,7 @@
         <p>Yes! she got on his back, and away he <action actor="South Wind" subject="daughter"
                 sign="positive">went from his house</action> at a fine rate. And this time, too, she
             wasn’t long on her way.</p>
-        <p>So when they got to the <character>North Wind</character>’s house, he was so <descriptor
+        <p>So when they got to the <character who = "North Wind">North Wind</character>’s house, he was so <descriptor
                 speaker="Narrator" subject="North Wind" sign="negative">wild</descriptor> and
                 <descriptor speaker="Narrator" subject="North Wind" sign="negative"
                 >cross</descriptor>, cold puffs came from him a long way off.</p>
@@ -2066,9 +2066,9 @@
             icy shiver.</p>
         <p><dialogue speaker="South Wind" subject="North Wind">“Well”</dialogue>, said the South
             Wind, <dialogue speaker="South Wind" subject="North Wind">“you needn’t be so
-                foul-mouthed, for here I am, your brother, the <character>South Wind</character>,
-                and here is the <character>lassie</character> who ought to have had the
-                    <character>Prince</character> who dwells in the castle that lies EAST O’ THE SUN
+                foul-mouthed, for here I am, your brother, the <character who = "South Wind">South Wind</character>,
+                and here is the <character who = "Princess">lassie</character> who ought to have had the
+                <character who = "Prince">Prince</character> who dwells in the castle that lies EAST O’ THE SUN
                 AND WEST O’ THE MOON, and now she wants to ask you if you ever were there, and can
                 tell her the way, for she would be so glad to find him again.”</dialogue></p>
         <p><dialogue speaker="North Wind" subject="South Wind">“YES, I KNOW WELL ENOUGH WHERE IT
@@ -2084,7 +2084,7 @@
             the North Wind, <dialogue speaker="North Wind" subject="South Wind">“but you must sleep
                 here to-night, for we must have the whole day before us, if we’re to get thither at
                 all.”</dialogue></p>
-        <p>Early next morning the <character>North Wind</character> woke her, and puffed himself
+        <p>Early next morning the <character who = "North Wind">North Wind</character> woke her, and puffed himself
             up, and blew himself out, and made himself so <descriptor speaker="Narrator"
                 subject="North Wind" sign="positive">stout</descriptor> and big, ’<descriptor
                 speaker="Narrator" subject="North Wind" sign="negative">twas gruesome to look at
@@ -2093,21 +2093,21 @@
         <p>Down here below there was such a storm; it threw down long tracts of wood and many
             houses, and when it swept over the great sea, ships foundered by hundreds.</p>
         <p>So they tore on and on—no one can believe how far they went—and all the while they still
-            went over the sea, and the <character>North Wind</character> got more and more weary,
+            went over the sea, and the <character who = "North Wind">North Wind</character> got more and more weary,
             and so out of breath he could scarce bring out a puff, and his wings drooped and
             drooped, till at last he sunk so low that the crests of the waves dashed over his heels.</p>
         <p><dialogue speaker="North Wind" subject="daughter">“Are you afraid?”</dialogue> said the
             North Wind. <dialogue speaker="daughter" subject="North Wind">“No!”</dialogue> she
             wasn’t.</p>
-        <p>But they weren’t very far from land; and the <character>North Wind</character> had still
+        <p>But they weren’t very far from land; and the <character who = "North Wind">North Wind</character> had still
             so much strength left in him that he managed to <action actor="North Wind"
                 subject="daughter" sign="positive">throw</action> her up on the shore under the
             windows of the castle which lay EAST O’ THE SUN AND WEST O’ THE MOON; but then he was so
             weak and worn out, he had to stay there and rest many days before he could get home
             again.</p>
-        <p>Next morning the <character>lassie</character> sat down under the castle window, and
+        <p>Next morning the <character who = "Princess">lassie</character> sat down under the castle window, and
             began to play with the gold apple; and the first person she saw was the
-                <character>Long-nose</character> who was to have the <character>Prince</character>.</p>
+            <character who = "Long Nose">Long-nose</character> who was to have the <character who = "Prince">Prince</character>.</p>
         <p><dialogue speaker="Princess" subject="daughter">“What do you want for your gold apple,
                 you lassie?”</dialogue> said the Long-nose, and threw up the window. <dialogue
                 speaker="daughter" subject="Princess">“It’s not for sale, for gold or
@@ -2116,51 +2116,51 @@
                 what is it that you will sell it for? You may name your own price”</dialogue>, said
             the Princess.</p>
         <p><dialogue speaker="daughter" subject="Princess">“Well! if I may get to the
-                    <character>Prince</character>, who lives here, and be with him to-night, you
+            <character who = "Prince">Prince</character>, who lives here, and be with him to-night, you
                 shall have it”</dialogue>, said the lassie whom the North Wind had brought.</p>
-        <p>Yes! she might; that could be done. So the <character>Princess</character> got the gold
-            apple; but when the <character>lassie</character> came up to the Prince’s bed-room at
+        <p>Yes! she might; that could be done. So the <character who = "Princess">Princess</character> got the gold
+            apple; but when the <character who = "Princess">lassie</character> came up to the Prince’s bed-room at
             night he was fast asleep; she called him and <action actor="daughter" subject="Prince"
                 sign="positive">shook</action> him, and between whiles she wept sore; but all she
             could do she couldn’t wake him up. Next morning as soon as day broke, came the
-                <character>Princess</character> with the long nose, and drove her out again.</p>
+            <character who = "Long Nose">Princess</character> with the long nose, and drove her out again.</p>
         <p>So in the daytime she sat down under the castle windows and began to card with her
-            carding-comb, and the same thing happened. The <character>Princess</character> asked
+            carding-comb, and the same thing happened. The <character who = "Long Nose">Princess</character> asked
             what she wanted for it; and she said it wasn’t for sale for gold or money, but if she
-            might get leave to go up to the <character>Prince</character> and be with him that
-            night, the <character>Princess</character> should have it. But when she went up she
+            might get leave to go up to the <character who = "Prince">Prince</character> and be with him that
+            night, the <character who = "Long Nose">Princess</character> should have it. But when she went up she
             found him fast asleep again, and all she called, and all she <action actor="daughter"
                 subject="Prince" sign="positive">shook</action>, and <action actor="daughter"
                 subject="Prince" sign="negative">wept</action>, and prayed, she couldn’t get life
             into him; and as soon as the first gray peep of day came, then came the
-                <character>Princess</character> with the long nose, and chased her out again.</p>
-        <p>So, in the day time, the <character>lassie</character> sat down outside under the castle
+            <character who = "Long Nose">Princess</character> with the long nose, and chased her out again.</p>
+        <p>So, in the day time, the <character who = "Princess">lassie</character> sat down outside under the castle
             window, and began to spin with her golden spinning-wheel, and that, too, the
-                <character>Princess</character> with the long nose wanted to have. So she threw up
-            the window and asked what she wanted for it. The <character>lassie</character> said, as
+            <character who = "Princess">Princess</character> with the long nose wanted to have. So she threw up
+            the window and asked what she wanted for it. The <character who = "Princess">lassie</character> said, as
             she had said twice before, it wasn’t for sale for gold or money; but if she might go up
             to the Prince who was there, and be with him alone that night, she might have it.</p>
         <p>Yes! she might do that and welcome. But now you must know there were some
-                <character>Christian folk</character> who had been carried off thither, and as they
-            sat in their room, which was next the <character>Prince</character>, they had heard how
+            <character who = "Christians">Christian folk</character> who had been carried off thither, and as they
+            sat in their room, which was next the <character who = "Prince">Prince</character>, they had heard how
             a woman had been in there, and wept and prayed, and called to him two nights running,
-            and they told that to the <character>Prince</character>.</p>
-        <p>That evening, when the <character>Princess</character> came with her sleepy drink, the
-                <character>Prince</character> made as if he drank, but <action actor="Prince"
+            and they told that to the <character who = "Prince">Prince</character>.</p>
+        <p>That evening, when the <character who = "Long Nose">Princess</character> came with her sleepy drink, the
+            <character who = "Prince">Prince</character> made as if he drank, but <action actor="Prince"
                 subject="drink" sign="positive">threw</action> it over his shoulder, for he could
-            guess it was a sleepy drink. So, when the <character>lassie</character> came in, she
-            found the <character>Prince</character> wide awake; and then she told him the whole
+            guess it was a sleepy drink. So, when the <character who = "Princess">lassie</character> came in, she
+            found the <character who = "Prince">Prince</character> wide awake; and then she told him the whole
             story how she had come thither.</p>
         <p><dialogue speaker="Prince" subject="daughter">“Ah”</dialogue>, said the Prince,
                 <dialogue speaker="Prince" subject="daughter">“you’ve just come in the very nick of
                 time, for to-morrow is to be our wedding-day; but now I won’t have the
-                    <character>Long-nose</character>, and you are the only woman in the world who
+                    <character who = "Long Nose">Long-nose</character>, and you are the only woman in the world who
                 can set me free. I’ll say I want to see what my wife is fit for, and beg her to wash
                 the shirt which has the three spots of tallow on it; she’ll say yes, for she doesn’t
-                know ’tis you who put them there; but that’s a work only for <character>Christian
+                know ’tis you who put them there; but that’s a work only for <character who = "Christians">Christian
                     folk</character>, and not for <descriptor speaker="Prince" subject="Trolls"
                     sign="negative">such a pack of</descriptor>
-                <character>Trolls</character>, and so I’ll say that I won’t have any other for my
+                    <character who = "Trolls">Trolls</character>, and so I’ll say that I won’t have any other for my
                 bride than the woman who can wash them out, and ask you to do it.”</dialogue></p>
         <p>So there was great <descriptor speaker="Narrator" subject="daughter" sign="positive"
                 >joy</descriptor> and <descriptor speaker="Narrator" subject="Prince"
@@ -2184,12 +2184,12 @@
         <p>But she hadn’t long taken the shirt in hand, before it got far worse than ever, and with
             all her rubbing, and wringing, and scrubbing, the spots grew bigger and blacker, and the
             darker and uglier was the shirt.</p>
-        <p>Then all the other <character>Trolls</character> began to wash, but the longer it
+        <p>Then all the other <character who = "Trolls">Trolls</character> began to wash, but the longer it
             lasted, the blacker and uglier the shirt grew, till at last it was as black all over as
             if it had been up the chimney.</p>
         <p><dialogue speaker="Prince" subject="Trolls">“Ah!”</dialogue> said the Prince, <dialogue
                 speaker="Prince" subject="Trolls">“you’re none of you worth a straw you can’t wash.
-                Why there, outside, sits a beggar <character>lassie</character>, I’ll be bound she
+            Why there, outside, sits a beggar <character who = "Princess">lassie</character>, I’ll be bound she
                 knows how to wash better than the whole lot of you. COME IN LASSIE!”</dialogue> he
             shouted.</p>
         <p>Well, in she came. <dialogue speaker="Prince" subject="daughter">“Can you wash this
@@ -2197,16 +2197,16 @@
                 subject="Prince">“I don’t know”</dialogue>, she said, <dialogue speaker="daughter"
                 subject="Prince">“but I think I can.”</dialogue> And almost before she had taken it
             and dipped it in the water, it was as white as driven snow, and whiter still. <dialogue
-                speaker="Prince" subject="daughter">“Yes; you are the <character>lassie</character>
+                speaker="Prince" subject="daughter">“Yes; you are the <character who = "Princess">lassie</character>
                 for me”</dialogue>, said the Prince.</p>
         <p>At that the old hag <descriptor speaker="Narrator" subject="step mother" sign="negative"
                 >flew into such a rage</descriptor>, she burst on the spot, and the
-                <character>Princess</character>
+            <character who = "Princess">Princess</character>
             <descriptor speaker="Narrator" subject="Princess" sign="negative">with the long
-                nose</descriptor> after her, and the whole pack of <character>Trolls</character>
+                nose</descriptor> after her, and the whole pack of <character who = "Trolls">Trolls</character>
             after her—at least I’ve never heard a word about them since.</p>
-        <p>As for the <character>Prince</character> and <character>Princess</character>, they set
-            free all the poor <character>Christian folk</character> who had been carried off and
+        <p>As for the <character who = "Prince">Prince</character> and <character who = "Princess">Princess</character>, they set
+            free all the poor <character who = "Christians">Christian folk</character> who had been carried off and
             shut up there; and they took with them all the silver and gold, and flitted away as far
             as they could from the Castle that lay EAST O’ THE SUN AND WEST O’ THE MOON.</p>
     </body>
