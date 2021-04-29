@@ -17,6 +17,11 @@ article {
   border-color: rgb(81, 102, 94);
 }
 
+article#analysis{
+    overflow-x:auto;
+    overflow-y:auto;
+}
+
 nav {
   order: -1
   /* This is for properly ordering elements. */
