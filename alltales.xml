@@ -1805,7 +1805,7 @@
         <p>Once on a time there was a poor <character who = "Father">husbandman</character> who had so many
             children that he hadn’t much of either food or clothing to give them. Pretty children
             they all were, but the prettiest was the <character who = "Princess">youngest daughter</character>, who
-            was so <descriptor speaker="Narrator" subject="Princess" sign="positive">lovely there
+            was so <descriptor speaker="Narrator" subject="daughter" sign="positive">lovely there
                 was no end to her loveliness.</descriptor></p>
         <p>So one day, ’twas on a Thursday evening late at the fall of the year, the weather was so
             wild and rough outside, and it was so cruelly dark, and rain fell and wind blew, till
@@ -1889,7 +1889,7 @@
                 forget”</dialogue>; and when she had reached the house, the <character who = "White Bear">White
                 Bear</character> turned right about and left her.</p>
         <p>Then when she went in to see her father and mother, there was such <descriptor
-                speaker="Narrator" subject="father and mother" sign="positive">joy</descriptor>,
+                speaker="Narrator" subject="father" sign="positive">joy</descriptor>,
             there was no end to it. None of them thought they could thank her enough for all she had
             done for them. Now, they had everything they wished, as good as good could be, and they
             all wanted to know how she got on where she lived.</p>
@@ -1907,7 +1907,7 @@
                 actor="Prince" subject="daughter" sign="positive">lay</action> down beside her as
             soon as she had put out the light, and how she never saw him, because he was always up
             and away before the morning dawned; and how she went about <descriptor
-                speaker="daughter" subject="Princess" sign="negative">woeful</descriptor> and
+                speaker="Narrator" subject="daughter" sign="negative">woeful</descriptor> and
             sorrowing, for she thought she should so like to see him, and how all day long she
             walked about there alone, and how <descriptor speaker="daughter" subject="daughter"
                 sign="negative">dull</descriptor>, and <descriptor speaker="daughter"
@@ -2202,7 +2202,7 @@
         <p>At that the old hag <descriptor speaker="Narrator" subject="step mother" sign="negative"
                 >flew into such a rage</descriptor>, she burst on the spot, and the
             <character who = "Princess">Princess</character>
-            <descriptor speaker="Narrator" subject="Princess" sign="negative">with the long
+            <descriptor speaker="Narrator" subject="Long Nose" sign="negative">with the long
                 nose</descriptor> after her, and the whole pack of <character who = "Trolls">Trolls</character>
             after her—at least I’ve never heard a word about them since.</p>
         <p>As for the <character who = "Prince">Prince</character> and <character who = "Princess">Princess</character>, they set
