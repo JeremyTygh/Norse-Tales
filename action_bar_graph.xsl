@@ -20,10 +20,10 @@
         <xsl:variable name="actor_count" as="xs:integer" select="count(distinct-values(descendant::action/@actor))"/>
         <g transform="translate(180,{(position()*400)-250})" class="{@number}">
             <!-- Title -->
-            <text x="100" y="-40" text-anchor="middle" writing-mode="lr" font-weight="bold" font-size="15"><xsl:apply-templates select="title"/></text>
+            <text x="100" y="-50" text-anchor="middle" writing-mode="lr" font-weight="bold" font-size="15"><xsl:apply-templates select="title"/></text>
             <!-- Labeled Axes -->
             <text x="-75" y="-20" text-anchor="middle" writing-mode="lr" font-size="12"># of Negative Actions</text>
-            <text x="125" y="-20" text-anchor="middle" writing-mode="lr" font-size="12"># of Positive Actions</text>
+            <text x="125" y="-20" text-anchor="middle" writing-mode="lr" font-size="12"># of Positive/Neutral Actions</text>
             <text x="0" y="-5" text-anchor="middle" writing-mode="lr" font-size="8">0</text>
             <line x1="-10" x2="-10" y1="0" y2="{$actor_count*$yscale}" stroke="lightgray" stroke-width="1" opacity="0.7"/>
             <text x="-10" y="-5" text-anchor="middle" writing-mode="lr" font-size="8">1</text>
@@ -94,6 +94,17 @@
             <text x="230" y="-5" text-anchor="middle" writing-mode="lr" font-size="8">23</text>
             <line x1="240" x2="240" y1="-10" y2="{$actor_count*$yscale}" stroke="black" stroke-width="2"/>
             
+            <!-- Key -->
+            <rect x="375" width="125" y="0" height="100" fill="white" stroke="black" stroke-width="1"></rect>
+            <text x="390" y="25" text-anchor="start" writing-mode="lr" font-size="20" font-weight="bold">Key</text>
+            <line x1="390" x2="425" y1="27.5" y2="27.5" stroke="black" stroke-width="2"/>
+            <rect x="400" width="12.5" y="37.5" height="12.5" fill="pink" stroke-width="2" stroke="deeppink" opacity="0.6"/>
+            <text x="420" y="49" text-anchor="start" writing-mode="lr" font-size="15">Negative</text>
+            <rect x="400" width="12.5" y="37.5" height="12.5" fill="skyblue" stroke-width="2" stroke="blue" transform="translate(0, 20)" opacity="0.6"/>
+            <text x="420" y="49" text-anchor="start" writing-mode="lr" font-size="15" transform="translate(0,20)">Positive</text>
+            <rect x="400" width="12.5" y="37.5" height="12.5" fill="gold" stroke-width="2" stroke="darkorange" transform="translate(0, 40)" opacity="0.6"/>
+            <text x="420" y="49" text-anchor="start" writing-mode="lr" font-size="15" transform="translate(0,40)">Neutral</text>
+            
             <xsl:for-each-group select="descendant::action" group-by="@actor">
                 <xsl:variable name="pos_count" as="xs:integer" select="count(current-group()/@sign[.='positive'])"/>
                 <xsl:variable name="neg_count" as="xs:integer" select="count(current-group()/@sign[.='negative'])"/>
@@ -116,17 +127,6 @@
                 <!-- Axes -->
                 <line x1="-125" x2="350" y1="0" y2="0" stroke="black" stroke-width="2" stroke-linecap="square"/>
                 <line x1="0" x2="0" y1="0" y2="{$actor_count*$yscale}" stroke="black" stroke-width="2" stroke-linecap="square"/>
-                
-                <!-- Key -->
-                <rect x="375" width="125" y="0" height="100" fill="white" stroke="black" stroke-width="1"></rect>
-                <text x="390" y="25" text-anchor="start" writing-mode="lr" font-size="20" font-weight="bold">Key</text>
-                <line x1="390" x2="425" y1="27.5" y2="27.5" stroke="black" stroke-width="2"/>
-                <rect x="400" width="12.5" y="37.5" height="12.5" fill="pink" stroke-width="2" stroke="deeppink" opacity="0.6"/>
-                <text x="420" y="49" text-anchor="start" writing-mode="lr" font-size="15">Negative</text>
-                <rect x="400" width="12.5" y="37.5" height="12.5" fill="skyblue" stroke-width="2" stroke="blue" transform="translate(0, 20)" opacity="0.6"/>
-                <text x="420" y="49" text-anchor="start" writing-mode="lr" font-size="15" transform="translate(0,20)">Positive</text>
-                <rect x="400" width="12.5" y="37.5" height="12.5" fill="gold" stroke-width="2" stroke="darkorange" transform="translate(0, 40)" opacity="0.6"/>
-                <text x="420" y="49" text-anchor="start" writing-mode="lr" font-size="15" transform="translate(0,40)">Neutral</text>
                 
             </xsl:for-each-group>
         </g>
