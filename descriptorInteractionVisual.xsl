@@ -42,7 +42,7 @@
             <!--*****************************-->
             <xsl:for-each select="sort(distinct-values(descendant::descriptor/@subject))">
 
-                <text x="{$spacing * position()}" y="20" text-anchor="middle">
+                <text x="{$spacing * position()}" y="20" text-anchor="middle" transform="rotate(227, {$spacing * position()}, 45)" writing-mode="tb">
                     <xsl:value-of select="."/>
                 </text>
 
@@ -61,26 +61,30 @@
                     stroke-width="1"/>
             </xsl:for-each>
 
-            <text x="600" y="-725" font-size="40" text-anchor="middle">
+            <text x="{$xAxisLength div 2}" y="-{$yAxisLength + 50}" font-size="40" text-anchor="middle">
                 <xsl:apply-templates select="title"/>
             </text>
 
-            <text x="-110" y="-350" font-size="35" transform="rotate(-90 -110, -350)"
+            <text x="-110" y="-{$yAxisLength div 2}" font-size="35" transform="rotate(-90 -110, -{$yAxisLength div 2})"
                 text-anchor="middle"> Speakers </text>
 
-            <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
+            <text x="{$xAxisLength div 2}" y="150" font-size="35" text-anchor="middle"> Subjects </text>
 
             <!--*****************************-->
             <!--Key                          -->
             <!--*****************************-->
 
-            <rect x="0" y="160" width="30" height="30" fill-opacity="0.7" fill="#3E6E63"
+            <rect x="-110" y="180" width="30" height="30" fill-opacity="0.7" fill="skyblue"
                 stroke="black"/>
-            <rect x="0" y="220" width="30" height="30" fill-opacity="0.7" fill="red" stroke="black"/>
+            <rect x="-110" y="240" width="30" height="30" fill-opacity="0.7" fill="pink" stroke="black"/>
+            
+            <rect x="-110" y="300" width="30" height="30" fill-opacity="0.7" fill="gold" stroke="black"/>
 
-            <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+            <text x="-50" y="205" font-size="35" text-anchor="left">Positive</text>
 
-            <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+            <text x="-50" y="265" font-size="35" text-anchor="left">Negative</text>
+            
+            <text x="-50" y="325" font-size="35" text-anchor="left">Neutral</text>
 
             <!--************-->
             <!--Circles -->
@@ -129,9 +133,18 @@
                                         Size (radius) corresponds to strength of relationship.-->
                     <xsl:variable name="barColor" as="xs:string" select="
                             if ($positive gt $negative) then
-                                '#3E6E63'
+                                'skyblue'
                             else
-                                'red'"/>
+                                'pink'"/>
+                    
+    
+                    
+                    <xsl:if test="$radius eq 0">
+                        <rect x="{$spacing * $currentSubjectPosition - 5}"
+                            y="-{$spacing * $currentSpeakerPosition  + 5}" width = "10" height = "10"
+                            fill="gold" fill-opacity=".7" stroke="black" transform = 
+                            "rotate(45 {$spacing * $currentSubjectPosition}, -{$spacing * $currentSpeakerPosition})"/>
+                    </xsl:if>
 
                     
                         <circle cx="{$spacing * $currentSubjectPosition}"
