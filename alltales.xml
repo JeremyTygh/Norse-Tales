@@ -68,7 +68,7 @@
                 well step out and see after her flock; and while she was away <action actor="fox"
                     subject="cream" sign="negative">the Fox crept into the churn and ate up the
                     cream.</action> So when the Goody came back and saw that, she fell into such a rage,
-                that <descriptor speaker="narrator" subject="fox" sign="negative"><action
+                that <descriptor speaker="Narrator" subject="fox" sign="negative"><action
                     actor="woman" subject="fox" sign="positive">she snatched up the little morsel of
                     the cream that was left, and threw it at the fox as he ran off,</action> so that
                     he got a dab of it on the end of his tail, and that’s the reason why the fox has a
@@ -102,7 +102,7 @@
                 >giant</character> came out, and set his eyes upon them, and <action actor="Giant"
                 subject="princes and princesses" sign="negative">turned them all into stone, princes
                 and princesses and all.</action>
-            <descriptor subject="King" sign="negative" speaker="narrator">Now the king waited and
+            <descriptor subject="King" sign="negative" speaker="Narrator">Now the king waited and
                 waited for his six sons, but the more he waited, the longer they stayed away; so he
                 fell into great trouble, and said he should never know what it was to be glad
                 again.</descriptor></p>
@@ -119,7 +119,7 @@
         </p>
         <p>But <character who="Boots">Boots</character> had set his heart upon it; go he would; and
             he begged and prayed so long that the <character who="King">king</character> was forced
-            to let him go. <descriptor subject="King" sign="negative" speaker="narrator">Now, you
+            to let him go. <descriptor subject="King" sign="negative" speaker="Narrator">Now, you
                 must know the king had no other horse to give <character who="Boots"
                     >Boots</character> but an old broken-down jade, for his six other sons and their
                 train had carried off all his horses;</descriptor> but <character who="Boots"
@@ -130,7 +130,7 @@
                 that he rode off.</dialogue>
         </p>
         <p>So, when he had ridden a while, he came to a <character who="Raven">Raven</character>,
-                <descriptor subject="Raven" sign="neutral" speaker="narrator">which lay in the road
+                <descriptor subject="Raven" sign="neutral" speaker="Narrator">which lay in the road
                 and flapped its wings, and was not able to get out of the way, it was so
                 starved.</descriptor></p>
         <p><fig_lang type="personification" subject="Raven">“Oh, dear friend”, said the <character
@@ -146,7 +146,7 @@
         </p>
         <p>Now, when he had gone a bit further, he came to a brook, and in the brook lay a
                 <character who="Salmon">great Salmon</character>, <descriptor subject="Salmon"
-                sign="neutral" speaker="narrator">which had got upon a dry place and dashed itself
+                sign="neutral" speaker="Narrator">which had got upon a dry place and dashed itself
                 about, and could not get into the water again.</descriptor></p>
         <p><dialogue speaker="Salmon" subject="Boots"><fig_lang type="personification"
                     subject="Salmon">“Oh, dear friend”, said the <character who="Salmon"
@@ -185,7 +185,7 @@
         <p><action actor="Wolf" subject="Boots" sign="positive">So when the <character who="Wolf"
                     >wolf</character> had eaten the horse, <character who="Boots">Boots</character>
                 took the bit and put it into the wolf’s jaw, and laid the saddle on his back;
-                    <descriptor subject="Wolf" sign="positive" speaker="narrator">and now the
+                    <descriptor subject="Wolf" sign="positive" speaker="Narrator">and now the
                         <character who="Wolf">wolf</character> was so strong, after what he had got
                     inside, that he set off with the <character who="Boots">Prince</character> like
                     nothing. So fast he had never ridden before.</descriptor></action>
@@ -195,11 +195,12 @@
                 house.”</dialogue>
         </p>
         <p>So after a while they came to it.</p>
-        <p><dialogue speaker="Wolf" subject="Boots"><descriptor subject="Giant's House"
+        <p><dialogue speaker="Wolf" subject="Boots"><descriptor subject="Giant"
                     sign="negative" speaker="Wolf">“See, here is the Giant’s house”, said the
-                        <character who="Wolf">Wolf</character>; “and see, here are your six
+                    <character who="Wolf">Wolf</character>; <action actor="Giant" subject="prince 
+                    and princesses" sign="negative">“and see, here are your six
                     brothers, whom the <character who="Giant">Giant</character> has turned into
-                    stone; and see here are their six brides, and away yonder is the door, and in at
+                    stone; and see here are their six brides,</action> and away yonder is the door, and in at
                     that door you must go.”</descriptor></dialogue>
         </p>
         <p><dialogue speaker="Boots" subject="Wolf">“Nay, but I daren’t go in”, said the <character
@@ -218,8 +219,9 @@
                     >Boots</character> had never yet set eyes on.</descriptor></p>
         <p><dialogue speaker="Princess" subject="Boots">“Oh! heaven help you! whence have you
                 come?” said the <character who="Princess">Princess</character>, as she saw him; “it
-                will surely be your death. No one can make an end of the Giant who lives here, for
-                he has no heart in his body.”</dialogue>
+                will surely be your death. <descriptor subject="Giant" sign="negative" speaker="Princess">
+                    No one can make an end of the Giant who lives here, for
+                he has no heart in his body.”</descriptor></dialogue>
         </p>
         <p><dialogue speaker="Boots" subject="Princess">“Well! well!” said <character who="Boots"
                     >Boots</character>; “but now that I am here, I may as well try what I can do
@@ -388,22 +390,22 @@
                 the <character who="Wolf">Wolf</character> bade him only not be afraid, but stick
                 on, and so he jumped into the lake with the <character who="Boots"
                     >Prince</character> on his back, and swam over to the island. So they came to
-                the church</action>; <descriptor subject="key" sign="negative" speaker="Boots"/>but
+                the church</action>; but
             the church keys hung high, high up on the top of the tower, and at first the <character
                 who="Boots">Prince</character> did not know how to get them down.</p>
         <p><dialogue speaker="Wolf" subject="Boots">“You must call on the <character who="Raven"
-                    >raven</character>”, said the <character who="Wolf">Wolf</character>.</dialogue>
-        </p>
+                    >raven</character>”, said the <character who="Wolf">Wolf</character>.</dialogue></p>
         <p><action actor="Raven" subject="Boots" sign="positive">So the <character who="Boots"
                     >Prince</character> called on the <character who="Raven">raven</character>, and
                 in a trice the <character who="Raven">raven</character> came, and flew up and
                 fetched the keys, and so the <character who="Boots">Prince</character> got into the
                 church</action>. But when he came to the well, there lay the duck, and swam about
             backwards and forwards, just as the <character who="Giant">Giant</character> had said.
-                <action actor="Boots" subject="egg" sign="negative">So the <character who="Boots"
+                <action actor="Boots" subject="egg" sign="positive">So the <character who="Boots"
                     >Prince</character> stood and coaxed it and coaxed it, till it came to him, and
-                he grasped it in his hand; but just as he lifted it up from the water the duck
-                dropped the egg into the well, and then <character who="Boots">Boots</character> was
+                he grasped it in his hand; 
+                but just as he lifted it up from the water the duck dropped the egg into the well, 
+                and then <character who="Boots">Boots</character> was
                 beside himself to know how to get it out again.</action></p>
         <p><dialogue speaker="Wolf" subject="Boots">“Well, now you must call on the <character
                     who="Salmon">salmon</character> to be sure”, said the <character who="Wolf"
@@ -434,17 +436,17 @@
                     <character who="Wolf">Wolf</character>.</dialogue>
             <action actor="Boots" subject="Giant" sign="positive"> So <character who="Boots"
                     >Boots</character> squeezed the egg to pieces, <descriptor subject="Giant"
-                    sign="positive" speaker="narrator">and the <character who="Giant"
+                    sign="positive" speaker="Narrator">and the <character who="Giant"
                         >Giant</character> burst at once.</descriptor></action>
         </p>
         <p>Now, when he had made an end of the <character who="Giant">Giant</character>, <descriptor
-                subject="Boots, Princess, princes, and princess" sign="neutral" speaker="narrator"
+                subject="Boots, Princess, princes, and princess" sign="neutral" speaker="Narrator"
                     ><character who="Boots">Boots</character> rode back again on the <character
                     who="Wolf">wolf</character> to the Giant’s house, and there stood all his six
                 brothers alive and merry, with their brides. Then <character who="Boots"
                     >Boots</character> went into the hill-side after his bride, and so they all set
                 off home again to their father’s house.</descriptor>
-            <descriptor subject="King" sign="positive" speaker="narrator">And you may fancy how glad
+            <descriptor subject="King" sign="positive" speaker="Narrator">And you may fancy how glad
                 the old king was when he saw all his seven sons come back, each with his
                 bride—</descriptor><dialogue speaker="King" subject="everyone"><descriptor
                     subject="Princess" sign="positive" speaker="King">“But the loveliest bride of
@@ -461,7 +463,7 @@
         <title>TAMING THE SHREW</title>
         <body>
             <p>Once on a time there was a <character>king</character>, and he had a
-                <character>daughter</character> who was such <descriptor speaker="narrator"
+                <character>daughter</character> who was such <descriptor speaker="Narrator"
                     subject="Princess" sign="negative">a scold</descriptor>, and whose<fig_lang
                         type="personification" subject="Princess" sign="negative"> tongue went so fast,
                         there was no stopping it</fig_lang>. So he gave out that the man who could stop her
@@ -469,7 +471,7 @@
                 three brothers, who heard this, made up their minds to go and try their luck; and first
                 of all the two elder went, for they thought they were the cleverest; but they couldn’t
                 cope with her at all, and got well thrashed besides.</p>
-            <p> Then <character>Boots</character>, the <descriptor speaker="narrator" subject="Boots" sign="neutral">
+            <p> Then <character>Boots</character>, the <descriptor speaker="Narrator" subject="Boots" sign="neutral">
                 youngest</descriptor>, set off, and when he had gone a little way he found an ozier
                 band lying on the road, and he picked it up. When he had gone a little farther he found
                 a piece of a broken plate, and he picked that up too. A little farther on he found a
@@ -506,7 +508,7 @@
         <p>Once on a time there was a <character who="King Queen">king and a queen</character>
             <descriptor speaker="Narrator" subject="King Queen" sign="neutral">who had no
                 children</descriptor>, <descriptor subject="Queen" sign="negative"
-                speaker="narrator">and that gave the queen much grief; she scarce had one happy
+                speaker="Narrator">and that gave the queen much grief; she scarce had one happy
                 hour. She was always bewailing and bemoaning herself, and saying how dull and
                 lonesome it was in the palace.</descriptor></p>
         <p><dialogue speaker="Queen" subject="herself">“If we had children there’d be life enough”,
@@ -568,7 +570,7 @@
         <p>Then the <character who="Queen">Queen</character> got angry, and wanted again to drive
             out the <character who="beggar wife's daughter">little lassie</character>; but she
             declared it was true every word that she had said.</p>
-        <p><dialogue speaker="little girl" subject="Queen">“Let the <character who="Queen"
+        <p><dialogue speaker="beggar wife's daughter" subject="Queen">“Let the <character who="Queen"
                     >Queen</character> only give my mother a drop to drink,” said the <character
                     who="beggar wife's daughter">lassie</character>; “when she gets merry she’ll
                 soon find out a way to help you.”</dialogue>
@@ -583,8 +585,8 @@
                 know”, said the beggar wife. “Your Majesty must make them bring in two pails of
                 water some evening before you go to bed. In each of them you must wash yourself, and
                 afterwards throw away the water under the bed. When you look under the bed next
-                morning, <descriptor subject="flowers" sign="neutral" speaker="old beggar wife">two
-                    flowers will have sprung up, one fair and one ugly.</descriptor> The fair one
+                morning, two
+                    flowers will have sprung up, one fair and one ugly. The fair one
                 you must eat, the ugly one you must let stand; but mind you don’t forget the
                 last.”</dialogue>
         </p>
@@ -592,19 +594,18 @@
         <p><action actor="Queen" subject="flowers" sign="neutral">Yes; the <character who="Queen"
                     >Queen</character> did what the beggar wife advised her to do; she had the water
                 brought up in two pails, washed herself in them, and emptied them under the bed; and
-                lo! when she looked under the bed next morning, there stood two flowers; <descriptor
-                    subject="ugly flower" sign="negative" speaker="Queen">one was ugly and foul, and
-                    had black leaves;</descriptor>
-                <descriptor subject="pretty flower" sign="positive" speaker="Queen">but the other
-                    was so bright, and fair, and lovely, she had never seen its like;</descriptor>
-                so she ate it up at once. <action actor="Queen" subject="ugly flower"
+                lo! when she looked under the bed next morning, there stood two flowers; one was ugly and foul, and
+                    had black leaves;
+                but the other
+                    was so bright, and fair, and lovely, she had never seen its like;
+                so she ate it up at once. <action actor="Queen" subject="Queen"
                     sign="negative">But the pretty flower tasted so sweet, that she couldn’t help
                     herself. She ate the other up too,</action> for, she thought,</action>
-            <dialogue speaker="Queen" subject="herself">“it can’t hurt or help one much either way,
+            <dialogue speaker="Queen" subject="Queen">“it can’t hurt or help one much either way,
                 I’ll be bound”.</dialogue></p>
         <p>Well, sure enough, after a while the <character who="Queen">Queen</character> was brought
-            to bed. <descriptor subject="Queen" sign="positive" speaker="narrator">First of all, she
-                had a <descriptor speaker="narrator" subject="Tatterhood" sign="negative"
+            to bed. <descriptor subject="Queen" sign="positive" speaker="Narrator">First of all, she
+                had a <descriptor speaker="Narrator" subject="Tatterhood" sign="negative"
                     >girl</descriptor> who had a wooden spoon in her hand, and rode upon a goat;
                 loathly and ugly she was, and the very moment she came into the world</descriptor>,
             she bawled out <dialogue speaker="Tatterhood" subject="Queen">“Mamma”</dialogue>.</p>
@@ -617,26 +618,26 @@
                 rode on the goat, “for one will soon come after me who is better
                 looking.”</dialogue>
         </p>
-        <p>So, after a while, <descriptor subject="Queen" sign="positive" speaker="narrator">the
+        <p>So, after a while, <descriptor subject="Queen" sign="positive" speaker="Narrator">the
                     <character who="Queen">Queen</character> had <character>another
-                girl</character></descriptor>, <descriptor speaker="narrator" subject="younger twin"
+                girl</character></descriptor>, <descriptor speaker="Narrator" subject="younger twin"
                 sign="neutral">who was so fair and sweet, no one had ever set eyes on such a lovely
                 child</descriptor>, and with her you may fancy the <character who="Queen"
-                >Queen</character> was very well pleased. The <descriptor speaker="narrator"
+                >Queen</character> was very well pleased. The <descriptor speaker="Narrator"
                 subject="Tatterhood" sign="neutral"><descriptor subject="Tatterhood" sign="neutral"
-                    speaker="narrator">elder twin</descriptor> they called “<character
+                    speaker="Narrator">elder twin</descriptor> they called “<character
                     who="Tatterhood">Tatterhood</character>”, because she was always so ugly and
                 ragged, and because she had a hood which hung about her ears in
             tatters</descriptor>. <descriptor subject="Tatterhood" sign="negative" speaker="Queen"
                 >The <character who="Queen">Queen</character> could scarce bear to look at her, and
                 the nurses tried to shut her up in a room by herself, <descriptor
-                    subject="younger twin and Tatterhood" sign="neutral" speaker="narrator">but it
+                    subject="younger twin and Tatterhood" sign="neutral" speaker="Narrator">but it
                     was all no good; where the younger twin was, there she must also be, and no one
                     could ever keep them apart.</descriptor></descriptor></p>
-        <p><descriptor subject="Christmas eve" sign="negative" speaker="narrator">Well, one
-                Christmas eve, <descriptor subject="Tatterhood and younger twin" sign="neutral" speaker="narrator"
+        <p>Well, one
+                Christmas eve, <descriptor subject="younger twin and Tatterhood" sign="neutral" speaker="Narrator"
                     >when they were half grown up</descriptor>, there rose such a frightful noise
-                and clatter in the gallery outside the Queen’s bower.</descriptor>
+                and clatter in the gallery outside the Queen’s bower.
             <dialogue subject="Queen" speaker="Tatterhood">So <character who="Tatterhood"
                     >Tatterhood</character> asked what it was that dashed and crashed so out in the
                 passage.</dialogue></p>
@@ -656,7 +657,7 @@
                 them came so much as the least bit ajar.</dialogue> Having said this, <action
                 actor="Tatterhood" subject="trolls and witches" sign="positive">off she went with
                 her wooden spoon, and began to hunt and sweep away the hags</action>; <descriptor
-                subject="palace" sign="negative" speaker="narrator">and all this while there was
+                subject="palace" sign="negative" speaker="Narrator">and all this while there was
                 such a pother out in the gallery, the like of it was never heard. The whole Palace
                 creaked and groaned as if every joint and beam were going to be torn out of its
                 place. Now, how it was, I’m sure I can’t tell; but somehow or other one door did get
@@ -666,7 +667,7 @@
                 were going with <character who="Tatterhood">Tatterhood</character>, and put her head
                 a tiny bit through the opening. But, POP! up came an old witch, and whipped off her
                 head, and stuck a calf’s head on her shoulders instead; and <descriptor
-                    subject="younger twin" sign="negative" speaker="narrator">so the <character
+                    subject="younger twin" sign="negative" speaker="Narrator">so the <character
                         who="younger twin">Princess</character> ran back into the room on all-fours,
                     and began to “moo” like a calf.</descriptor></action> When <character
                 who="Tatterhood">Tatterhood</character> came back and saw her sister, she scolded
@@ -675,7 +676,7 @@
         <p><dialogue speaker="Tatterhood" subject="everyone">“But still I’ll see if I can’t set her
                 free”, she said.</dialogue>
         </p>
-        <p><descriptor subject="Tatterhood" sign="positive" speaker="narrator">Then she asked the King for a ship in full trim, and well fitted with stores; but captain
+        <p><descriptor subject="Tatterhood" sign="positive" speaker="Narrator">Then she asked the King for a ship in full trim, and well fitted with stores; but captain
             and sailors she wouldn’t have. No; she would sail away with her sister all alone; and as
             there was no holding her back, at last they let her have her own way.</descriptor></p>
         <p><action actor="Tatterhood" subject="ship" sign="positive">Then <character
@@ -697,7 +698,7 @@
                 been before.</action> After that she sailed a long, long way, to a strange king’s
             realm.</p>
         <p>Now the <character who="foreign king">king</character> of that land <descriptor
-                subject="foreign king" sign="neutral" speaker="narrator">was a widower, and had an
+                subject="foreign king" sign="neutral" speaker="Narrator">was a widower, and had an
                 only son.</descriptor>
             <action actor="foreign king" subject="foreign king's men" sign="neutral">So when he saw
                 the strange sail, he sent <character who="foreign king's men">messengers</character>
@@ -716,7 +717,7 @@
                     >Tatterhood</character> said “No”:</dialogue></p>
         <p><dialogue speaker="Tatterhood" subject="foreign king's men">“No one shall see her, unless
                 the king comes himself”, she said;</dialogue> and so <descriptor
-                subject="Tatterhood" sign="neutral" speaker="narrator">she began to gallop about on
+                subject="Tatterhood" sign="neutral" speaker="Narrator">she began to gallop about on
                 her goat till the deck thundered again.</descriptor></p>
         <p><action actor="foreign king's men" subject="foreign king" sign="neutral">So when the
                 servants got back to the palace, and told what they had seen and heard down at the
@@ -733,7 +734,7 @@
                 subject="King">“No”; the <character who="foreign king">king</character> couldn’t
                 have her in any way, unless the <character who="Prince">king’s son</character> chose
                 to have <character who="Tatterhood">Tatterhood</character>.</dialogue> That you may
-            fancy the <descriptor subject="Prince" sign="negative" speaker="narrator"><character
+            fancy the <descriptor subject="Prince" sign="negative" speaker="Narrator"><character
                     who="Prince">prince</character> was very loath to do,</descriptor>
             <descriptor subject="Tatterhood" sign="negative" speaker="Prince">such an ugly hussy as
                     <character who="Tatterhood">Tatterhood</character> was;</descriptor> but at last
@@ -743,11 +744,11 @@
         <p>Now they set about the wedding, both with brewing and baking; and when all was ready,
             they were to go to church; but the <character who="Prince">prince</character> thought it
             the weariest churching he had ever had in all his life. <descriptor
-                subject="foreign king and younger twin" sign="positive" speaker="narrator">First,
+                subject="foreign king and younger twin" sign="positive" speaker="Narrator">First,
                 the <character who="foreign king">king</character> drove off with his bride, and she
                 was so lovely and so grand, all the people stopped to look after her all along the
                 road, and they stared at her till she was out of sight.</descriptor>
-            <descriptor subject="Tatterhood Prince" sign="negative" speaker="narrator">After them
+            <descriptor subject="Tatterhood; Prince" sign="negative" speaker="Narrator">After them
                 came the <character who="Prince">prince</character> on horseback by the side of
                     <character who="Tatterhood">Tatterhood</character>, who trotted along on her
                 goat with her wooden spoon in her fist, and to look at him, it was more like going
@@ -764,18 +765,18 @@
                 >Tatterhood</character>.</dialogue>
         </p>
         <p><dialogue speaker="Prince" subject="Tatterhood">“Why do you ride on that <descriptor
-                    subject="goat" sign="negative" speaker="Prince">ugly goat</descriptor>?” asked
+                    subject="Tatterhood" sign="negative" speaker="Prince">ugly goat</descriptor>?” asked
                 the <character who="Prince">prince</character>.</dialogue>
         </p>
         <p><dialogue speaker="Tatterhood" subject="Prince">“Is it an ugly goat? why, it’s the
                 grandest horse bride ever rode on”, answered <character who="Tatterhood"
                     >Tatterhood</character>;</dialogue>
-            <misconception actor="Prince" subject="goat" sign="positive">and in a trice the goat
+            <misconception actor="Prince" subject="Tatterhood" sign="positive">and in a trice the goat
                 became a horse, and that the finest the <character who="Prince">prince</character>
                 had ever set eyes on.</misconception>
         </p>
         <p>Then they rode on again a bit, <descriptor subject="Prince" sign="negative"
-                speaker="narrator">but the <character who="Prince">prince</character> was just as
+                speaker="Narrator">but the <character who="Prince">prince</character> was just as
                 woeful as before, and couldn’t get a word out.</descriptor>
             <dialogue subject="Prince" speaker="Tatterhood">So <character who="Tatterhood"
                     >Tatterhood</character> asked him again why he didn’t talk,</dialogue> and when
@@ -785,7 +786,7 @@
                 this ugly spoon in my fist.”</dialogue>
         </p>
         <p><dialogue speaker="Prince" subject="Tatterhood">“Why do you ride with that <descriptor
-                    subject="wand" sign="negative" speaker="Prince"/>ugly spoon? “asked the
+                    subject="Tatterhood" sign="negative" speaker="Prince"/>ugly spoon? “asked the
                     <character who="Prince">prince</character>.</dialogue>
         </p>
         <p><dialogue speaker="Tatterhood" subject="Prince">“Is it an ugly spoon? why, it’s the
@@ -795,13 +796,13 @@
                 silver wand, so dazzling bright, the sunbeams glistened from it.</misconception>
         </p>
         <p>So they rode on another bit, <descriptor subject="Prince" sign="negative"
-                speaker="narrator">but the Prince was just as sorrowful, and said never a
+                speaker="Narrator">but the Prince was just as sorrowful, and said never a
                 word.</descriptor> In a little while, <dialogue subject="Prince"
                 speaker="Tatterhood"><character who="Tatterhood">Tatterhood</character> asked him
                 again why he didn’t talk, and bade him ask why she wore that ugly grey hood on her
                 head.</dialogue></p>
         <p><dialogue speaker="Prince" subject="Tatterhood">“Why do you wear that <descriptor
-                    subject="hood" sign="negative" speaker="Prince">ugly grey hood on your
+                    subject="Tatterhood" sign="negative" speaker="Prince">ugly grey hood on your
                     head</descriptor>?” asked the Prince.</dialogue>
         </p>
         <p><dialogue speaker="Tatterhood" subject="Prince">“Is it an ugly hood? why, it’s the
@@ -811,7 +812,7 @@
                 the spot.</misconception>
         </p>
         <p>Now, they rode on a long while again, <descriptor subject="Prince" sign="negative"
-                speaker="narrator">and the Prince was so woeful, that he sat without sound or speech
+                speaker="Narrator">and the Prince was so woeful, that he sat without sound or speech
                 just as before.</descriptor>
             <dialogue subject="Prince" speaker="Tatterhood">So his bride asked him again why he
                 didn’t talk, and bade him ask now, why her face was so ugly and
@@ -825,7 +826,7 @@
                 actor="Prince" subject="Tatterhood" sign="positive"> when the Prince looked at her,
                 she was so lovely, he thought there never was so lovely a woman in all the
                 world.</misconception> After that, I shouldn’t wonder if the Prince found his
-            tongue, <descriptor subject="Prince" sign="positive" speaker="narrator">and no longer
+            tongue, <descriptor subject="Prince" sign="positive" speaker="Narrator">and no longer
                 rode along hanging down his head.</descriptor></p>
         <p>So they drank the bridal cup both deep and long, and, after that, both <character
                 who="Prince">Prince</character> and King set out with their brides to the Princess’s
@@ -1477,9 +1478,9 @@
         <title>THE LAD WHO WENT TO THE NORTH WIND</title>
         <body>
             <p>Once on a time there was an <character>old widow</character> who had one
-                <character>son</character>; and as she was <descriptor speaker="narrator"
+                <character>son</character>; and as she was <descriptor speaker="Narrator"
                     subject="mother" sign="negative">poorly</descriptor> and <descriptor
-                        speaker="narrator" subject="mother" sign="negative">weak</descriptor>, her son had
+                        speaker="Narrator" subject="mother" sign="negative">weak</descriptor>, her son had
                 to go up into the safe to fetch meal for cooking; but when he got outside the safe, and
                 was just going down the steps, there came the <character>North Wind</character>, <action
                     actor="North Wind" subject="meal" sign="negative">puffing</action> and <action
@@ -1488,7 +1489,7 @@
                 more; but when he came out again on the steps, if the <character>North Wind</character>
                 didn’t come again and carry off the meal with a <action actor="North Wind"
                     subject="meal" sign="negative">puff</action>; and, more than that, he did so the
-                third time. At this the lad got very <descriptor speaker="narrator" subject="lad"
+                third time. At this the lad got very <descriptor speaker="Narrator" subject="lad"
                     sign="negative">angry</descriptor>; and as he thought it hard that the
                 <character>North Wind</character> should behave so, he thought he’d just look him
                 up, and ask him to give up his meal.</p>
@@ -1499,8 +1500,8 @@
                 speaker="lad" subject="North Wind">and thank you for coming to see us
                 yesterday.</dialogue></p>
             <p><dialogue speaker="North Wind" subject="son">"GOOD DAY!"</dialogue> answered the
-                <character>North Wind</character>, for his voice was <descriptor speaker="narrator"
-                    subject="North Wind" sign = "negative">loud</descriptor> and <descriptor speaker="narrator"
+                <character>North Wind</character>, for his voice was <descriptor speaker="Narrator"
+                    subject="North Wind" sign = "negative">loud</descriptor> and <descriptor speaker="Narrator"
                         subject="North Wind" sign = "negative">gruff</descriptor>, <dialogue speaker="North Wind"
                             subject="lad">"AND THANKS FOR COMING TO SEE ME. WHAT DO YOU WANT?"</dialogue></p>
             <p><dialogue speaker="lad" subject="North Wind">"Oh!"</dialogue> answered the lad, <dialogue
@@ -1513,7 +1514,7 @@
                     if you are in such need, I’ll give you a cloth which will get you everything you
                     want, if you only say, “Cloth, spread yourself, and serve up all kind of good
                     dishes!” "</dialogue></p>
-            <p>With this the <character>lad</character> was well <descriptor speaker="narrator"
+            <p>With this the <character>lad</character> was well <descriptor speaker="Narrator"
                 subject="lad" sign = "positive">content</descriptor>. But, as the way was so long he couldn’t get home
                 in one day, so he turned into an inn on the way; and when they were going to sit down to
                 supper he laid the cloth on a table which stood in the corner, and said, <dialogue
@@ -1585,7 +1586,7 @@
                 as to the cloth and the ram, he lay down at once on the bench and began to <action
                     actor="lad" subject="environment" sign = "negative">snore</action>, as if he were asleep.</p>
             <p>Now the <character>landlord</character>, who easily saw that the stick must be worth
-                something, <descriptor speaker="narrator" subject="landlord" sign = "negative">hunted</descriptor> up one
+                something, <descriptor speaker="Narrator" subject="landlord" sign = "negative">hunted</descriptor> up one
                 which was like it, and when he heard the lad snore, was going to change the two; but,
                 just as the <character>landlord</character> was about to <action actor="landlord"
                     subject="stick" sign = "negative">take</action> it, the lad bawled out: <dialogue speaker="lad"
@@ -1611,7 +1612,7 @@
         <body>
             <p>Once on a time, but it was a long, long time ago, there were two brothers, one
                 <descriptor speaker="Narrator" subject="Rich Brother" sign="positive"
-                    >rich</descriptor> and one <descriptor speaker="Narrartor" subject="Poor Brother"
+                    >rich</descriptor> and one <descriptor speaker="Narrator" subject="Poor Brother"
                         sign="negative">poor</descriptor>. Now, one Christmas eve, the poor one hadn’t so
                 much as a crumb in the house, either of meat or bread, so he went to his brother to ask
                 him for something to keep Christmas with, in God’s name. It was not the first time his
@@ -1804,14 +1805,14 @@
         <p>Once on a time there was a poor <character>husbandman</character> who had so many
             children that he hadn’t much of either food or clothing to give them. Pretty children
             they all were, but the prettiest was the <character>youngest daughter</character>, who
-            was so <descriptor speaker="narrator" subject="Princess" sign="positive">lovely there
+            was so <descriptor speaker="Narrator" subject="Princess" sign="positive">lovely there
                 was no end to her loveliness.</descriptor></p>
         <p>So one day, ’twas on a Thursday evening late at the fall of the year, the weather was so
             wild and rough outside, and it was so cruelly dark, and rain fell and wind blew, till
             the walls of the cottage shook again. There they all sat round the fire busy with this
             thing and that. But just then, all at once something gave three taps on the window-pane.
             Then the <character>father</character> went out to see what was the matter; and, when he
-            got out of doors, what should he see but a <descriptor speaker="narrator"
+            got out of doors, what should he see but a <descriptor speaker="Narrator"
                 subject="White Bear" sign="positive">great big</descriptor>
             <character>White Bear.</character></p>
         <p><dialogue speaker="White Bear" subject="father">“Good evening to you!”</dialogue> said
@@ -1819,7 +1820,7 @@
                 you”</dialogue>, said the man. <dialogue speaker="White Bear" subject="father">“Will
                 you give me your youngest daughter? If you will, I’ll make you as rich as you are
                 now poor”</dialogue>, said the Bear.</p>
-        <p>Well, <descriptor speaker="narrator" subject="father" sign="negative">the man would not
+        <p>Well, <descriptor speaker="Narrator" subject="father" sign="negative">the man would not
                 be at all sorry to be so rich</descriptor>; but still he thought he must have a bit
             of a talk with his daughter first; so he went in and told them how there was a
                 <descriptor speaker="father" subject="White Bear" sign="positive">great</descriptor>
@@ -1839,7 +1840,7 @@
             got upon his back with her bundle, and off they went. So, when they had gone a bit of
             the way, the White Bear said: <dialogue speaker="White Bear" subject="daughter">“Are you
                 afraid?”</dialogue>
-            <dialogue speaker="Priness" subject="White Bear">“No! she wasn’t.”</dialogue>
+            <dialogue speaker="Princess" subject="White Bear">“No! she wasn’t.”</dialogue>
             <dialogue speaker="White Bear" subject="daughter">“Well! mind and hold tight by my
                 shaggy coat, and then there’s nothing to fear”</dialogue>, said the Bear.</p>
         <p>So she rode a long, long way, till they came to a great steep hill. There, on the face
@@ -1860,9 +1861,9 @@
                 form="man" subject="White Bear">That was the White Bear, who threw off his beast
                 shape at night</transformation>; but she never saw him, for he always came after she
             had put out the light, and before the day dawned he was up and off again. So things went
-            on happily for a while, but at last she began to get <descriptor speaker="narrator"
+            on happily for a while, but at last she began to get <descriptor speaker="Narrator"
                 subject="daughter" sign="negative">silent</descriptor> and <descriptor
-                speaker="narrator" subject="daughter" sign="negative">sorrowful</descriptor>; for
+                speaker="Narrator" subject="daughter" sign="negative">sorrowful</descriptor>; for
             there she went about all day alone, and she longed to go home to see her father and
             mother and brothers and sisters. So one day, when the <character>White Bear</character>
             asked what it was that she lacked, she said it was so dull and lonely there, and how she
@@ -1878,7 +1879,7 @@
             to see her father and mother. Well, off they started, she sitting on his back; and they
             went far and long. At last they came to a grand house, and there her brothers and
             sisters were running about out of doors at play, and everything was so <descriptor
-                speaker="narrator" subject="family" sign="positive">pretty</descriptor>, ’twas a joy
+                speaker="Narrator" subject="family" sign="positive">pretty</descriptor>, ’twas a joy
             to see.</p>
         <p><dialogue speaker="White Bear" subject="daughter">“This is where your father and mother
                 live now”</dialogue>, said the White Bear; <dialogue speaker="White Bear"
@@ -1888,7 +1889,7 @@
                 forget”</dialogue>; and when she had reached the house, the <character>White
                 Bear</character> turned right about and left her.</p>
         <p>Then when she went in to see her father and mother, there was such <descriptor
-                speaker="narrator" subject="father and mother" sign="positive">joy</descriptor>,
+                speaker="Narrator" subject="father and mother" sign="positive">joy</descriptor>,
             there was no end to it. None of them thought they could thank her enough for all she had
             done for them. Now, they had everything they wished, as good as good could be, and they
             all wanted to know how she got on where she lived.</p>
@@ -1934,7 +1935,7 @@
             came a <character>man</character> and lay down beside her; but at dead of night, when
             she heard he slept, she got up and struck a light, <action actor="daughter"
                 subject="candle" sign="positive">lit</action> the candle, and let the light shine on
-            him, and so she saw that he was the <descriptor speaker="narrator" subject="Prince"
+            him, and so she saw that he was the <descriptor speaker="Narrator" subject="Prince"
                 sign="positive">loveliest</descriptor>
             <character>Prince</character> one ever set eyes on, and she fell so deep in love with
             him on the spot, that she thought she couldn’t live if she didn’t give him a kiss there
@@ -2056,8 +2057,8 @@
                 sign="positive">went from his house</action> at a fine rate. And this time, too, she
             wasn’t long on her way.</p>
         <p>So when they got to the <character>North Wind</character>’s house, he was so <descriptor
-                speaker="narrator" subject="North Wind" sign="negative">wild</descriptor> and
-                <descriptor speaker="narrator" subject="North Wind" sign="negative"
+                speaker="Narrator" subject="North Wind" sign="negative">wild</descriptor> and
+                <descriptor speaker="Narrator" subject="North Wind" sign="negative"
                 >cross</descriptor>, cold puffs came from him a long way off.</p>
         <p><dialogue speaker="North Wind" subject="South Wind">“BLAST YOU BOTH, WHAT DO YOU
                 WANT?”</dialogue> he roared out to them ever so far off, so that it <action
@@ -2076,7 +2077,7 @@
                 tired I couldn’t blow a puff for ever so many days after. But if you really wish to
                 go thither, and aren’t afraid to come along with me, I’ll take you on my back and
                 see if I can blow you thither.”</dialogue></p>
-        <p>Yes! <descriptor speaker="narrator" subject="daughter" sign="positive">with all her
+        <p>Yes! <descriptor speaker="Narrator" subject="daughter" sign="positive">with all her
                 heart</descriptor>; she must and would get thither if it were possible in any way;
             and as for fear, however madly he went, she wouldn’t be at all afraid.</p>
         <p><dialogue speaker="North Wind" subject="South Wind">“Very well, then”</dialogue>, said
@@ -2084,9 +2085,9 @@
                 here to-night, for we must have the whole day before us, if we’re to get thither at
                 all.”</dialogue></p>
         <p>Early next morning the <character>North Wind</character> woke her, and puffed himself
-            up, and blew himself out, and made himself so <descriptor speaker="narrator"
+            up, and blew himself out, and made himself so <descriptor speaker="Narrator"
                 subject="North Wind" sign="positive">stout</descriptor> and big, ’<descriptor
-                speaker="narrator" subject="North Wind" sign="negative">twas gruesome to look at
+                speaker="Narrator" subject="North Wind" sign="negative">twas gruesome to look at
                 him</descriptor>; and so off they went high up through the air, as if they would
             never stop till they got to the world’s end.</p>
         <p>Down here below there was such a storm; it threw down long tracts of wood and many
@@ -2161,8 +2162,8 @@
                     sign="negative">such a pack of</descriptor>
                 <character>Trolls</character>, and so I’ll say that I won’t have any other for my
                 bride than the woman who can wash them out, and ask you to do it.”</dialogue></p>
-        <p>So there was great <descriptor speaker="narrator" subject="daughter" sign="positive"
-                >joy</descriptor> and <descriptor speaker="narrator" subject="Prince"
+        <p>So there was great <descriptor speaker="Narrator" subject="daughter" sign="positive"
+                >joy</descriptor> and <descriptor speaker="Narrator" subject="Prince"
                 sign="positive">love</descriptor> between them all that night. But next day, when
             the wedding was to be, the Prince said: <dialogue speaker="Prince" subject="step mother"
                 >“First of all, I’d like to see what my bride is fit for.”</dialogue>
@@ -2198,10 +2199,10 @@
             and dipped it in the water, it was as white as driven snow, and whiter still. <dialogue
                 speaker="Prince" subject="daughter">“Yes; you are the <character>lassie</character>
                 for me”</dialogue>, said the Prince.</p>
-        <p>At that the old hag <descriptor speaker="narrator" subject="step mother" sign="negative"
+        <p>At that the old hag <descriptor speaker="Narrator" subject="step mother" sign="negative"
                 >flew into such a rage</descriptor>, she burst on the spot, and the
                 <character>Princess</character>
-            <descriptor speaker="narrator" subject="Princess" sign="negative">with the long
+            <descriptor speaker="Narrator" subject="Princess" sign="negative">with the long
                 nose</descriptor> after her, and the whole pack of <character>Trolls</character>
             after her—at least I’ve never heard a word about them since.</p>
         <p>As for the <character>Prince</character> and <character>Princess</character>, they set
