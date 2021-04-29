@@ -91,7 +91,7 @@
         </span>
     </xsl:template>
     <xsl:template match="character">
-        <span class="{@who}">
+        <span class="{@who} character">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
