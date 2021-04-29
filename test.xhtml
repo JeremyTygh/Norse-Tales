@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Stuff</title>
+        <!-- In Real Life, put all CSS and JavaScript in separate files
+            and link to them from the HTML; don't put them in the <head> -->
+        <style type="text/css">
+            <!--
+                By default, all of the div containers for the SVG have
+                a @class value of "hide", which the CSS makes invisible
+            -->
+            .hide {
+                display: none;
+            }</style>
+        <script type="text/javascript">
+            // Don't initialize your JavaScript this way; use an anonymous
+            //   initialization function instead
+            // When all content has loaded, tell checkboxes to listen for change events
+            // When a checkbox changes, toggle the "hide" @class value of the 
+            //   corresponding div container
+            window.addEventListener('DOMContentLoaded', init, false);
+            function init() {
+                const inputs = document.getElementsByTagName('input');
+                for (var i = 0; i &lt; inputs.length; i++) {
+                    inputs[i].addEventListener('change', toggleVisible, false);
+                }
+            }
+            function toggleVisible () {
+                document.getElementsByClassName(this.id)[0].classList.toggle('hide');
+            }</script>
+    </head>
+    <body>
+        <div>
+            <!-- Checkboxes have unique @id values -->
+            <input type="checkbox" id="n1" /><label for="n1">Red</label> | <input type="checkbox"
+                id="n2" /><label for="n1">Blue</label> | <input type="checkbox" id="n3" /><label
+                for="n1">Green</label> | <input type="checkbox" id="n4" /><label for="n1"
+                >Purple</label> | <input type="checkbox" id="n5" /><label for="n1">Brown</label>
+        </div>
+        <!-- 
+            Each SVG element is inside a <div>, and the <div> has two @class values:
+            1) One class value matches the @id of the corresponding checkbox
+            2) The other class value is "hide", which hides the image by default
+        -->
+        <div class="n1 hide">
+            <svg xmlns="http://www.w3.org/2000/svg">
+                <circle cx="100" cy="100" r="50" fill="red"/>
+            </svg>
+        </div>
+        <div class="n2 hide">
+            <svg xmlns="http://www.w3.org/2000/svg">
+                <circle cx="100" cy="100" r="50" fill="blue"/>
+            </svg>
+        </div>
+        <div class="n3 hide">
+            <svg xmlns="http://www.w3.org/2000/svg">
+                <circle cx="100" cy="100" r="50" fill="green"/>
+            </svg>
+        </div>
+        <div class="n4 hide">
+            <svg xmlns="http://www.w3.org/2000/svg">
+                <circle cx="100" cy="100" r="50" fill="purple"/>
+            </svg>
+        </div>
+        <div class="n5 hide">
+            <svg xmlns="http://www.w3.org/2000/svg">
+                <circle cx="100" cy="100" r="50" fill="brown"/>
+            </svg>
+        </div>
+    </body>
+</html>
