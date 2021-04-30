@@ -52,12 +52,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -72,12 +68,32 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots and Brothers:Narrator:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-100"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Father:Narrator:0:1</title>
+      </circle>
+      <circle cx="300"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>property:Narrator:0:0</title>
+      </circle>
    </g>
    <g transform="translate(600, 1000), scale(.3)">
       <line x1="0"
@@ -147,12 +163,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -167,12 +179,48 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="60"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots:Narrator:3:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-100"
+              r="60"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Elder Brothers:Narrator:0:3</title>
+      </circle>
+      <circle cx="300"
+              cy="-100"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King:Narrator:1:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Troll:Narrator:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-100"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>the family:Narrator:0:1</title>
+      </circle>
    </g>
    <g transform="translate(600, 1500), scale(.3)">
       <line x1="0"
@@ -210,12 +258,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -230,12 +274,16 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Father:Narrator:0:0</title>
+      </circle>
    </g>
    <g transform="translate(600, 2000), scale(.3)">
       <line x1="0"
@@ -273,12 +321,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -293,12 +337,16 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:Narrator:0:1</title>
+      </circle>
    </g>
    <g transform="translate(600, 2500), scale(.3)">
       <line x1="0"
@@ -456,12 +504,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -476,12 +520,536 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>North Wind:East Wind:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>North Wind:Prince:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-300"
+              r="40"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>North Wind:South Wind:2:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>North Wind:daughter:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>North Wind:father:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-600"
+              r="40"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>North Wind:narrator:1:3</title>
+      </circle>
+      <circle cx="200"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:East Wind:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:Prince:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:South Wind:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:daughter:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:father:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-600"
+              r="40"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:narrator:2:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:East Wind:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-200"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:Prince:0:1</title>
+      </circle>
+      <circle cx="300"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:South Wind:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-400"
+              r="40"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:daughter:0:2</title>
+      </circle>
+      <circle cx="300"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:father:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:narrator:1:1</title>
+      </circle>
+      <circle cx="400"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Trolls:East Wind:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-200"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Trolls:Prince:0:1</title>
+      </circle>
+      <circle cx="400"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Trolls:South Wind:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Trolls:daughter:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Trolls:father:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Trolls:narrator:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-100"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>West Wind:East Wind:1:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>West Wind:Prince:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>West Wind:South Wind:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>West Wind:daughter:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>West Wind:father:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>West Wind:narrator:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>White Bear:East Wind:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>White Bear:Prince:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>White Bear:South Wind:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>White Bear:daughter:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-500"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>White Bear:father:1:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-600"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>White Bear:narrator:1:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>daughter:East Wind:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>daughter:Prince:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>daughter:South Wind:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-400"
+              r="40"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>daughter:daughter:0:2</title>
+      </circle>
+      <circle cx="700"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>daughter:father:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>daughter:narrator:2:2</title>
+      </circle>
+      <circle cx="800"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>family:East Wind:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>family:Prince:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>family:South Wind:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>family:daughter:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>family:father:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-600"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>family:narrator:1:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father:East Wind:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father:Prince:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father:South Wind:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father:daughter:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father:father:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-600"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father:narrator:0:1</title>
+      </circle>
+      <circle cx="1000"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father and mother:East Wind:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father and mother:Prince:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father and mother:South Wind:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father and mother:daughter:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father and mother:father:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-600"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>father and mother:narrator:1:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>step mother:East Wind:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>step mother:Prince:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>step mother:South Wind:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>step mother:daughter:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>step mother:father:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-600"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>step mother:narrator:0:1</title>
+      </circle>
    </g>
    <g transform="translate(600, 3000), scale(.3)">
       <line x1="0"
@@ -535,12 +1103,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -555,12 +1119,40 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots:Princess:0:1</title>
+      </circle>
+      <circle cx="100"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots:narrator:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:Princess:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-200"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:narrator:0:1</title>
+      </circle>
    </g>
    <g transform="translate(600, 3500), scale(.3)">
       <line x1="0"
@@ -790,12 +1382,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -810,18 +1398,1072 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
       <circle cx="100"
               cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Christmas eve:Narrator:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Christmas eve:Prince:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Christmas eve:Queen:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Christmas eve:foreign king:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Christmas eve:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-600"
               r="20"
               fill="red"
               fill-opacity=".7"
-              stroke="black"/>
+              stroke="black">
+         <title>Christmas eve:narrator:0:1</title>
+      </circle>
+      <circle cx="100"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Christmas eve:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King Queen:Narrator:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King Queen:Prince:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King Queen:Queen:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King Queen:foreign king:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King Queen:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King Queen:narrator:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King Queen:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:Narrator:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:Prince:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:Queen:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:foreign king:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-600"
+              r="60"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:narrator:1:4</title>
+      </circle>
+      <circle cx="300"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Prince:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Queen:Narrator:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Queen:Prince:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Queen:Queen:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Queen:foreign king:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Queen:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-600"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Queen:narrator:2:1</title>
+      </circle>
+      <circle cx="400"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Queen:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood:Narrator:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-200"
+              r="40"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood:Prince:0:2</title>
+      </circle>
+      <circle cx="500"
+              cy="-300"
+              r="40"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood:Queen:0:2</title>
+      </circle>
+      <circle cx="500"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood:foreign king:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-500"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood:foreign king's men:1:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood:narrator:1:1</title>
+      </circle>
+      <circle cx="500"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood Prince:Narrator:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood Prince:Prince:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood Prince:Queen:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood Prince:foreign king:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood Prince:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-600"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood Prince:narrator:0:1</title>
+      </circle>
+      <circle cx="600"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood Prince:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood and younger twin:Narrator:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood and younger twin:Prince:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood and younger twin:Queen:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood and younger twin:foreign king:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood and younger twin:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood and younger twin:narrator:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Tatterhood and younger twin:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>beggar wife's daughter:Narrator:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>beggar wife's daughter:Prince:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-300"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>beggar wife's daughter:Queen:0:1</title>
+      </circle>
+      <circle cx="800"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>beggar wife's daughter:foreign king:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>beggar wife's daughter:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>beggar wife's daughter:narrator:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>beggar wife's daughter:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>flowers:Narrator:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>flowers:Prince:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>flowers:Queen:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>flowers:foreign king:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>flowers:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>flowers:narrator:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>flowers:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king:Narrator:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king:Prince:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king:Queen:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king:foreign king:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king:narrator:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king and younger twin:Narrator:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king and younger twin:Prince:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king and younger twin:Queen:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king and younger twin:foreign king:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king and younger twin:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-600"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king and younger twin:narrator:1:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>foreign king and younger twin:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1200"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>goat:Narrator:0:0</title>
+      </circle>
+      <circle cx="1200"
+              cy="-200"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>goat:Prince:0:1</title>
+      </circle>
+      <circle cx="1200"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>goat:Queen:0:0</title>
+      </circle>
+      <circle cx="1200"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>goat:foreign king:0:0</title>
+      </circle>
+      <circle cx="1200"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>goat:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1200"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>goat:narrator:0:0</title>
+      </circle>
+      <circle cx="1200"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>goat:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1300"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>hood:Narrator:0:0</title>
+      </circle>
+      <circle cx="1300"
+              cy="-200"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>hood:Prince:0:1</title>
+      </circle>
+      <circle cx="1300"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>hood:Queen:0:0</title>
+      </circle>
+      <circle cx="1300"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>hood:foreign king:0:0</title>
+      </circle>
+      <circle cx="1300"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>hood:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1300"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>hood:narrator:0:0</title>
+      </circle>
+      <circle cx="1300"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>hood:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1400"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>palace:Narrator:0:0</title>
+      </circle>
+      <circle cx="1400"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>palace:Prince:0:0</title>
+      </circle>
+      <circle cx="1400"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>palace:Queen:0:0</title>
+      </circle>
+      <circle cx="1400"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>palace:foreign king:0:0</title>
+      </circle>
+      <circle cx="1400"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>palace:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1400"
+              cy="-600"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>palace:narrator:0:1</title>
+      </circle>
+      <circle cx="1400"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>palace:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1500"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>pretty flower:Narrator:0:0</title>
+      </circle>
+      <circle cx="1500"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>pretty flower:Prince:0:0</title>
+      </circle>
+      <circle cx="1500"
+              cy="-300"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>pretty flower:Queen:1:0</title>
+      </circle>
+      <circle cx="1500"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>pretty flower:foreign king:0:0</title>
+      </circle>
+      <circle cx="1500"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>pretty flower:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1500"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>pretty flower:narrator:0:0</title>
+      </circle>
+      <circle cx="1500"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>pretty flower:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1600"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>ugly flower:Narrator:0:0</title>
+      </circle>
+      <circle cx="1600"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>ugly flower:Prince:0:0</title>
+      </circle>
+      <circle cx="1600"
+              cy="-300"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>ugly flower:Queen:0:1</title>
+      </circle>
+      <circle cx="1600"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>ugly flower:foreign king:0:0</title>
+      </circle>
+      <circle cx="1600"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>ugly flower:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1600"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>ugly flower:narrator:0:0</title>
+      </circle>
+      <circle cx="1600"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>ugly flower:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1700"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>wand:Narrator:0:0</title>
+      </circle>
+      <circle cx="1700"
+              cy="-200"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>wand:Prince:0:1</title>
+      </circle>
+      <circle cx="1700"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>wand:Queen:0:0</title>
+      </circle>
+      <circle cx="1700"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>wand:foreign king:0:0</title>
+      </circle>
+      <circle cx="1700"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>wand:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1700"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>wand:narrator:0:0</title>
+      </circle>
+      <circle cx="1700"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>wand:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1800"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin:Narrator:0:0</title>
+      </circle>
+      <circle cx="1800"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin:Prince:0:0</title>
+      </circle>
+      <circle cx="1800"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin:Queen:0:0</title>
+      </circle>
+      <circle cx="1800"
+              cy="-400"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin:foreign king:1:0</title>
+      </circle>
+      <circle cx="1800"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1800"
+              cy="-600"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin:narrator:0:1</title>
+      </circle>
+      <circle cx="1800"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin:old beggar wife:0:0</title>
+      </circle>
+      <circle cx="1900"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin and Tatterhood:Narrator:0:0</title>
+      </circle>
+      <circle cx="1900"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin and Tatterhood:Prince:0:0</title>
+      </circle>
+      <circle cx="1900"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin and Tatterhood:Queen:0:0</title>
+      </circle>
+      <circle cx="1900"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin and Tatterhood:foreign king:0:0</title>
+      </circle>
+      <circle cx="1900"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin and Tatterhood:foreign king's men:0:0</title>
+      </circle>
+      <circle cx="1900"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin and Tatterhood:narrator:0:0</title>
+      </circle>
+      <circle cx="1900"
+              cy="-700"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>younger twin and Tatterhood:old beggar wife:0:0</title>
+      </circle>
    </g>
    <g transform="translate(600, 4000), scale(.3)">
       <line x1="0"
@@ -859,12 +2501,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -879,12 +2517,16 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="40"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Fox's earth:Fox:2:0</title>
+      </circle>
    </g>
    <g transform="translate(600, 4500), scale(.3)">
       <line x1="0"
@@ -922,12 +2564,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -942,12 +2580,16 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>fox:narrator:0:1</title>
+      </circle>
    </g>
    <g transform="translate(600, 5000), scale(.3)">
       <line x1="0"
@@ -1105,12 +2747,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -1125,12 +2763,536 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots:Boots:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots:Giant:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-300"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots:King:1:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots:Narrator:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots:Wolf:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots:narrator:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots, Princess, princes, and princess:Boots:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots, Princess, princes, and princess:Giant:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots, Princess, princes, and princess:King:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots, Princess, princes, and princess:Narrator:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots, Princess, princes, and princess:Wolf:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Boots, Princess, princes, and princess:narrator:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant:Boots:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant:Giant:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant:King:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant:Narrator:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant:Wolf:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-600"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant:narrator:1:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant's House:Boots:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant's House:Giant:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant's House:King:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant's House:Narrator:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-500"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant's House:Wolf:0:1</title>
+      </circle>
+      <circle cx="400"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Giant's House:narrator:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King:Boots:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King:Giant:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King:King:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King:Narrator:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King:Wolf:0:0</title>
+      </circle>
+      <circle cx="500"
+              cy="-600"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>King:narrator:1:2</title>
+      </circle>
+      <circle cx="600"
+              cy="-100"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:Boots:1:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:Giant:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-300"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:King:1:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:Narrator:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:Wolf:0:0</title>
+      </circle>
+      <circle cx="600"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Princess:narrator:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Raven:Boots:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Raven:Giant:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Raven:King:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Raven:Narrator:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Raven:Wolf:0:0</title>
+      </circle>
+      <circle cx="700"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Raven:narrator:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Salmon:Boots:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Salmon:Giant:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Salmon:King:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Salmon:Narrator:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Salmon:Wolf:0:0</title>
+      </circle>
+      <circle cx="800"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Salmon:narrator:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Wolf:Boots:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Wolf:Giant:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Wolf:King:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Wolf:Narrator:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Wolf:Wolf:0:0</title>
+      </circle>
+      <circle cx="900"
+              cy="-600"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Wolf:narrator:1:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-100"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>key:Boots:0:1</title>
+      </circle>
+      <circle cx="1000"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>key:Giant:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>key:King:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>key:Narrator:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>key:Wolf:0:0</title>
+      </circle>
+      <circle cx="1000"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>key:narrator:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>princes:Boots:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>princes:Giant:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>princes:King:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-400"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>princes:Narrator:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-500"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>princes:Wolf:0:0</title>
+      </circle>
+      <circle cx="1100"
+              cy="-600"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>princes:narrator:0:0</title>
+      </circle>
    </g>
    <g transform="translate(600, 5500), scale(.3)">
       <line x1="0"
@@ -1200,12 +3362,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -1220,12 +3378,72 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="20"
+              fill="#3E6E63"
+              fill-opacity=".7"
+              stroke="black">
+         <title>North Wind:lad:1:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-200"
+              r="40"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>North Wind:narrator:0:2</title>
+      </circle>
+      <circle cx="200"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>lad:lad:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>lad:narrator:1:1</title>
+      </circle>
+      <circle cx="300"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>landlord:lad:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-200"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>landlord:narrator:0:1</title>
+      </circle>
+      <circle cx="400"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>mother:lad:0:0</title>
+      </circle>
+      <circle cx="400"
+              cy="-200"
+              r="40"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>mother:narrator:0:2</title>
+      </circle>
    </g>
    <g transform="translate(600, 6000), scale(.3)">
       <line x1="0"
@@ -1295,12 +3513,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -1315,12 +3529,80 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Rancher:Narrator:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Rancher:Old Dame:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-300"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Rancher:Self:0:1</title>
+      </circle>
+      <circle cx="200"
+              cy="-100"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Rancher's Wife:Narrator:0:1</title>
+      </circle>
+      <circle cx="200"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Rancher's Wife:Old Dame:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Rancher's Wife:Self:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>The Youth:Narrator:0:0</title>
+      </circle>
+      <circle cx="300"
+              cy="-200"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>The Youth:Old Dame:0:1</title>
+      </circle>
+      <circle cx="300"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>The Youth:Self:0:0</title>
+      </circle>
    </g>
    <g transform="translate(600, 6500), scale(.3)">
       <line x1="0"
@@ -1382,12 +3664,8 @@
             y="-350"
             font-size="35"
             transform="rotate(-90 -110, -350)"
-            text-anchor="middle">
-                    Speakers
-                </text>
-      <text x="600" y="80" font-size="35" text-anchor="middle">
-                    Subjects
-                </text>
+            text-anchor="middle"> Speakers </text>
+      <text x="600" y="80" font-size="35" text-anchor="middle"> Subjects </text>
       <rect x="0"
             y="160"
             width="30"
@@ -1402,11 +3680,55 @@
             fill-opacity="0.7"
             fill="red"
             stroke="black"/>
-      <text x="110" y="185" font-size="35" text-anchor="middle">
-                    Positive
-                </text>
-      <text x="110" y="245" font-size="35" text-anchor="middle">
-                    Negative
-                </text>
+      <text x="110" y="185" font-size="35" text-anchor="middle"> Positive </text>
+      <text x="110" y="245" font-size="35" text-anchor="middle"> Negative </text>
+      <circle cx="100"
+              cy="-100"
+              r="20"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Poor Brother:Narrartor:0:1</title>
+      </circle>
+      <circle cx="100"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Poor Brother:Narrator:0:0</title>
+      </circle>
+      <circle cx="100"
+              cy="-300"
+              r="40"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Poor Brother:Rich Brother:0:2</title>
+      </circle>
+      <circle cx="200"
+              cy="-100"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Rich Brother:Narrartor:0:0</title>
+      </circle>
+      <circle cx="200"
+              cy="-200"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Rich Brother:Narrator:1:1</title>
+      </circle>
+      <circle cx="200"
+              cy="-300"
+              r="0"
+              fill="red"
+              fill-opacity=".7"
+              stroke="black">
+         <title>Rich Brother:Rich Brother:0:0</title>
+      </circle>
    </g>
 </svg>
