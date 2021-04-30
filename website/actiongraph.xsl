@@ -15,13 +15,11 @@
         <xsl:variable name="actor_count" as="xs:integer"
             select="count(distinct-values(descendant::action/@actor))"/>
         <xsl:result-document href="tale-number-{@number}.svg" method="xml" indent="yes" omit-xml-declaration="yes">
-            <svg width="100%" height="{($actor_count*$yscale)+150}">
-                <g transform="translate(150,100)" class="{@number}">
+            <svg width="100%" height="{($actor_count*$yscale)+190}">
+                <g transform="translate(200,100) scale(1.3)" class="{@number}">
                     <!-- Title -->
                     <text x="100" y="-50" text-anchor="middle" writing-mode="lr" font-weight="bold"
-                        font-size="15">
-                        <xsl:apply-templates select="title"/>
-                    </text>
+                        font-size="15">Perception of Character Actions</text>
                     
                     <!-- Axes -->
                     <line x1="-125" x2="350" y1="0" y2="0" stroke="black" stroke-width="2"
@@ -173,8 +171,6 @@
                         stroke-width="2" stroke-linecap="square"/>
 
                     <!-- Key -->
-                    <rect x="375" width="125" y="0" height="100" fill="white" stroke="black"
-                        stroke-width="1"/>
                     <text x="390" y="25" text-anchor="start" writing-mode="lr" font-size="20"
                         font-weight="bold">Key</text>
                     <line x1="390" x2="425" y1="27.5" y2="27.5" stroke="black" stroke-width="2"/>

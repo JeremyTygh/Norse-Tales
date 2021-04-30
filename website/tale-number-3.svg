@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="420">
-   <g transform="translate(150,100)" class="3">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="460">
+   <g transform="translate(200,100) scale(1.3)" class="3">
       <text x="100"
             y="-50"
             text-anchor="middle"
             writing-mode="lr"
             font-weight="bold"
-            font-size="15">BOOTS WHO ATE A MATCH WITH THE TROLL</text>
+            font-size="15">Perception of Character Actions</text>
       <line x1="-125"
             x2="350"
             y1="0"
@@ -441,13 +441,6 @@
             stroke="black"
             stroke-width="2"
             stroke-linecap="square"/>
-      <rect x="375"
-            width="125"
-            y="0"
-            height="100"
-            fill="white"
-            stroke="black"
-            stroke-width="1"/>
       <text x="390"
             y="25"
             text-anchor="start"
