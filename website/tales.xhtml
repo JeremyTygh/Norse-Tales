@@ -7,12 +7,31 @@
    <title>Tales</title>
    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
    <script type="text/javascript">
+      function showChars(box, char, checkbox){
+         var names = box.getElementsByClassName(char);
+
+         if (checkbox.checked){
+            $(names).each(function (i,obj){
+               obj.style.backgroundColor = "DarkGoldenRod";
+            });
+         }
+         else{
+            $(names).each(function (i,obj){
+               obj.style.backgroundColor = "transparent";
+            });
+         }
+
+
+      }
       function addChars(box,charBox) {
 
          var div = document.getElementById(box);
          var chardiv = document.getElementById(charBox);
          var chars = div.getElementsByClassName("character");
          var word = "";
+         var ul=document.createElement('ul');
+         chardiv.appendChild(ul);
+         var words = []
          $(chars).each(function (i,obj){
             word = "";
             var info = obj.className.split(" ");
@@ -25,13 +44,44 @@
                }
                
             });
-
-            var x = document.createElement("INPUT");
+            if(!words.includes(word)){
+            words.push(word);
+            
+            
+            
+            var li = document.createElement("li");
+            ul.appendChild(li);
+            var x = document.createElement("input");
+            var l = document.createElement("Label");
+            l.innerHTML = word;
             x.setAttribute("type", "checkbox");
-            x.setAttribute("checked","false");
+            x.checked = false;
             x.setAttribute("name",word);
-            chardiv.appendChild(x);
+            
+            li.appendChild(x);
+            li.appendChild(l);
+            }
          });
+
+      }
+   </script>
+   <script type = "text/javascript">
+      function removeAllChildNodes(parent) {
+         while (parent.firstChild) {
+            parent.removeChild(parent.firstChild);
+         }
+      }
+   </script>
+   <script type="text/javascript">
+      function remChars(box,charBox) {
+
+         var div = document.getElementById(box);
+         var chardiv = document.getElementById(charBox);
+         var chars = div.getElementsByClassName("character");
+         var word = "";
+         var ul=document.createElement('ul');
+         removeAllChildNodes(chardiv);
+         
 
       }
    </script>
@@ -44,14 +94,15 @@
          if (chboxs.checked) {
             document.getElementById(box).style.display = "inline";
             document.getElementById("char" + box).style.display = "inline";
-            
+            addChars(box, "char" + box);
          }
          else {
             document.getElementById(box).style.display = vis;
             document.getElementById("char" + box).style.display = vis;
+            remChars(box, "char" + box);
          }
 
-         addChars(box, "char" + box);
+         
 
       }
    </script>
@@ -3616,19 +3667,20 @@
             <nav class="checkboxes">
                <h2> Characters</h2>
 
-               <div id='charBOOTSANDHISBROTHERS' style='display: none;'>
-                  <ul>
-                     <li>
-      
-                     </li>
-                     <li><input type="checkbox" class="c" onclick="showChar('')"></input>
-                        <label > <span class = "desc">Character 2</span></label>
-                     </li>
-                     <li><input type="checkbox" class="c" onclick="showChar('')"></input>
-                        <label > <span class="mis"> Character 3</span></label>
-                     </li>
-                  </ul>
+               <div id='charBOOTSANDHISBROTHERS' style='display: none;'> 
                </div>
+               <div id='charBOOTSANDTHETROLL'></div>
+               <div id='charBOOTSWHOATEAMATCHWITHTHETROLL'></div>
+               <div id='charBOOTS,WHOMADETHEPRINCESSSAY,“THAT’SASTORY”'></div>
+               <div id='charEASTO’THESUNANDWESTO’THEMOON'></div>
+               <div id='charTAMINGTHESHREW'></div>
+               <div id='charTATTERHOOD'></div>
+               <div id='charTHECOCKANDHENTHATWENTTOTHEDOVREFELL'></div>
+               <div id='charTHEFOXASHERDSMAN'></div>
+               <div id='charTHEGIANTWHOHADNOHEARTINHISBODY'></div>
+               <div id='charTHELADWHOWENTTOTHENORTHWIND'></div>
+               <div id='charTHEMASTERTHIEF'></div>
+               <div id='charWHYTHESEAISSALT'></div>
             </nav>
          </div>
       </nav>
