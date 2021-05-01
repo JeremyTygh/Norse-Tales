@@ -462,16 +462,16 @@
     <story number="6">
         <title>TAMING THE SHREW</title>
         <body>
-            <p>Once on a time there was a <character>king</character>, and he had a
-                <character>daughter</character> who was such <descriptor speaker="Narrator"
+            <p>Once on a time there was a <character who="King">king</character>, and he had a
+                <character who="Princess">daughter</character> who was such <descriptor speaker="Narrator"
                     subject="Princess" sign="negative">a scold</descriptor>, and whose<fig_lang
                         type="personification" subject="Princess" sign="negative"> tongue went so fast,
                         there was no stopping it</fig_lang>. So he gave out that the man who could stop her
-                tongue should have the Princess to wife, and half his kingdom into the bargain. Now,
+                tongue should have the <character who="Princess">Princess</character> to wife, and half his kingdom into the bargain. Now,
                 three brothers, who heard this, made up their minds to go and try their luck; and first
                 of all the two elder went, for they thought they were the cleverest; but they couldn’t
                 cope with her at all, and got well thrashed besides.</p>
-            <p> Then <character>Boots</character>, the <descriptor speaker="Narrator" subject="Boots" sign="neutral">
+            <p> Then <character who="Boots">Boots</character>, the <descriptor speaker="Narrator" subject="Boots" sign="neutral">
                 youngest</descriptor>, set off, and when he had gone a little way he found an ozier
                 band lying on the road, and he picked it up. When he had gone a little farther he found
                 a piece of a broken plate, and he picked that up too. A little farther on he found a
@@ -492,13 +492,13 @@
                 , said the Princess, <dialogue speaker="Princess" subject="Boots">“there’s no knowing where to have you.”</dialogue></p>
             <p> <dialogue speaker="Boots" subject="Princess">“No, I’m not crooked”</dialogue>, said the lad; <dialogue speaker="Boots" subject="Princess">
                 “but this is”</dialogue>, as he held up one of the horns.</p>
-            <p> <dialogue speaker="Princess" subject="Boots">“Well!”</dialogue> said the Princess, <dialogue speaker="Princess" subject="Boots">“I never saw the match of this in all my days.”</dialogue></p>
+            <p> <dialogue speaker="Princess" subject="Boots">“Well!”</dialogue> said the <character who="Princess">Princess</character>, <dialogue speaker="Princess" subject="Boots">“I never saw the match of this in all my days.”</dialogue></p>
             <p><dialogue speaker="Boots" subject="Princess">“Why here you see the match to it”</dialogue>, said the lad, as he pulled out the other ram’s horn.</p>
             <p><dialogue speaker="Princess" subject="Boots">“I think”</dialogue>, said the Princess, <dialogue speaker="Princess" subject="Boots">“you must have come here to wear out my tongue with your
                 nonsense.”</dialogue></p> 
             <p><dialogue speaker="Boots" subject="Princess">“No, I have not”</dialogue>, said the lad; <dialogue speaker="Boots" subject="Princess">“but this is worn out”</dialogue>, as he pulled out the
                 shoe-sole. To this the Princess hadn’t a word to say, for she had fairly lost her voice
-                with rage. <dialogue subject="Boots" speaker="Princess">“Now you are mine”</dialogue>, said the lad; and so he got the Princess to <action actor="Boots" subject="Princess" sign="positive">wife</action>, and
+                with rage. <dialogue subject="Boots" speaker="Princess">“Now you are mine”</dialogue>, said the lad; and so he got the <character who="Princess">Princess</character> to <action actor="Boots" subject="Princess" sign="positive">wife</action>, and
                 half the kingdom.</p>
         </body>
     </story>
@@ -2815,7 +2815,7 @@
                 given to story-telling, that all their lies went in at one ear and out of the other.
                 Among the rest came three brothers to try their luck, and the two elder went first, but
                 they fared no better than those who had gone before them. Last of all the third,
-                <character>Boots</character>, set off and found the <character>Princess</character>
+                <character>Boots</character>, set off and found the <character who="Princess">Princess</character>
                 in the farm-yard.</p>
             <p><dialogue speaker="Boots" subject="Princess">“Good-morning”, he said, “and thank you for
                 nothing.”</dialogue>
