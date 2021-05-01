@@ -7,6 +7,35 @@
    <title>Tales</title>
    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
    <script type="text/javascript">
+      function addChars(box,charBox) {
+
+         var div = document.getElementById(box);
+         var chardiv = document.getElementById(charBox);
+         var chars = div.getElementsByClassName("character");
+         var word = "";
+         $(chars).each(function (i,obj){
+            word = "";
+            var info = obj.className.split(" ");
+            $(info).each(function (j,item){
+               //console.log(item);
+               if(item != "character"){
+                  
+                  word = word.concat(" ",item);
+                  //console.log(item);
+               }
+               
+            });
+
+            var x = document.createElement("INPUT");
+            x.setAttribute("type", "checkbox");
+            x.setAttribute("checked","false");
+            x.setAttribute("name",word);
+            chardiv.appendChild(x);
+         });
+
+      }
+   </script>
+   <script type="text/javascript">
       function showMe(box, id) {
 
          var chboxs = document.getElementById(id);
@@ -21,6 +50,8 @@
             document.getElementById(box).style.display = vis;
             document.getElementById("char" + box).style.display = vis;
          }
+
+         addChars(box, "char" + box);
 
       }
    </script>
@@ -175,7 +206,7 @@
          var chboxs = document.getElementById(id);
 
          if (chboxs.checked) {
-            $("descneg").each(function (i, obj) {
+            $(".descneg").each(function (i, obj) {
                obj.style.fontStyle = "italic";
             });
             $(".descpos").each(function (i, obj) {
@@ -189,7 +220,7 @@
             });
          }
          else {
-            $("descneg").each(function (i, obj) {
+            $(".descneg").each(function (i, obj) {
                obj.style.fontStyle = "normal";
             });
             $(".descpos").each(function (i, obj) {
@@ -211,7 +242,7 @@
          var chboxs = document.getElementById(id);
 
          if (chboxs.checked) {
-            $("misneg").each(function (i, obj) {
+            $(".misneg").each(function (i, obj) {
                obj.style.textDecoration = "underline";
             });
             $(".mispos").each(function (i, obj) {
@@ -225,7 +256,7 @@
             });
          }
          else {
-            $("misneg").each(function (i, obj) {
+            $(".misneg").each(function (i, obj) {
                obj.style.textDecoration = "none";
             });
             $(".mispos").each(function (i, obj) {
@@ -269,7 +300,7 @@
             
             <p><span class="descneu">Once on a time
                   there was a <span class="Father character">man</span> who had three sons,
-                  <span class=" character">Peter</span>, <span class=" character">Paul</span>, and <span class="Boots character">John</span>. John was Boots, of course, because he was the
+                  <span class="Peter character">Peter</span>, <span class="Paul character">Paul</span>, and <span class="Boots character">John</span>. John was Boots, of course, because he was the
                   youngest.</span>
                <span class="descneg">I can’t say the man had
                   anything more than these three sons, for he hadn’t one penny to rub against
@@ -3587,8 +3618,8 @@
 
                <div id='charBOOTSANDHISBROTHERS' style='display: none;'>
                   <ul>
-                     <li><input type="checkbox" class="c" onclick="showChar('')"></input>
-                        <label ><span class="action">Character 1</span> </label>
+                     <li>
+      
                      </li>
                      <li><input type="checkbox" class="c" onclick="showChar('')"></input>
                         <label > <span class = "desc">Character 2</span></label>

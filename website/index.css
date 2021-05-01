@@ -123,6 +123,9 @@ footer {
   display: block;
 }
 
+.descimg {
+  color: black;
+}
 
 li {
     list-style-type: none;
