@@ -64,7 +64,7 @@
             width="30"
             height="30"
             fill-opacity="0.7"
-            fill="gold"
+            fill="purple"
             stroke="black"/>
       <text x="300" y="-60" font-size="35" text-anchor="start">Positive</text>
       <text x="300" y="-120" font-size="35" text-anchor="start">Negative</text>
@@ -73,7 +73,7 @@
             y="-105"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 100, -100)"/>

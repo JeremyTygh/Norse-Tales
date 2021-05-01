@@ -200,7 +200,7 @@
             width="30"
             height="30"
             fill-opacity="0.7"
-            fill="gold"
+            fill="purple"
             stroke="black"/>
       <text x="1100" y="-60" font-size="35" text-anchor="start">Positive</text>
       <text x="1100" y="-120" font-size="35" text-anchor="start">Negative</text>
@@ -209,7 +209,7 @@
             y="-105"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 100, -100)"/>
@@ -223,7 +223,7 @@
             y="-205"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 100, -200)"/>
@@ -243,7 +243,7 @@
             y="-405"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 100, -400)"/>
@@ -257,7 +257,7 @@
             y="-505"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 100, -500)"/>
@@ -271,7 +271,7 @@
             y="-605"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 100, -600)"/>
@@ -285,7 +285,7 @@
             y="-105"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 200, -100)"/>
@@ -299,7 +299,7 @@
             y="-205"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 200, -200)"/>
@@ -313,7 +313,7 @@
             y="-305"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 200, -300)"/>
@@ -327,7 +327,7 @@
             y="-405"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 200, -400)"/>
@@ -341,7 +341,7 @@
             y="-505"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 200, -500)"/>
@@ -355,7 +355,7 @@
             y="-605"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 200, -600)"/>
@@ -369,7 +369,7 @@
             y="-105"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 300, -100)"/>
@@ -383,7 +383,7 @@
             y="-205"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 300, -200)"/>
@@ -397,7 +397,7 @@
             y="-305"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 300, -300)"/>
@@ -429,7 +429,7 @@
             y="-105"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 400, -100)"/>
@@ -443,7 +443,7 @@
             y="-205"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 400, -200)"/>
@@ -457,7 +457,7 @@
             y="-305"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 400, -300)"/>
@@ -477,7 +477,7 @@
             y="-505"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 400, -500)"/>
@@ -491,7 +491,7 @@
             y="-605"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 400, -600)"/>
@@ -511,7 +511,7 @@
             y="-205"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 500, -200)"/>
@@ -531,7 +531,7 @@
             y="-405"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 500, -400)"/>
@@ -545,7 +545,7 @@
             y="-505"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 500, -500)"/>
@@ -559,7 +559,7 @@
             y="-605"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 500, -600)"/>
@@ -573,7 +573,7 @@
             y="-105"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 600, -100)"/>
@@ -587,7 +587,7 @@
             y="-205"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 600, -200)"/>
@@ -601,7 +601,7 @@
             y="-305"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 600, -300)"/>
@@ -615,7 +615,7 @@
             y="-405"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 600, -400)"/>
@@ -629,7 +629,7 @@
             y="-505"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 600, -500)"/>
@@ -643,7 +643,7 @@
             y="-605"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 600, -600)"/>
@@ -657,7 +657,7 @@
             y="-105"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 700, -100)"/>
@@ -671,7 +671,7 @@
             y="-205"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 700, -200)"/>
@@ -685,7 +685,7 @@
             y="-305"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 700, -300)"/>
@@ -699,7 +699,7 @@
             y="-405"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 700, -400)"/>
@@ -713,7 +713,7 @@
             y="-505"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 700, -500)"/>
@@ -727,7 +727,7 @@
             y="-605"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 700, -600)"/>
@@ -741,7 +741,7 @@
             y="-105"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 800, -100)"/>
@@ -755,7 +755,7 @@
             y="-205"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 800, -200)"/>
@@ -769,7 +769,7 @@
             y="-305"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 800, -300)"/>
@@ -789,7 +789,7 @@
             y="-505"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 800, -500)"/>
@@ -803,7 +803,7 @@
             y="-605"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 800, -600)"/>
@@ -817,7 +817,7 @@
             y="-105"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 900, -100)"/>
@@ -831,7 +831,7 @@
             y="-205"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 900, -200)"/>
@@ -845,7 +845,7 @@
             y="-305"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 900, -300)"/>
@@ -859,7 +859,7 @@
             y="-405"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 900, -400)"/>
@@ -873,7 +873,7 @@
             y="-505"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 900, -500)"/>
@@ -887,7 +887,7 @@
             y="-605"
             width="10"
             height="10"
-            fill="gold"
+            fill="purple"
             fill-opacity=".7"
             stroke="black"
             transform="rotate(45 900, -600)"/>
