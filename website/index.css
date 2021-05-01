@@ -61,7 +61,6 @@ h1 {
 .vertical {
     width: 20vw;
     background-image: url(bookCover.jpg);
-    background-size: cover;
     background-repeat: repeat-y;
     border-style: solid;
     border-color: rgb(81, 102, 94);
